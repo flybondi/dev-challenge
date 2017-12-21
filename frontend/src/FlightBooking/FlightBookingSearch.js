@@ -1,0 +1,74 @@
+import React, { Component } from 'react';
+import PassengerCount from './components/PassengerCount';
+import LeavingFrom from './components/LeavingFrom';
+import LowestFares from './components/LowestFares';
+import PriceSlider from './components/PriceSlider';
+import FlightsCombinations from './components/FlightsCombinations';
+import Header from '../App/Header';
+import './FlightBooking.css';
+import { request } from 'graphql-request';
+import { connect } from 'react-redux';
+
+class FlightBookingSearchComp extends Component {
+	constructor(props){
+		super(props);
+		this.state = {
+			ready: false,
+			flight: props.flight
+		}
+	}
+
+	componentDidMount() {
+		let self = this;
+		const lowestFares = `{
+			leavingFrom(airport: "${this.state.flight.origin.value}") {
+				destination,
+				price,
+				destinationCity
+			}
+		}`
+		request('/graphql', lowestFares).then(data => {
+			self.setState({lowestFares:data.leavingFrom, ready: true})
+		})
+	}
+
+	render() {
+		let mainContent = <div className="centered"><h1>Buscando ofertas</h1><div className="spinner"></div></div>
+		if(this.state.ready)
+			mainContent = 	<div>
+								<LeavingFrom origin={this.state.flight.origin.label} />
+								<LowestFares fares={this.state.lowestFares} />
+								<FlightsCombinations />
+							</div>
+		return (
+			<div className="fluid-container flight-search">
+				<div className="yellow-background sidebar">
+					<Header color="white" />
+					<h3>Fecha</h3>
+					<label>Desde</label>
+					<input type="text" value="Cuando sea" disabled="disabled"/>
+					<label>Hasta</label>
+					<input type="text" value="Cuando sea" disabled="disabled"/>
+					<PriceSlider />
+					<h3>Pasajeros</h3>
+					<PassengerCount/>
+				</div>
+				<div className="main">
+					{mainContent}
+				</div>
+			</div>
+		);
+	}
+}
+
+const mapStateToProps = state => {
+	return {
+		flight: state.flightBooking.flight
+	}
+}
+
+const FlightBookingSearch = connect(
+	mapStateToProps
+)(FlightBookingSearchComp);
+
+export default FlightBookingSearch;
