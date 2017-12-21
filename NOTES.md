@@ -27,7 +27,6 @@ npm start
 Acceder a http://localhost:4000/
 
 ### Known bugs
-* Cuando se cambia el destino origen por alguna razón el precio tope escogido se reinicia a 0 en el state pero no así en el query.
 * Quedó un componente atado a React.State en vez de Redux.
 
 ### To-Do
