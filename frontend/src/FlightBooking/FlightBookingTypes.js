@@ -3,3 +3,6 @@ export const ADD_PASSENGER = 'ADD_PASSENGER'
 export const SET_AIRPORT = 'SET_AIRPORT'
 export const SET_ROUNDTRIPS = 'SET_ROUNDTRIPS'
 export const SET_TOPPRICE = 'SET_TOPPRICE'
+export const SET_SHOWINGRESULTS = 'SET_SHOWINGRESULTS'
+export const TOP_PRICE = 90000
+export const SHOWING_RESULTS = 10

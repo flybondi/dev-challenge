@@ -1,31 +1,48 @@
 import React from 'react';
 import { connect } from 'react-redux';
+import { setShowResults } from '../FlightBookingActions'
 
-const FlightsListComp = ({direction, foundCombos}) => {
-	let showing = 10;
+const FlightsListComp = ({direction, foundCombos, showingResults, setShowResults, waitingResults}) => {
 	let totalRows = foundCombos.combos.length;
 	let showingCombos = [];
 	let showLoader = <div/>
 	let showMoreButton = <div />
+	let showNoResults = <div />
 	for(let i=0;i<totalRows;i++) {
 		showingCombos = [...showingCombos, foundCombos.combos[i]]
-		if(i===showing)
+		if(i===showingResults)
 			break;
 	}
-	if(totalRows===0) {
+	if(waitingResults) {
 		showLoader = <div className="spinner"></div>
 	} else {
 		showLoader = <div />
-		if(showingCombos.length<=totalRows)
-			showMoreButton = <button className="load-more">cargar más resultados</button>
+		if(showingResults<totalRows)
+			showMoreButton = <button className="load-more" onClick={() => setShowResults(showingResults+10)}>cargar más resultados</button>
+	}
+	if(!waitingResults&&totalRows===0) {
+		showNoResults = <div>No se encontraron resultados :( </div>
 	}
 
 	return	<div>
 			{showLoader}
+			{showNoResults}
 			{showingCombos.map((item,key) => {
+				let outwardDate = new Date(item.outward.date);
+				let returnDate = new Date(item.return.date);
+
+				let mm = outwardDate.getMonth() + 1;
+				let dd = outwardDate.getDate();
+
+				let mmRet = returnDate.getMonth() + 1; 
+				let ddRet = returnDate.getDate();
+
 				return	<div key={key} className="flight-combo">
-							<div className="price">
-								<span>${item.price}</span>
+							<div className="square-box">
+								<div>
+									<span className="date">{dd}/{mm} - {ddRet}/{mmRet}</span>
+									<span className="price">${item.price}</span>
+								</div>
 							</div>
 							<div className="flight-combination">
 								<div className="trip-part">
@@ -47,15 +64,18 @@ const FlightsListComp = ({direction, foundCombos}) => {
 
 const mapStateToProps = state => {
 	return {
-		foundCombos: state.flightBooking.foundCombos
+		foundCombos: state.flightBooking.foundCombos,
+		showingResults: state.flightBooking.showingResults,
+		waitingResults: state.flightBooking.waitingResults
 	}
 }
 
 const mapDispatchToProps = dispatch => {
 	return {
-//		setFlightCombos: (combos) => {
-//			dispatch(setFlightCombos(combos))
-//		}
+		setShowResults: (show) => {
+			console.log('a')
+			dispatch(setShowResults(show))
+		}
 	}
 }
 

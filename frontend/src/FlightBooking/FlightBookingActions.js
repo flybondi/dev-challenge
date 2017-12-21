@@ -1,4 +1,4 @@
-import { ADD_PASSENGER, REMOVE_PASSENGER, SET_AIRPORT, SET_ROUNDTRIPS, SET_TOPPRICE } from './FlightBookingTypes'
+import { ADD_PASSENGER, REMOVE_PASSENGER, SET_AIRPORT, SET_ROUNDTRIPS, SET_TOPPRICE, SET_SHOWINGRESULTS } from './FlightBookingTypes'
 
 /**
  * Add passenger with ageRange specified
@@ -48,5 +48,15 @@ export const setTopPrice = (price) => {
 	return {
 		type: SET_TOPPRICE,
 		price
+	}
+}
+
+/**
+ * Set results to show
+ */
+export const setShowResults = (show) => {
+	return {
+		type: SET_SHOWINGRESULTS,
+		show
 	}
 }

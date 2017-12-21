@@ -82,13 +82,20 @@ body.quick-search {
 				padding: 0.5em;
 			}
 		}
-		& .price {
-			font-size: 1.5em;
-			font-weight: bold;
+		& .square-box {
 			text-align: center;
 			display: flex;
 			align-items: center;
 			justify-content: center;
+			& .price {
+				display: block;
+				font-size: 1.5em;
+				font-weight: bold;
+			}
+			& .date {
+				display: block;
+				white-space: nowrap;
+			}
 		}
 		& .trip-part {
 			width: 100%;

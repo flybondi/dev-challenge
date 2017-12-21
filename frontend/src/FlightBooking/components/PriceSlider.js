@@ -27,7 +27,7 @@ const sliderHandle = (props) => {
 const PriceSliderComp = ({ priceRangeMax, setTopPrice }) => {
 	return	<div>
 				<h3>Precio</h3>
-				<Slider dots step={100} allowCross={false} defaultValue={priceRangeMax} min={0} max={priceRangeMax} handle={sliderHandle} onAfterChange={(event) => setTopPrice(event)} />
+				<Slider dots step={100} allowCross={false} defaultValue={Math.ceil(priceRangeMax/100)*100} min={0} max={Math.ceil(priceRangeMax/100)*100} handle={sliderHandle} onAfterChange={(event) => setTopPrice(event)} />
 			</div>
 }
 

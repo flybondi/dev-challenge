@@ -60,13 +60,18 @@ body.quick-search {
         text-transform: uppercase;
         font-size: 1em;
         padding: 0.5em; }
-    .flight-search .flight-combo .price {
-      font-size: 1.5em;
-      font-weight: bold;
+    .flight-search .flight-combo .square-box {
       text-align: center;
       display: flex;
       align-items: center;
       justify-content: center; }
+      .flight-search .flight-combo .square-box .price {
+        display: block;
+        font-size: 1.5em;
+        font-weight: bold; }
+      .flight-search .flight-combo .square-box .date {
+        display: block;
+        white-space: nowrap; }
     .flight-search .flight-combo .trip-part {
       width: 100%;
       display: inline-grid;
