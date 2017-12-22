@@ -5,35 +5,33 @@ import Slider from 'rc-slider';
 import { setTopPrice } from '../FlightBookingActions'
 import 'rc-slider/assets/index.css';
 
-const createSliderWithTooltip = Slider.createSliderWithTooltip;
-const Range = createSliderWithTooltip(Slider.Range);
 const Handle = Slider.Handle;
+
+const PriceSliderComponent = ({ priceRangeMax, setTopPrice, topPrice, waitingResults }) => {
+	let sliderRender = <div className="slider-loading"></div>
+	if(!waitingResults)
+		sliderRender = <Slider dots step={100} allowCross={false} defaultValue={topPrice} min={0} max={Math.ceil(priceRangeMax/100)*100} handle={sliderHandle} onAfterChange={(event) => setTopPrice(event)} />
+
+	return	<div>
+				<h3>Precio</h3>
+				{sliderRender}
+			</div>
+}
 
 const sliderHandle = (props) => {
 	const { value, dragging, index, ...restProps } = props;
 	return (
-		<Tooltip
-			prefixCls="rc-slider-tooltip"
-			overlay={value}
-			visible={dragging}
-			placement="top"
-			key={index}
-		>
+		<Tooltip prefixCls="rc-slider-tooltip" overlay={value} visible={dragging} placement="top" key={index} >
 			<Handle value={value} {...restProps} />
 		</Tooltip>
 	);
 };
 
-const PriceSliderComp = ({ priceRangeMax, setTopPrice }) => {
-	return	<div>
-				<h3>Precio</h3>
-				<Slider dots step={100} allowCross={false} defaultValue={Math.ceil(priceRangeMax/100)*100} min={0} max={Math.ceil(priceRangeMax/100)*100} handle={sliderHandle} onAfterChange={(event) => setTopPrice(event)} />
-			</div>
-}
-
 const mapStateToProps = state => {
 	return {
-		priceRangeMax: state.flightBooking.foundCombos.priceRangeMax
+		priceRangeMax: state.flightBooking.foundCombos.priceRangeMax,
+		topPrice: state.flightBooking.topPrice,
+		waitingResults: state.flightBooking.waitingResults
 	}
 }
 
@@ -45,9 +43,7 @@ const mapDispatchToProps = dispatch => {
 	}
 }
 
-const PriceSlider = connect(
+export const PriceSlider = connect(
 	mapStateToProps,
 	mapDispatchToProps
-)(PriceSliderComp)
-
-export default PriceSlider;
+)(PriceSliderComponent)

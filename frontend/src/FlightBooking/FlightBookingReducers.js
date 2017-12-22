@@ -1,4 +1,4 @@
-import { ADD_PASSENGER, REMOVE_PASSENGER, SET_AIRPORT, SET_ROUNDTRIPS, SET_TOPPRICE, SET_SHOWINGRESULTS, SHOWING_RESULTS, TOP_PRICE } from './FlightBookingTypes'
+import { ADD_PASSENGER, REMOVE_PASSENGER, SET_AIRPORT, SET_ROUNDTRIPS, SET_TOPPRICE, SET_SHOWINGRESULTS, SET_AIRPORTLIST, SHOWING_RESULTS, TOP_PRICE } from './FlightBookingTypes'
 
 /**
  * Initial state for Flight Booking,
@@ -20,7 +20,8 @@ const initialSearchState = {
 	topPrice: TOP_PRICE,
 	showingResults: SHOWING_RESULTS,
 	waitingResults: true,
-	foundCombos: { combos: [], priceRangeMax: 90000 }
+	foundCombos: { combos: [], priceRangeMax: 90000 },
+	airports: []
 }
 
 const flightBooking = (state = initialSearchState, action) => {
@@ -50,6 +51,9 @@ const flightBooking = (state = initialSearchState, action) => {
 		case SET_SHOWINGRESULTS:
 			let showingResults = action.show
 			return { ...state, showingResults: showingResults}
+		case SET_AIRPORTLIST:
+			let airportList = action.list
+			return { ...state, airports: airportList}
 		default:
 			return state;
 	}

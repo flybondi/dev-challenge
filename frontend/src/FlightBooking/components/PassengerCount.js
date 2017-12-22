@@ -11,7 +11,7 @@ const PassengerInput = ({ addHandler, removeHandler, value, label }) => {
 			</div>
 }
 
-const PassengersCount = ({ addPassenger, removePassenger, count }) => {
+const PassengerComponent = ({ addPassenger, removePassenger, count }) => {
  	return	<div className="passenger-count-wrapper">
 				<PassengerInput removeHandler={() => removePassenger('adult')} addHandler={() => addPassenger('adult')} value={count.adult} label="Adultos" />
 				<PassengerInput removeHandler={() => removePassenger('children')} addHandler={() => addPassenger('children')} value={count.children} label="Niños" />
@@ -37,9 +37,6 @@ const countPassengersByAgeRange = (passengers) => {
 	return count
 }
 
-/**
- * Redux -> 
- */
 const mapStateToProps = state => {
 	return {
 		count: countPassengersByAgeRange(state.flightBooking.passengers)
@@ -57,12 +54,7 @@ const mapDispatchToProps = dispatch => {
 	}
 }
 
-const PassengerCountInputs = connect(
+export const PassengerCount = connect(
 	mapStateToProps,
 	mapDispatchToProps
-)(PassengersCount)
-
-/** 
- * <- Redux
- */
-export default PassengerCountInputs;
+)(PassengerComponent)

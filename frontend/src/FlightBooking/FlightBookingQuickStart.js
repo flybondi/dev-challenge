@@ -1,41 +1,16 @@
 import React, { Component } from 'react';
-import PassengerCount from './components/PassengerCount'
-import AirportsSelect from './components/AirportsSelect'
-import Header from '../App/Header'
-import './FlightBooking.css'
-import { request } from 'graphql-request'
-import { Link } from 'react-router-dom'
+import { PassengerCount, AirportsSelect } from './components';
+import Header from '../App/Header';
+import './FlightBooking.css';
+import { Link } from 'react-router-dom';
 
 class FlightBookingQuickStart extends Component {
-	constructor(props){
-		super(props);
-		this.state = {
-			airports_options: []
-		}
-	}
-
 	componentWillMount() {
 		document.getElementById('body').className='quick-search'
 	}
 
 	componentWillUnmount() {
 		document.getElementById('body').className=''
-	}
-
-	componentDidMount() {
-		let self = this;
-		const airportsQuery = `{
-			airports {
-				iata,
-				city
-			}
-		}`
-		request('/graphql', airportsQuery).then(data => {
-			let selectAirports = data.airports.map(airport => {
-				return {value:airport.iata,label:airport.city}
-			})
-			self.setState({airports_options:selectAirports})
-		})
 	}
 
 	render() {
@@ -46,7 +21,7 @@ class FlightBookingQuickStart extends Component {
 					<div className="departure-destination row">
 						<div>
 							<label>Desde</label><br />
-							<AirportsSelect type="origin" airports={this.state.airports_options} />
+							<AirportsSelect type="origin" />
 						</div>
 						<div className="centered">
 							<br />

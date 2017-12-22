@@ -26,9 +26,6 @@ npm start
 
 Acceder a http://localhost:4000/
 
-### Known bugs
-* Quedó un componente atado a React.State en vez de Redux.
-
 ### To-Do
 * Modularizar el API, está todo en un archivo debido a la simpleza del mismo y los tiempos de desarollo.
 * Filtro por fechas
@@ -36,6 +33,3 @@ Acceder a http://localhost:4000/
 * Al hacer build del API no importa el Frontend dado que no es un producto desarrollado para producción.
 * Integrar Flow en Frontend. GraphQL ya posee validación de los tipos de contenido recibidos/enviados.
 * Separación de SSR y CSR en React.
-
-### Side Notes
-Debido a que todo el flujo y el UI se fue pensando durante el desarrollo, algunos componentes quedaron poco prolijos.

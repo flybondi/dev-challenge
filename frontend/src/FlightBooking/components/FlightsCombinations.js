@@ -4,31 +4,15 @@ import { request } from 'graphql-request';
 import { setRoundTrips } from './../FlightBookingActions';
 import FlightsList from './FlightsList';
 
-const FlightsCombinationsComp = ({flight, passengers, setRoundTrips, topPrice}) => {
+const FlightsCombinationsComponent = ({flight, passengers, setRoundTrips, topPrice}) => {
 	if(flight.destination===false) 
 		return <div/>
 	else {
-		const roundtripsQuery = `{
-									roundtrips(origin:"${flight.origin.value}",destination:"${flight.destination.value}",pax: ${passengers.length}, topPrice: ${topPrice}) {
-										priceRangeMax,
-										combos {
+		const roundtripsQuery = `{ roundtrips(origin:"${flight.origin.value}",destination:"${flight.destination.value}",pax: ${passengers.length}, topPrice: ${topPrice}) {
+										priceRangeMax, combos {
 											price,
-	    									outward {
-												origin
-												destination
-												destinationCity
-												price
-												availability
-												date
-											},
-											return {
-												origin
-												destination
-												destinationCity
-												price
-												availability
-												date
-											}
+											outward { origin, destination, destinationCity, price, availability, date },
+											return { origin, destination, destinationCity, price, availability, date }
 										}
 									}
 								}`
@@ -59,9 +43,7 @@ const mapDispatchToProps = dispatch => {
 	}
 }
 
-const FlightsCombinations = connect(
+export const FlightsCombinations = connect(
 	mapStateToProps,
 	mapDispatchToProps
-)(FlightsCombinationsComp);
-
-export default FlightsCombinations;
+)(FlightsCombinationsComponent);

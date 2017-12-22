@@ -1,9 +1,5 @@
 import React, { Component } from 'react';
-import PassengerCount from './components/PassengerCount';
-import LeavingFrom from './components/LeavingFrom';
-import LowestFares from './components/LowestFares';
-import PriceSlider from './components/PriceSlider';
-import FlightsCombinations from './components/FlightsCombinations';
+import { PassengerCount, LowestFares, FlightsCombinations, PriceSlider, AirportsSelect } from './components';
 import Header from '../App/Header';
 import './FlightBooking.css';
 import { request } from 'graphql-request';
@@ -20,13 +16,7 @@ class FlightBookingSearchComp extends Component {
 
 	componentDidMount() {
 		let self = this;
-		const lowestFares = `{
-			leavingFrom(airport: "${this.state.flight.origin.value}") {
-				destination,
-				price,
-				destinationCity
-			}
-		}`
+		const lowestFares = `{leavingFrom(airport: "${this.state.flight.origin.value}") {destination,price,destinationCity}}`
 		request('/graphql', lowestFares).then(data => {
 			self.setState({lowestFares:data.leavingFrom, ready: true})
 		})
@@ -36,7 +26,7 @@ class FlightBookingSearchComp extends Component {
 		let mainContent = <div className="centered"><h1>Buscando ofertas</h1><div className="spinner"></div></div>
 		if(this.state.ready)
 			mainContent = 	<div>
-								<LeavingFrom origin={this.state.flight.origin.label} />
+								<h1>Saliendo de {this.state.flight.origin.label} </h1>
 								<LowestFares fares={this.state.lowestFares} />
 								<FlightsCombinations />
 							</div>

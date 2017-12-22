@@ -44,6 +44,13 @@ body {
  	}
 }
 
+.slider-loading {
+	display:block;
+	height: 4px;
+	margin-top:14px;
+	background-color: $darkerYellow;
+}
+
 .spinner {
 	width: 40px;
 	height: 40px;

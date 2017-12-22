@@ -2,7 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { setAirport } from './../FlightBookingActions';
 
-const LowestFaresComp = ({fares, setAirport}) => {
+const LowestFaresComponent = ({fares, setAirport}) => {
 	return	<div className="special-fare-wrapper">
 			{fares.map((fare, key) => {
 				let thisBoxStyle = {
@@ -32,9 +32,7 @@ const mapDispatchToProps = dispatch => {
 	}
 }
 
-const LowestFares = connect(
+export const LowestFares = connect(
 	mapStateToProps,
 	mapDispatchToProps
-)(LowestFaresComp);
-
-export default LowestFares;
+)(LowestFaresComponent);
