@@ -4,7 +4,7 @@ const schema = buildSchema(`
 		flight(id: Int): Flight,
 		airports: [Airport],
 		leavingFrom(airport: String): [Flight]
-		roundtrips(origin: String, destination: String, pax: Int, topPrice: Float = 0): Roundtrip
+		roundtrips(origin: String, destination: String, pax: Int, topPrice: Float = 0, startDate: String, endDate: String, flexible: Boolean): Roundtrip
 	}
 	type Airport {
 		iata: String,

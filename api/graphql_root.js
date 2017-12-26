@@ -1,5 +1,6 @@
 import db from './fakeDB';
 import _ from 'lodash';
+import moment from 'moment';
 
 const root = {
 	/**
@@ -40,11 +41,25 @@ const root = {
 	/**
 	 * Roundtrips combinations
 	 */
-	roundtrips: ({origin, destination, pax, topPrice}) => {
+	roundtrips: ({origin, destination, pax, topPrice, startDate, endDate, flexible}) => {
 		return new Promise((resolve, reject) => {
+			let startDateQuery = '';
+			let endDateQuery = '';
+			if(!flexible) {
+				startDateQuery = `AND date="${startDate}"`;
+				endDateQuery = `AND date="${endDate}"`;
+			} else {
+				let startDateStart = moment(startDate).subtract(5, 'days').format('YYYY-MM-DD');
+				let startDateEnd = moment(startDate).add(5, 'days').format('YYYY-MM-DD');
+				let endDateStart = moment(endDate).subtract(5, 'days').format('YYYY-MM-DD');
+				let endDateEnd = moment(endDate).add(5, 'days').format('YYYY-MM-DD');
+
+				startDateQuery = `AND date BETWEEN "${startDateStart}" AND "${startDateEnd}"`;
+				endDateQuery = `AND date BETWEEN "${endDateStart}" AND "${endDateEnd}"`;
+			}
 			db.all(`SELECT * FROM flights 
-					WHERE (availability >= ${pax} AND origin='${origin}' AND destination='${destination}') 
-					OR  (availability >= ${pax} AND origin='${destination}' AND destination='${origin}') 
+					WHERE (availability >= ${pax} AND origin='${origin}' AND destination='${destination}' ${startDateQuery}) 
+					OR  (availability >= ${pax} AND origin='${destination}' AND destination='${origin}' ${endDateQuery}) 
 					ORDER BY date ASC LIMIT 100`, (err, flights) => {
 				let outwardflights = []
 				let returnflights = []

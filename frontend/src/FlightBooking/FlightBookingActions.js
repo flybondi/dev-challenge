@@ -1,4 +1,4 @@
-import { ADD_PASSENGER, REMOVE_PASSENGER, SET_AIRPORT, SET_ROUNDTRIPS, SET_TOPPRICE, SET_SHOWINGRESULTS, SET_AIRPORTLIST } from './FlightBookingTypes'
+import { ADD_PASSENGER, REMOVE_PASSENGER, SET_AIRPORT, SET_ROUNDTRIPS, SET_TOPPRICE, SET_SHOWINGRESULTS, SET_AIRPORTLIST, SET_DATE, SET_DATEFOCUSEDINPUT, SET_FLEXIBLEDATES } from './FlightBookingTypes'
 
 /**
  * Add passenger with ageRange specified
@@ -68,5 +68,38 @@ export const setAirportList = (list) => {
 	return {
 		type: SET_AIRPORTLIST,
 		list
+	}
+}
+
+/**
+ * Set Date @airbnb
+ */
+export const setDate = (startDate, endDate) => {
+	console.log(startDate)
+	console.log(endDate)
+	return {
+		type: SET_DATE,
+		startDate,
+		endDate
+	}
+}
+
+/**
+ * Set Focused Input Date Picker @airbnb
+ */
+export const setDateFocusedInput = (focusedInput) => {
+	return {
+		type: SET_DATEFOCUSEDINPUT,
+		focusedInput
+	}
+}
+
+/**
+ * Toggle flexible dates
+ */
+export const toggleFlexibleDates = (checked) => {
+	return {
+		type: SET_FLEXIBLEDATES,
+		checked
 	}
 }

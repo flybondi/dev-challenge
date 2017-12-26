@@ -28,7 +28,6 @@ Acceder a http://localhost:4000/
 
 ### To-Do
 * Modularizar el API, está todo en un archivo debido a la simpleza del mismo y los tiempos de desarollo.
-* Filtro por fechas
 * Rutas con multi-stop. Si bien se muestra el "desde" a la hora de elegir destino no hay lógica armada para estas rutas. Solo la ruta multi-stop más barata utilizando algoritmo de Dijkstra.
 * Al hacer build del API no importa el Frontend dado que no es un producto desarrollado para producción.
 * Integrar Flow en Frontend. GraphQL ya posee validación de los tipos de contenido recibidos/enviados.

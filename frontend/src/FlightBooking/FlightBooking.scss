@@ -8,6 +8,19 @@ body.quick-search {
 	display: grid;
 	grid-template-columns: 280px auto;
 
+	& .DateRangePickerInput {
+		background: unset;
+	}
+
+	& .DateInput {
+		background: unset;
+		width: auto;
+	}
+
+	& .DateRangePickerInput_arrow {
+		display:none;
+	}
+
 	& .sidebar {
 		& input, label {
 			display:block;

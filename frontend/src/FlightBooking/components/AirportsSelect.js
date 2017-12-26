@@ -5,7 +5,7 @@ import Select from 'react-select';
 import 'react-select/dist/react-select.css';
 
 const AirportsSelectComponent = ({type, airports, setAirport, value}) => {
-	return	<Select onChange={(event) => setAirport(event, type)} options={airports} value={value[type]} placeholder=""/>
+	return	<Select onChange={(event) => setAirport({event, type})} options={airports} value={value[type]} placeholder=""/>
 }
 
 const mapStateToProps = state => {
@@ -17,8 +17,8 @@ const mapStateToProps = state => {
 
 const mapDispatchToProps = dispatch => {
 	return {
-		setAirport: (value,type) => {
-			dispatch(setAirport(value,type))
+		setAirport: ({event,type}) => {
+			dispatch(setAirport(event,type))
 		}
 	}
 }

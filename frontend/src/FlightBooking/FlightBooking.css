@@ -4,6 +4,13 @@ body.quick-search {
 .flight-search {
   display: grid;
   grid-template-columns: 280px auto; }
+  .flight-search .DateRangePickerInput {
+    background: unset; }
+  .flight-search .DateInput {
+    background: unset;
+    width: auto; }
+  .flight-search .DateRangePickerInput_arrow {
+    display: none; }
   .flight-search .sidebar input, .flight-search .sidebar label {
     display: block;
     width: 90%; }

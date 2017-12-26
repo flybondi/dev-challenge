@@ -1,4 +1,5 @@
-import { ADD_PASSENGER, REMOVE_PASSENGER, SET_AIRPORT, SET_ROUNDTRIPS, SET_TOPPRICE, SET_SHOWINGRESULTS, SET_AIRPORTLIST, SHOWING_RESULTS, TOP_PRICE } from './FlightBookingTypes'
+import { ADD_PASSENGER, REMOVE_PASSENGER, SET_AIRPORT, SET_ROUNDTRIPS, SET_TOPPRICE, SET_SHOWINGRESULTS, SET_AIRPORTLIST, SHOWING_RESULTS, TOP_PRICE, SET_DATEFOCUSEDINPUT, SET_DATE, SET_FLEXIBLEDATES } from './FlightBookingTypes'
+import moment from 'moment';
 
 /**
  * Initial state for Flight Booking,
@@ -10,7 +11,10 @@ import { ADD_PASSENGER, REMOVE_PASSENGER, SET_AIRPORT, SET_ROUNDTRIPS, SET_TOPPR
 const initialSearchState = {
 	flight: {
 		origin: {value:'EPA',label:'Buenos Aires'},
-		destination: false
+		destination: false,
+		flexible: true,
+		startDate: moment().add(1, 'days'),
+		endDate: moment().add(7, 'days')
 	},
 	passengers: [
 		{
@@ -27,8 +31,7 @@ const initialSearchState = {
 const flightBooking = (state = initialSearchState, action) => {
 	switch(action.type) {
 		case ADD_PASSENGER:
-			let passengersAdded = [...state.passengers, {ageRange:action.ageRange}]
-			return { ...state, waitingResults: true, passengers: passengersAdded, foundCombos: {...state.foundCombos, combos: [] } }
+			return { ...state, waitingResults: true, passengers: [...state.passengers, {ageRange:action.ageRange}], foundCombos: {...state.foundCombos, combos: [] } }
 		case REMOVE_PASSENGER:
 			let passengersRemoved = [...state.passengers]
 			for(let i=1;i<state.passengers.length;i++) { // At least one passenger is required, so we don't iterate through the first one (the Adult)
@@ -39,21 +42,21 @@ const flightBooking = (state = initialSearchState, action) => {
 			}
 			return { ...state, waitingResults: true, passengers: passengersRemoved, foundCombos: {...state.foundCombos, combos: [] } }
 		case SET_AIRPORT:
-			let flight = {...state.flight}
-			flight[action.section] = action.airport
-			return { ...state, waitingResults: true, flight: flight, foundCombos: {...state.foundCombos, combos: [] } }
+			return { ...state, waitingResults: true, flight: {...state.flight, [action.section]:action.airport}, foundCombos: {...state.foundCombos, combos: [] } }
 		case SET_ROUNDTRIPS:
-			let foundCombos = action.roundtrips
-			return { ...state, waitingResults: false, foundCombos: foundCombos, showingResults: SHOWING_RESULTS }
+			return { ...state, waitingResults: false, foundCombos: action.roundtrips, showingResults: SHOWING_RESULTS }
 		case SET_TOPPRICE:
-			let topPrice = action.price
-			return { ...state, waitingResults: true, topPrice: topPrice, foundCombos: { ...state.foundCombos, combos: [] } }
+			return { ...state, waitingResults: true, topPrice: action.price, foundCombos: { ...state.foundCombos, combos: [] } }
 		case SET_SHOWINGRESULTS:
-			let showingResults = action.show
-			return { ...state, showingResults: showingResults}
+			return { ...state, showingResults: action.show}
 		case SET_AIRPORTLIST:
-			let airportList = action.list
-			return { ...state, airports: airportList}
+			return { ...state, airports: action.list}
+		case SET_DATE: 
+			return { ...state, flight: {...state.flight, startDate: action.startDate, endDate: action.endDate }}
+		case SET_DATEFOCUSEDINPUT:
+			return { ...state, waitingResults: true, flight: {...state.flight, focusedInput: action.focusedInput}, foundCombos: {...state.foundCombos, combos: [] } }
+		case SET_FLEXIBLEDATES:
+			return { ...state, flight: {...state.flight, flexible: action.checked }}
 		default:
 			return state;
 	}

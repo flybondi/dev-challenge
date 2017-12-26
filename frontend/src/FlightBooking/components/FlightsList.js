@@ -1,6 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import { setShowResults } from '../FlightBookingActions'
+import moment from 'moment'
 
 const FlightsListComp = ({direction, foundCombos, showingResults, setShowResults, waitingResults}) => {
 	let totalRows = foundCombos.combos.length;
@@ -28,19 +29,13 @@ const FlightsListComp = ({direction, foundCombos, showingResults, setShowResults
 			{showLoader}
 			{showNoResults}
 			{showingCombos.map((item,key) => {
-				let outwardDate = new Date(item.outward.date);
-				let returnDate = new Date(item.return.date);
-
-				let mm = outwardDate.getMonth() + 1;
-				let dd = outwardDate.getDate();
-
-				let mmRet = returnDate.getMonth() + 1; 
-				let ddRet = returnDate.getDate();
+				let outwardDate = moment(item.outward.date);
+				let returnDate = moment(item.return.date);
 
 				return	<div key={key} className="flight-combo">
 							<div className="square-box">
 								<div>
-									<span className="date">{dd}/{mm} - {ddRet}/{mmRet}</span>
+									<span className="date">{outwardDate.format('DD/MM')} - {returnDate.format('DD/MM')}</span>
 									<span className="price">${item.price}</span>
 								</div>
 							</div>

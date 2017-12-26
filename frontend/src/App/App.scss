@@ -32,6 +32,16 @@ body {
 	}
 }
 
+.checkbox-input {
+	width: 100%;
+	display: inline-grid;
+	grid-template-columns: 30px auto;
+
+	& * {
+		text-align: left;
+	}
+}
+
 .yellow-background {
  	& .rc-slider-track {
  		background-color: $darkerYellow;

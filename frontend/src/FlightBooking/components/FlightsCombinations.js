@@ -3,12 +3,19 @@ import { connect } from 'react-redux';
 import { request } from 'graphql-request';
 import { setRoundTrips } from './../FlightBookingActions';
 import FlightsList from './FlightsList';
+import moment from 'moment'
 
 const FlightsCombinationsComponent = ({flight, passengers, setRoundTrips, topPrice}) => {
 	if(flight.destination===false) 
 		return <div/>
 	else {
-		const roundtripsQuery = `{ roundtrips(origin:"${flight.origin.value}",destination:"${flight.destination.value}",pax: ${passengers.length}, topPrice: ${topPrice}) {
+		let startDate = null;
+		let endDate = null;
+		if(flight.startDate!==null) {
+			startDate = moment(flight.startDate).format('YYYY-MM-DD')
+			endDate = moment(flight.endDate).format('YYYY-MM-DD')
+		}
+		const roundtripsQuery = `{ roundtrips(origin:"${flight.origin.value}",destination:"${flight.destination.value}",pax: ${passengers.length}, topPrice: ${topPrice}, startDate: "${startDate}", endDate: "${endDate}", flexible: ${flight.flexible}) {
 										priceRangeMax, combos {
 											price,
 											outward { origin, destination, destinationCity, price, availability, date },

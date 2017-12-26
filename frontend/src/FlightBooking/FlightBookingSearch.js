@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { PassengerCount, LowestFares, FlightsCombinations, PriceSlider, AirportsSelect } from './components';
+import { PassengerCount, LowestFares, FlightsCombinations, PriceSlider, AirportsSelect, DatePicker } from './components';
 import Header from '../App/Header';
 import './FlightBooking.css';
 import { request } from 'graphql-request';
@@ -34,11 +34,7 @@ class FlightBookingSearchComp extends Component {
 			<div className="fluid-container flight-search">
 				<div className="yellow-background sidebar">
 					<Header color="white" />
-					<h3>Fecha</h3>
-					<label>Desde</label>
-					<input type="text" value="Cuando sea" disabled="disabled"/>
-					<label>Hasta</label>
-					<input type="text" value="Cuando sea" disabled="disabled"/>
+					<DatePicker />
 					<PriceSlider />
 					<h3>Pasajeros</h3>
 					<PassengerCount/>
