@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import "variables";
+
+html, body, #root, .router-container, .fixed-container, .fluid-container {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+
+/* HELPERS */
+
+.align-right,
+.align-right * {
+	text-align: right;
+}
+
+.centered,
+.centered * {
+	text-align: center;
+}
+
+.yellow-background {
+	background-color: $primaryYellow;
+	& * {
+		color: $primaryGrey;
+	}
+}
+
+.checkbox-input {
+	width: 100%;
+	display: inline-grid;
+	grid-template-columns: 30px auto;
+
+	& * {
+		text-align: left;
+	}
+}
+
+.yellow-background {
+ 	& .rc-slider-track {
+ 		background-color: $darkerYellow;
+ 	}
+ 	& .rc-slider-dot-active {
+ 		border-color: $darkerYellow;
+ 	}
+ 	& .rc-slider-handle {
+ 		border-color: $darkerYellow;
+ 	}
+}
+
+.slider-loading {
+	display:block;
+	height: 4px;
+	margin-top:14px;
+	background-color: $darkerYellow;
+}
+
+.spinner {
+	width: 40px;
+	height: 40px;
+	margin: 100px auto;
+	background-color: $primaryYellow;
+
+	border-radius: 100%;  
+	-webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
+	animation: sk-scaleout 1.0s infinite ease-in-out;
+}
+
+@-webkit-keyframes sk-scaleout {
+	0% { -webkit-transform: scale(0) }
+	100% {
+		-webkit-transform: scale(1.0);
+		opacity: 0;
+	}
+}
+
+@keyframes sk-scaleout {
+	0% { 
+		-webkit-transform: scale(0);
+		transform: scale(0);
+	} 100% {
+		-webkit-transform: scale(1.0);
+		transform: scale(1.0);
+		opacity: 0;
+	}
+}
+
+/* STRUCTURE */
+
+body {
+	background-position: center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
+h3 {
+	margin-bottom: 0.5em;
+	text-transform: uppercase;
+}
+
+.fixed-container {
+	max-width: 1280px;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.fluid-container {
+	max-width: 100%;
+}
+
+.main {
+	padding: 2em 3em;
+}
+
+.sidebar {
+	padding: 1em;
+}
+
+.brand {
+	& .logo {
+		max-height: 2.5em;
+		padding: 1.5em 0;
+	}
+}
+
+.row {
+	padding: 1em 2em;
+	display: flex;
+}
+
+.col {
+	flex-grow: 1;
+}
+
+/* ELEMENTS */
+.fa-plane.rotated {
+	transform: rotate(45deg);
+}
+
+.load-more {
+	display: block;
+	background-color: unset;
+	border: 1px solid #ccc;
+	padding: 1em;
+	font-size: 1em;
+	width: 100%;
+	text-align: center;
+	margin: 1em auto;
+	
+}
+
+.btn-submit {
+	background-color: $lighterGrey;
+	color: $primaryGrey;
+	border: none;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

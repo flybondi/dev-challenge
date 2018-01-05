@@ -1,0 +1,273 @@
+@import '../app/_variables';
+
+body.quick-search {
+	background-image: url('../imgs/portal-background-sky.png');
+}
+
+.flight-search {
+	display: grid;
+	grid-template-columns: 280px auto;
+
+	& .DateRangePickerInput {
+		background: unset;
+	}
+
+	& .DateInput {
+		background: unset;
+		width: auto;
+	}
+
+	& .DateRangePickerInput_arrow {
+		display:none;
+	}
+
+	& .sidebar {
+		& input, label {
+			display:block;
+			width:90%;
+		}
+		& input {
+			background-color: $darkerYellow;
+			border: none;
+			padding: 0.5em;
+			margin-bottom: 1em;
+			color: white;
+			font-size:1em;
+		}
+	}
+	.passenger-count-wrapper {
+		text-align: center;
+	}
+	h1 {
+		
+	}
+	& .special-fare-wrapper {
+		display: inline-grid;
+		grid-auto-flow: column;
+		grid-column-gap: 10px;
+		grid-row-gap: 10px;
+	}
+	& .special-fare-box {
+		cursor: pointer;
+		display: inline-block;
+		position: relative;
+		width: 212px;
+		height: 300px;
+		background-size: cover;
+		background-position: center;
+		color: white;
+		& .text-wrapper {
+			padding: 0.5em;
+			position: absolute;
+			bottom: 0;
+			text-shadow: 1px 1px #000000;
+		}
+	}
+
+	& .flight-selector {
+		& > hr {
+			border: none;
+			background: unset;
+			margin-top: 50px;
+		}
+	}
+
+	& .flight-combo {
+		background-color: #f8f8f8;
+		border-bottom: 20px solid #efefef;
+		margin-bottom: 0.5em;
+		padding: 1em 1em 1em 0;
+		display: inline-grid;
+		grid-template-columns: 150px auto 150px;
+		width:100%;
+		max-width: 800px;
+		& .callToAction {
+			text-align:center;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			button {
+				border: 1px solid #fff;
+				background-color: $primaryYellow;
+				color: white;
+				text-transform: uppercase;
+				font-size: 1em;
+				padding: 0.5em;
+			}
+		}
+		& .square-box {
+			text-align: center;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			& .price {
+				display: block;
+				font-size: 1.5em;
+				font-weight: bold;
+			}
+			& .date {
+				display: block;
+				white-space: nowrap;
+			}
+		}
+		& .trip-part {
+			width: 100%;
+			display: inline-grid;
+			grid-template-columns: auto auto 30px auto auto ;
+			text-align:center;
+		}
+		& .flight-combination hr {
+			border-color: black;
+		}
+	}
+}
+
+.boarding-pass,
+.flight-search {
+	.passenger-count-wrapper {
+		width:100%;
+		display: grid;
+		grid-template-columns: 33% 33% 33%;
+	}
+
+	.passenger-count {
+		line-height: 1.5em;
+		&> label {
+			display: block;
+		}
+		&> span {
+			display: inline-block;
+			width: 2em;
+			text-align: center;
+			font-size: 1em;
+		}
+		&> button {
+			background-color: unset;
+			border: none;
+			padding: 0;
+			&> i {
+				font-size: 1.3em;
+				color: $darkerYellow;
+			}
+		}
+	}
+}
+
+.boarding-pass {
+	border-radius: $boardingPassBorderRadius;
+	background-color: white;
+	width: 100%;
+	max-width: 780px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	& label {
+		color: $primaryGrey;
+		text-transform: uppercase;
+		font-size: 0.8em;
+	}
+
+	& i.animated {
+		font-size: 1.5em;
+		line-height: 1.5em;
+		margin: auto 1em;
+		color: #ccc;
+		animation: flying 2s linear infinite;
+		animation-name: flying;
+		animation-duration: 2s;
+		animation-timing-function: linear;
+		animation-delay: initial;
+		animation-iteration-count: infinite;
+		animation-direction: initial;
+		animation-fill-mode: initial;
+		animation-play-state: initial;
+		-webkit-animation: flying 2s linear infinite;
+	}
+
+	.departure-destination {
+		display: grid;
+		grid-template-columns: 45% 10% 45%;
+		& input, span.legend, .Select-control {
+			line-height: 1.5em;
+			border: none;
+			border-bottom: 1px solid #ccc;
+			color: $primaryYellow;
+			width: 100%;
+			display: block;
+			border-radius: 0;
+		}
+		& .legend {
+			font-size: 1.5em;
+			font-family: 'Pacifico', cursive;
+		}
+		& .Select-control * {
+			color: $primaryYellow !important;
+		}
+		& .Select-value-label {
+			font-size: 1.5em;
+		}
+	}
+
+	a.search {
+		display: inline-block;
+		padding: 0.25em 0 0.25em 0;
+		width: 2em;
+		border-radius: 50%;
+		text-align: center;
+		font-size: 1.5em;	
+		&> i {
+			font-size: 1em;	
+		}
+	}
+
+	.bottom {
+		border-bottom-right-radius: $boardingPassBorderRadius;
+		border-bottom-left-radius: $boardingPassBorderRadius;
+	}
+
+}
+
+
+/* ANIMATION: FLYING; */
+
+@-webkit-keyframes flying {
+  0% {
+    -webkit-transform: translateX(-80%);
+    transform: translateX(-80%) rotate(45deg);
+    opacity: 0;
+  }
+
+  50% {
+    -webkit-transform: translateX(0%);
+    transform: translateX(0%) rotate(45deg);
+    opacity: 1;
+  }
+
+  100% {
+    -webkit-transform: translateX(80%);
+    transform: translateX(80%) rotate(45deg);
+    opacity: 0;
+  }
+}
+
+@keyframes flying {
+  0% {
+    -webkit-transform: translateX(-80%);
+    -ms-transform: translateX(-80%);
+    transform: translateX(-80%) rotate(45deg);
+    opacity: 0;
+  }
+
+  50% {
+    -webkit-transform: translateX(0%);
+    -ms-transform: translateX(0%);
+    transform: translateX(0%) rotate(45deg);
+    opacity: 1;
+  }
+
+  100% {
+    -webkit-transform: translateX(80%);
+    -ms-transform: translateX(80%);
+    transform: translateX(80%) rotate(45deg);
+    opacity: 0;
+  }
+}
