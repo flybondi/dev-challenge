@@ -6,7 +6,7 @@ const LowestFaresComponent = ({fares, setAirport}) => {
 	return	<div className="special-fare-wrapper">
 			{fares.map((fare, key) => {
 				let thisBoxStyle = {
-					backgroundImage: `url(http://localhost:4000/places/${fare.destination}.png)`
+					backgroundImage: `url(/places/${fare.destination}.png)`
 				}
 				return	<div key={key} className="special-fare-box" style={thisBoxStyle} onClick={() => setAirport({value:fare.destination,label:fare.destinationCity},'destination')}>
 							<div className="text-wrapper">

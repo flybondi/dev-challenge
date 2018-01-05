@@ -3,7 +3,7 @@ import fs from 'fs';
 import dijkstra from 'node-dijkstra';
 
 const db = new sqlite3.Database(':memory:');
-const FlightsDataset = JSON.parse(fs.readFileSync('../dataset.json', 'utf8'));
+const FlightsDataset = JSON.parse(fs.readFileSync(process.env.DATASET, 'utf8'));
 const dijkstraCalc = new dijkstra()
 
 db.serialize(function() {

@@ -15,7 +15,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'build')));
 
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+  res.sendFile(path.join(__dirname, 'build', process.env.REACT_ROUTE));
 });
 
 app.use('/graphql', graphqlHTTP({
@@ -24,7 +24,7 @@ app.use('/graphql', graphqlHTTP({
 	graphiql: true
 }));
 
-app.listen(4000);
+app.listen(process.env.PORT);
 
 /**
  * Kill or Close detection

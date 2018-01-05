@@ -15,6 +15,11 @@ yarn install
 npm install
 ```
 
+## Env Variables
+* PORT: Puerto donde se sirve la aplicación
+* REACT_ROUTE: Ruta al index.html generador por CRA
+* DATASET: Ruta al archivo .json del dataset
+
 ## Run
 El backend corre en el root el build del frontend. Solo es necesario correr el backend.
 ```sh
