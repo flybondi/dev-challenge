@@ -1,6 +1,6 @@
 <img
   style="padding: 1em"
-  src="https://integration.enbondi.com/assets/images/logo.svg" height="80" 
+  src="https://flybondi.com/assets/images/logo.svg" height="80" 
 />
 
 # Code challenge
