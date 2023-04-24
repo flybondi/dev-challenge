@@ -1,0 +1,28 @@
+name: Update dataset
+on: 
+  schedule:
+    - cron: "30 09 1 * *"
+jobs:
+  bump-dates:
+    runs-on: ubuntu-latest
+    container: node:16
+    steps:
+        - name: run script
+          uses: actions/checkout@v3
+        - run: node bump-dates.js
+
+        - name: setup github config
+          run: |
+            git config --global user.name "${{ env.USER }}"
+            git config --global user.email "${{ env.EMAIL }}"
+            git config --global safe.directory '*'
+
+        - name: commit changes
+          run: |
+            git add dataset.json
+            git commit -m "feat: bump dataset dates"
+            git push origin master
+    env:
+        USER: ${{ secrets.USER }}
+        EMAIL: ${{ secrets.EMAIL }}
+      
