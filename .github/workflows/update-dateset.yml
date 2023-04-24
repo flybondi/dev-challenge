@@ -17,12 +17,18 @@ jobs:
             git config --global user.email "${{ env.EMAIL }}"
             git config --global safe.directory '*'
 
-        - name: commit changes
-          run: |
-            git add dataset.json
-            git commit -m "feat: bump dataset dates"
-            git push origin master
+        - name: Create Pull Request
+          uses: peter-evans/create-pull-request@v5
+          with:
+            token: ${{ secrets.GITHUB_TOKEN }}
+            commit-message: 'chore: bump dataset dates'
+            title: 'chore: bump dataset dates'
+            branch: 'chore/bump-dataset-dates'
+            delete-branch: true
+            body: >
+              This PR was auto-generated
+            labels: automated pr
     env:
-        USER: ${{ secrets.USER }}
-        EMAIL: ${{ secrets.EMAIL }}
+        USER: ${{ secrets.GIT_USERNAME }}
+        EMAIL: ${{ secrets.GIT_EMAIL }}
       
