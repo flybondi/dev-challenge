@@ -7,7 +7,7 @@ dataSet.map(item => {
     const min = Math.round(Math.random() * 60) 
     const date = new Date(item.date)
 
-    date.setFullYear(date.getFullYear() + 2);
+    date.setFullYear(date.setMonth + 6);
     date.setHours(hour, min)
     item.date = date.toISOString()
 

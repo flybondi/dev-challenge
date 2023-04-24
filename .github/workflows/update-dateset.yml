@@ -1,7 +1,7 @@
 name: Update dataset
 on: 
   schedule:
-    - cron: "30 09 1 * *"
+    - cron: "30 09 1 10,4 *"
 jobs:
   bump-dates:
     runs-on: ubuntu-latest
