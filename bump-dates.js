@@ -1,6 +1,6 @@
 'use strict'
 const  fs = require('fs')
-const dataSet = JSON.parse(fs.readFileSync("../dataset.json", "utf8"));
+const dataSet = JSON.parse(fs.readFileSync("./dataset.json", "utf8"));
 
 dataSet.map(item => {
     const hour = Math.round(Math.random() * 24)
@@ -13,4 +13,4 @@ dataSet.map(item => {
 
 })
 
-fs.writeFileSync("../dataset.json", JSON.stringify(dataSet, null, 2));
+fs.writeFileSync("./dataset.json", JSON.stringify(dataSet, null, 2));
