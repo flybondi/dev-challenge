@@ -1,0 +1,34 @@
+name: Update dataset
+on: 
+  schedule:
+    - cron: "30 09 1 10,4 *"
+jobs:
+  bump-dates:
+    runs-on: ubuntu-latest
+    container: node:16
+    steps:
+        - name: run script
+          uses: actions/checkout@v3
+        - run: node bump-dates.js
+
+        - name: setup github config
+          run: |
+            git config --global user.name "${{ env.USER }}"
+            git config --global user.email "${{ env.EMAIL }}"
+            git config --global safe.directory '*'
+
+        - name: Create Pull Request
+          uses: peter-evans/create-pull-request@v5
+          with:
+            token: ${{ secrets.GITHUB_TOKEN }}
+            commit-message: 'chore: bump dataset dates'
+            title: 'chore: bump dataset dates'
+            branch: 'chore/bump-dataset-dates'
+            delete-branch: true
+            body: >
+              This PR was auto-generated
+            labels: automated pr
+    env:
+        USER: ${{ secrets.GIT_USERNAME }}
+        EMAIL: ${{ secrets.GIT_EMAIL }}
+      
