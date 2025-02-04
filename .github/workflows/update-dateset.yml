@@ -1,7 +1,10 @@
 name: Update dataset
 on: 
   schedule:
-    - cron: "30 09 1 10,4 *"
+    # Runs on the 1st day of each month at 9:30 AM UTC
+    # This prevents GitHub from disabling the workflow due to inactivity
+    # See: https://docs.github.com/es/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/disabling-and-enabling-a-workflow
+    - cron: "30 09 1 * *" 
 jobs:
   bump-dates:
     runs-on: ubuntu-latest
