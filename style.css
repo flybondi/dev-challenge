@@ -1,0 +1,109 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #e0f7fa; /* azul claro de fondo */
+  color: #012f41; /* azul oscuro para texto */
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #00796b; /* verde azulado */
+  color: #fff;
+  padding: 25px 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.filtros {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background: #004d40; /* verde oscuro */
+  padding: 20px;
+  flex-wrap: wrap;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.filtros label {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-weight: bold;
+}
+
+.filtros input[type="range"] {
+  margin-top: 5px;
+}
+
+.filtros select {
+  margin-top: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #ffd54f; /* amarillo suave */
+  border: none;
+  padding: 10px 25px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #ffb300;
+}
+
+#resultados {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 25px;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: left;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h3 {
+  background: #ffd54f;
+  color: #000;
+  display: inline-block;
+  padding: 7px 12px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  margin: 6px 0;
+  font-size: 0.95rem;
+}
+
+.card button {
+  margin-top: 12px;
+  width: 100%;
+  background: #00796b;
+  color: #fff;
+  font-weight: bold;
+}
+
+.card button:hover {
+  background: #004d40;
+}
