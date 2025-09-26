@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Flybondi Challenge - Nelsona</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Veamos donde podes viajar con tu presupuesto</h1>
+    <p>Elegí tu presupuesto y cuántas personas viajan. ¡Listo!</p>
+  </header>
+
+  <section class="filtros">
+    <label>
+  Presupuesto total (ida y vuelta): 
+  <input type="number" id="presupuesto" min="100" max="1000" value="800" step="50">
+</label>
+
+
+    <label>
+      Personas:
+      <select id="personas">
+        <option value="1">1 (solo yo)</option>
+        <option value="2">2</option>
+        <option value="4">4 (familia)</option>
+      </select>
+    </label>
+
+    <label>
+      Origen:
+      <select id="origen">
+        <option value="">Cualquiera</option>
+        <option value="Buenos Aires">Buenos Aires</option>
+        <option value="Córdoba">Córdoba</option>
+        <option value="Mendoza">Mendoza</option>
+      </select>
+    </label>
+
+    <button id="buscarBtn">Encontrar viajes</button>
+  </section>
+
+  <section id="resultados"></section>
+
+  <script src="app.js"></script>
+</body>
+</html>
