@@ -1,7244 +1,7244 @@
 [
   {
-    "date": "2025-10-15T15:53:00.000Z",
+    "date": "2025-11-15T21:53:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 474.05,
     "availability": 9
   },
   {
-    "date": "2025-10-14T07:06:00.000Z",
+    "date": "2025-11-14T10:59:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 197.68,
     "availability": 2
   },
   {
-    "date": "2025-10-15T01:04:00.000Z",
+    "date": "2025-11-15T11:59:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 300.3,
     "availability": 1
   },
   {
-    "date": "2025-10-19T12:58:00.000Z",
+    "date": "2025-11-19T13:37:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 373.19,
     "availability": 6
   },
   {
-    "date": "2025-10-19T01:55:00.000Z",
+    "date": "2025-11-19T16:07:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 191.74,
     "availability": 7
   },
   {
-    "date": "2025-10-21T18:55:00.000Z",
+    "date": "2025-11-21T10:21:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 215.89,
     "availability": 8
   },
   {
-    "date": "2025-10-15T22:08:00.000Z",
+    "date": "2025-11-16T00:12:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 498.97,
     "availability": 2
   },
   {
-    "date": "2025-10-16T21:09:00.000Z",
+    "date": "2025-11-16T13:13:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 327.07,
     "availability": 6
   },
   {
-    "date": "2025-10-17T19:35:00.000Z",
+    "date": "2025-11-17T11:27:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 335.29,
     "availability": 5
   },
   {
-    "date": "2025-10-18T20:16:00.000Z",
+    "date": "2025-11-18T18:23:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 284.86,
     "availability": 1
   },
   {
-    "date": "2025-10-17T11:31:00.000Z",
+    "date": "2025-11-17T23:37:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 399.34,
     "availability": 9
   },
   {
-    "date": "2025-10-18T10:30:00.000Z",
+    "date": "2025-11-18T04:34:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 459.26,
     "availability": 9
   },
   {
-    "date": "2025-10-25T07:44:00.000Z",
+    "date": "2025-11-25T22:10:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 168.63,
     "availability": 8
   },
   {
-    "date": "2025-10-26T20:53:00.000Z",
+    "date": "2025-11-26T20:36:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 204.47,
     "availability": 9
   },
   {
-    "date": "2025-10-25T22:19:00.000Z",
+    "date": "2025-11-25T17:53:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 440.26,
     "availability": 5
   },
   {
-    "date": "2025-10-20T16:32:00.000Z",
+    "date": "2025-11-20T14:46:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 277.06,
     "availability": 3
   },
   {
-    "date": "2025-10-20T22:46:00.000Z",
+    "date": "2025-11-20T07:50:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 453.05,
     "availability": 5
   },
   {
-    "date": "2025-10-20T16:00:00.000Z",
+    "date": "2025-11-20T07:16:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 213.52,
     "availability": 7
   },
   {
-    "date": "2025-10-15T14:04:00.000Z",
+    "date": "2025-11-15T02:42:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 298.25,
     "availability": 4
   },
   {
-    "date": "2025-10-17T15:12:00.000Z",
+    "date": "2025-11-17T07:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 352.73,
     "availability": 6
   },
   {
-    "date": "2025-10-16T12:08:00.000Z",
+    "date": "2025-11-16T06:57:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 336.71,
     "availability": 4
   },
   {
-    "date": "2025-10-17T17:35:00.000Z",
+    "date": "2025-11-17T03:44:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 229.48,
     "availability": 2
   },
   {
-    "date": "2025-10-18T10:50:00.000Z",
+    "date": "2025-11-18T03:56:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 483.83,
     "availability": 2
   },
   {
-    "date": "2025-10-17T17:50:00.000Z",
+    "date": "2025-11-17T01:39:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 252.05,
     "availability": 6
   },
   {
-    "date": "2025-10-27T07:07:00.000Z",
+    "date": "2025-11-27T05:34:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 287.99,
     "availability": 3
   },
   {
-    "date": "2025-10-27T12:26:00.000Z",
+    "date": "2025-11-27T18:42:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 401.16,
     "availability": 4
   },
   {
-    "date": "2025-10-26T08:53:00.000Z",
+    "date": "2025-11-26T01:59:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 390.96,
     "availability": 5
   },
   {
-    "date": "2025-10-27T19:55:00.000Z",
+    "date": "2025-11-27T02:27:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 357,
     "availability": 3
   },
   {
-    "date": "2025-10-27T13:28:00.000Z",
+    "date": "2025-11-27T22:49:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 162.85,
     "availability": 4
   },
   {
-    "date": "2025-10-27T21:49:00.000Z",
+    "date": "2025-11-27T04:29:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 196.39,
     "availability": 5
   },
   {
-    "date": "2025-10-24T12:21:00.000Z",
+    "date": "2025-11-24T17:33:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 492.82,
     "availability": 6
   },
   {
-    "date": "2025-10-24T21:31:00.000Z",
+    "date": "2025-11-24T18:35:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 435.74,
     "availability": 9
   },
   {
-    "date": "2025-10-24T07:03:00.000Z",
+    "date": "2025-11-24T12:46:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 354.13,
     "availability": 3
   },
   {
-    "date": "2025-10-25T13:30:00.000Z",
+    "date": "2025-11-25T07:47:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 335.83,
     "availability": 2
   },
   {
-    "date": "2025-10-22T22:14:00.000Z",
+    "date": "2025-11-22T19:12:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 407.09,
     "availability": 3
   },
   {
-    "date": "2025-10-23T02:08:00.000Z",
+    "date": "2025-11-23T17:04:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 319.94,
     "availability": 3
   },
   {
-    "date": "2025-11-04T00:40:00.000Z",
+    "date": "2025-12-04T02:23:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 417.6,
     "availability": 1
   },
   {
-    "date": "2025-11-02T04:37:00.000Z",
+    "date": "2025-12-02T08:26:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 415.8,
     "availability": 2
   },
   {
-    "date": "2025-11-02T10:15:00.000Z",
+    "date": "2025-12-02T20:09:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 390.77,
     "availability": 7
   },
   {
-    "date": "2025-11-01T00:35:00.000Z",
+    "date": "2025-12-01T18:24:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 290.93,
     "availability": 2
   },
   {
-    "date": "2025-11-02T05:15:00.000Z",
+    "date": "2025-12-02T07:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 289.3,
     "availability": 4
   },
   {
-    "date": "2025-11-01T13:15:00.000Z",
+    "date": "2025-12-01T05:43:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 196.18,
     "availability": 3
   },
   {
-    "date": "2025-10-24T12:40:00.000Z",
+    "date": "2025-11-24T10:39:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 203.56,
     "availability": 8
   },
   {
-    "date": "2025-10-23T06:29:00.000Z",
+    "date": "2025-11-24T00:09:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 364.48,
     "availability": 6
   },
   {
-    "date": "2025-10-23T18:51:00.000Z",
+    "date": "2025-11-23T10:48:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 335.77,
     "availability": 9
   },
   {
-    "date": "2025-10-21T21:59:00.000Z",
+    "date": "2025-11-21T23:10:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 456.26,
     "availability": 7
   },
   {
-    "date": "2025-10-21T13:42:00.000Z",
+    "date": "2025-11-21T15:13:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 395.67,
     "availability": 7
   },
   {
-    "date": "2025-10-21T11:37:00.000Z",
+    "date": "2025-11-21T09:14:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 448.25,
     "availability": 3
   },
   {
-    "date": "2025-11-01T06:50:00.000Z",
+    "date": "2025-12-01T10:36:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 270.12,
     "availability": 3
   },
   {
-    "date": "2025-11-03T00:50:00.000Z",
+    "date": "2025-12-04T00:29:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 345.12,
     "availability": 9
   },
   {
-    "date": "2025-11-02T21:00:00.000Z",
+    "date": "2025-12-02T07:36:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 434.13,
     "availability": 6
   },
   {
-    "date": "2025-11-03T01:50:00.000Z",
+    "date": "2025-12-03T22:47:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 299.28,
     "availability": 4
   },
   {
-    "date": "2025-11-04T05:19:00.000Z",
+    "date": "2025-12-04T20:02:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 433.98,
     "availability": 9
   },
   {
-    "date": "2025-11-03T02:39:00.000Z",
+    "date": "2025-12-03T21:49:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 373.12,
     "availability": 6
   },
   {
-    "date": "2025-10-28T02:23:00.000Z",
+    "date": "2025-11-28T15:05:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 327.93,
     "availability": 5
   },
   {
-    "date": "2025-10-28T22:10:00.000Z",
+    "date": "2025-11-28T15:21:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 448.2,
     "availability": 2
   },
   {
-    "date": "2025-10-28T04:53:00.000Z",
+    "date": "2025-11-28T13:18:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 433.94,
     "availability": 8
   },
   {
-    "date": "2025-11-05T09:43:00.000Z",
+    "date": "2025-12-05T14:19:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 341.23,
     "availability": 6
   },
   {
-    "date": "2025-11-05T06:23:00.000Z",
+    "date": "2025-12-05T23:57:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 415.79,
     "availability": 3
   },
   {
-    "date": "2025-11-05T01:20:00.000Z",
+    "date": "2025-12-05T14:23:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 164.21,
     "availability": 8
   },
   {
-    "date": "2025-11-10T19:20:00.000Z",
+    "date": "2025-12-10T02:03:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 416.69,
     "availability": 6
   },
   {
-    "date": "2025-11-11T17:10:00.000Z",
+    "date": "2025-12-11T12:18:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 442.13,
     "availability": 6
   },
   {
-    "date": "2025-11-12T21:01:00.000Z",
+    "date": "2025-12-12T07:34:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 188.68,
     "availability": 6
   },
   {
-    "date": "2025-11-04T14:03:00.000Z",
+    "date": "2025-12-04T06:28:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 391.23,
     "availability": 5
   },
   {
-    "date": "2025-11-06T09:36:00.000Z",
+    "date": "2025-12-06T20:35:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 279.98,
     "availability": 8
   },
   {
-    "date": "2025-11-06T08:27:00.000Z",
+    "date": "2025-12-06T16:14:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 222.73,
     "availability": 4
   },
   {
-    "date": "2025-11-10T16:53:00.000Z",
+    "date": "2025-12-10T15:49:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 261.96,
     "availability": 7
   },
   {
-    "date": "2025-11-12T02:27:00.000Z",
+    "date": "2025-12-12T17:21:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 403.83,
     "availability": 5
   },
   {
-    "date": "2025-11-10T07:47:00.000Z",
+    "date": "2025-12-10T14:39:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 187.81,
     "availability": 4
   },
   {
-    "date": "2025-11-06T18:27:00.000Z",
+    "date": "2025-12-06T01:33:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 417.33,
     "availability": 2
   },
   {
-    "date": "2025-11-06T13:51:00.000Z",
+    "date": "2025-12-06T18:09:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 414.04,
     "availability": 4
   },
   {
-    "date": "2025-11-06T21:18:00.000Z",
+    "date": "2025-12-06T21:21:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 402.36,
     "availability": 3
   },
   {
-    "date": "2025-11-12T20:53:00.000Z",
+    "date": "2025-12-12T10:51:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 432.29,
     "availability": 3
   },
   {
-    "date": "2025-11-13T22:44:00.000Z",
+    "date": "2025-12-13T04:39:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 296.15,
     "availability": 5
   },
   {
-    "date": "2025-11-13T13:57:00.000Z",
+    "date": "2025-12-13T08:07:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 406.01,
     "availability": 2
   },
   {
-    "date": "2025-11-08T14:16:00.000Z",
+    "date": "2025-12-08T23:40:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 226.38,
     "availability": 7
   },
   {
-    "date": "2025-11-06T16:36:00.000Z",
+    "date": "2025-12-06T02:30:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 232.95,
     "availability": 2
   },
   {
-    "date": "2025-11-07T15:44:00.000Z",
+    "date": "2025-12-07T01:40:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 156.73,
     "availability": 7
   },
   {
-    "date": "2025-11-02T04:25:00.000Z",
+    "date": "2025-12-02T14:15:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 375.78,
     "availability": 4
   },
   {
-    "date": "2025-11-02T13:45:00.000Z",
+    "date": "2025-12-02T02:49:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 214.08,
     "availability": 7
   },
   {
-    "date": "2025-11-02T07:24:00.000Z",
+    "date": "2025-12-02T02:27:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 326.67,
     "availability": 3
   },
   {
-    "date": "2025-11-16T06:21:00.000Z",
+    "date": "2025-12-16T01:35:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 292.02,
     "availability": 7
   },
   {
-    "date": "2025-11-16T17:03:00.000Z",
+    "date": "2025-12-16T10:52:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 376.21,
     "availability": 5
   },
   {
-    "date": "2025-11-17T00:49:00.000Z",
+    "date": "2025-12-17T03:07:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 207.88,
     "availability": 9
   },
   {
-    "date": "2025-11-20T20:27:00.000Z",
+    "date": "2025-12-20T05:20:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 196.49,
     "availability": 8
   },
   {
-    "date": "2025-11-19T15:19:00.000Z",
+    "date": "2025-12-19T04:56:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 396.9,
     "availability": 7
   },
   {
-    "date": "2025-11-20T23:21:00.000Z",
+    "date": "2025-12-20T04:39:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 224.62,
     "availability": 4
   },
   {
-    "date": "2025-11-10T06:50:00.000Z",
+    "date": "2025-12-10T22:16:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 335.94,
     "availability": 3
   },
   {
-    "date": "2025-11-08T01:08:00.000Z",
+    "date": "2025-12-08T14:27:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 473.09,
     "availability": 1
   },
   {
-    "date": "2025-11-08T18:53:00.000Z",
+    "date": "2025-12-08T04:33:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 368.3,
     "availability": 4
   },
   {
-    "date": "2025-11-22T15:32:00.000Z",
+    "date": "2025-12-22T02:48:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 266.02,
     "availability": 1
   },
   {
-    "date": "2025-11-22T23:46:00.000Z",
+    "date": "2025-12-22T13:02:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 455.07,
     "availability": 1
   },
   {
-    "date": "2025-11-22T03:33:00.000Z",
+    "date": "2025-12-22T11:14:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 394.3,
     "availability": 4
   },
   {
-    "date": "2025-11-15T14:33:00.000Z",
+    "date": "2025-12-15T09:46:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 197.38,
     "availability": 2
   },
   {
-    "date": "2025-11-15T20:17:00.000Z",
+    "date": "2025-12-15T02:39:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 387.25,
     "availability": 8
   },
   {
-    "date": "2025-11-15T13:14:00.000Z",
+    "date": "2025-12-15T06:57:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 230.1,
     "availability": 9
   },
   {
-    "date": "2025-11-19T07:42:00.000Z",
+    "date": "2025-12-19T13:35:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 269.71,
     "availability": 1
   },
   {
-    "date": "2025-11-19T00:30:00.000Z",
+    "date": "2025-12-19T12:44:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 468.44,
     "availability": 4
   },
   {
-    "date": "2025-11-19T16:14:00.000Z",
+    "date": "2025-12-19T04:12:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 328.71,
     "availability": 5
   },
   {
-    "date": "2025-11-14T17:53:00.000Z",
+    "date": "2025-12-14T08:44:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 306.84,
     "availability": 4
   },
   {
-    "date": "2025-11-14T18:11:00.000Z",
+    "date": "2025-12-14T03:49:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 262.49,
     "availability": 7
   },
   {
-    "date": "2025-11-15T02:06:00.000Z",
+    "date": "2025-12-15T07:50:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 407.2,
     "availability": 7
   },
   {
-    "date": "2025-11-09T15:38:00.000Z",
+    "date": "2025-12-09T20:37:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 202.48,
     "availability": 7
   },
   {
-    "date": "2025-11-10T23:21:00.000Z",
+    "date": "2025-12-10T02:16:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 152.68,
     "availability": 5
   },
   {
-    "date": "2025-11-10T15:41:00.000Z",
+    "date": "2025-12-10T12:56:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 435.9,
     "availability": 4
   },
   {
-    "date": "2025-11-23T02:20:00.000Z",
+    "date": "2025-12-23T15:31:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 488.91,
     "availability": 5
   },
   {
-    "date": "2025-11-23T21:04:00.000Z",
+    "date": "2025-12-23T06:15:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 267.7,
     "availability": 3
   },
   {
-    "date": "2025-11-23T10:09:00.000Z",
+    "date": "2025-12-23T03:35:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 279.36,
     "availability": 9
   },
   {
-    "date": "2025-12-06T23:06:00.000Z",
+    "date": "2026-01-06T06:36:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 276.11,
     "availability": 9
   },
   {
-    "date": "2025-12-06T22:18:00.000Z",
+    "date": "2026-01-06T14:25:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 293.47,
     "availability": 9
   },
   {
-    "date": "2025-12-07T22:45:00.000Z",
+    "date": "2026-01-07T20:29:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 409.17,
     "availability": 3
   },
   {
-    "date": "2025-11-14T00:28:00.000Z",
+    "date": "2025-12-14T13:51:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 374.24,
     "availability": 3
   },
   {
-    "date": "2025-11-13T14:50:00.000Z",
+    "date": "2025-12-13T14:59:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 306.45,
     "availability": 5
   },
   {
-    "date": "2025-11-13T02:52:00.000Z",
+    "date": "2025-12-13T06:29:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 483.94,
     "availability": 1
   },
   {
-    "date": "2025-12-03T13:36:00.000Z",
+    "date": "2026-01-03T23:08:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 451.19,
     "availability": 3
   },
   {
-    "date": "2025-12-04T19:13:00.000Z",
+    "date": "2026-01-04T20:00:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 234.3,
     "availability": 8
   },
   {
-    "date": "2025-12-03T08:51:00.000Z",
+    "date": "2026-01-03T13:44:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 174.9,
     "availability": 5
   },
   {
-    "date": "2025-11-24T16:28:00.000Z",
+    "date": "2025-12-24T10:31:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 470.91,
     "availability": 6
   },
   {
-    "date": "2025-11-24T23:06:00.000Z",
+    "date": "2025-12-24T14:39:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 273.17,
     "availability": 5
   },
   {
-    "date": "2025-11-26T14:58:00.000Z",
+    "date": "2025-12-26T09:41:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 479.43,
     "availability": 7
   },
   {
-    "date": "2025-12-05T14:30:00.000Z",
+    "date": "2026-01-05T11:33:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 399.61,
     "availability": 4
   },
   {
-    "date": "2025-12-06T19:37:00.000Z",
+    "date": "2026-01-07T00:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 362.84,
     "availability": 4
   },
   {
-    "date": "2025-12-05T09:31:00.000Z",
+    "date": "2026-01-05T12:18:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 423.81,
     "availability": 2
   },
   {
-    "date": "2025-11-17T20:25:00.000Z",
+    "date": "2025-12-17T23:37:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 425.81,
     "availability": 7
   },
   {
-    "date": "2025-11-18T11:09:00.000Z",
+    "date": "2025-12-18T19:08:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 466.2,
     "availability": 2
   },
   {
-    "date": "2025-11-17T14:22:00.000Z",
+    "date": "2025-12-17T20:46:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 397.24,
     "availability": 8
   },
   {
-    "date": "2025-11-23T03:05:00.000Z",
+    "date": "2025-12-23T14:26:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 407.8,
     "availability": 2
   },
   {
-    "date": "2025-11-22T04:51:00.000Z",
+    "date": "2025-12-22T12:28:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 164.07,
     "availability": 6
   },
   {
-    "date": "2025-11-20T05:23:00.000Z",
+    "date": "2025-12-20T06:39:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 268.69,
     "availability": 5
   },
   {
-    "date": "2025-11-27T23:43:00.000Z",
+    "date": "2025-12-27T10:34:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 363.38,
     "availability": 5
   },
   {
-    "date": "2025-11-27T01:11:00.000Z",
+    "date": "2025-12-27T21:20:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 423.93,
     "availability": 1
   },
   {
-    "date": "2025-11-28T17:36:00.000Z",
+    "date": "2025-12-28T02:36:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 282.32,
     "availability": 7
   },
   {
-    "date": "2025-12-15T01:57:00.000Z",
+    "date": "2026-01-15T07:04:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 288.29,
     "availability": 6
   },
   {
-    "date": "2025-12-17T07:46:00.000Z",
+    "date": "2026-01-17T23:22:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 228.79,
     "availability": 6
   },
   {
-    "date": "2025-12-15T11:31:00.000Z",
+    "date": "2026-01-15T21:49:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 404.6,
     "availability": 2
   },
   {
-    "date": "2025-11-17T21:22:00.000Z",
+    "date": "2025-12-17T04:10:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 262.17,
     "availability": 4
   },
   {
-    "date": "2025-11-18T11:37:00.000Z",
+    "date": "2025-12-18T16:12:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 214.09,
     "availability": 6
   },
   {
-    "date": "2025-11-17T17:26:00.000Z",
+    "date": "2025-12-18T00:01:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 226.23,
     "availability": 5
   },
   {
-    "date": "2025-12-14T08:12:00.000Z",
+    "date": "2026-01-14T01:00:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 240.97,
     "availability": 2
   },
   {
-    "date": "2025-12-15T03:56:00.000Z",
+    "date": "2026-01-15T10:38:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 481.71,
     "availability": 9
   },
   {
-    "date": "2025-12-14T02:57:00.000Z",
+    "date": "2026-01-14T23:55:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 317.22,
     "availability": 3
   },
   {
-    "date": "2025-12-01T06:37:00.000Z",
+    "date": "2026-01-01T00:36:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 348.44,
     "availability": 1
   },
   {
-    "date": "2025-11-28T16:17:00.000Z",
+    "date": "2025-12-28T07:57:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 227.04,
     "availability": 5
   },
   {
-    "date": "2025-11-29T10:44:00.000Z",
+    "date": "2025-12-29T06:26:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 450.37,
     "availability": 3
   },
   {
-    "date": "2025-12-16T12:05:00.000Z",
+    "date": "2026-01-16T03:03:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 302.03,
     "availability": 4
   },
   {
-    "date": "2025-12-15T01:55:00.000Z",
+    "date": "2026-01-15T09:51:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 337.36,
     "availability": 2
   },
   {
-    "date": "2025-12-16T12:17:00.000Z",
+    "date": "2026-01-16T11:30:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 156.05,
     "availability": 1
   },
   {
-    "date": "2025-11-26T16:48:00.000Z",
+    "date": "2025-12-26T00:26:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 364.98,
     "availability": 9
   },
   {
-    "date": "2025-11-27T02:04:00.000Z",
+    "date": "2025-12-27T14:43:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 249.73,
     "availability": 1
   },
   {
-    "date": "2025-11-26T16:17:00.000Z",
+    "date": "2025-12-26T10:54:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 475.98,
     "availability": 4
   },
   {
-    "date": "2025-12-04T00:26:00.000Z",
+    "date": "2026-01-04T23:12:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 424.15,
     "availability": 6
   },
   {
-    "date": "2025-12-04T04:46:00.000Z",
+    "date": "2026-01-04T22:43:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 204.31,
     "availability": 2
   },
   {
-    "date": "2025-12-04T07:18:00.000Z",
+    "date": "2026-01-04T06:39:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 367.6,
     "availability": 5
   },
   {
-    "date": "2025-12-02T12:51:00.000Z",
+    "date": "2026-01-02T08:25:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 433.53,
     "availability": 4
   },
   {
-    "date": "2025-12-03T16:41:00.000Z",
+    "date": "2026-01-03T20:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 469.08,
     "availability": 2
   },
   {
-    "date": "2025-12-03T00:45:00.000Z",
+    "date": "2026-01-03T02:14:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 192.66,
     "availability": 8
   },
   {
-    "date": "2025-12-23T03:17:00.000Z",
+    "date": "2026-01-23T21:02:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 184.52,
     "availability": 3
   },
   {
-    "date": "2025-12-23T13:23:00.000Z",
+    "date": "2026-01-23T23:09:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 446.64,
     "availability": 4
   },
   {
-    "date": "2025-12-23T05:13:00.000Z",
+    "date": "2026-01-23T06:04:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 170.6,
     "availability": 5
   },
   {
-    "date": "2025-11-25T11:01:00.000Z",
+    "date": "2025-12-25T18:31:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 422.3,
     "availability": 5
   },
   {
-    "date": "2025-11-25T04:08:00.000Z",
+    "date": "2025-12-25T14:50:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 345.29,
     "availability": 6
   },
   {
-    "date": "2025-11-26T15:17:00.000Z",
+    "date": "2025-12-26T10:49:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 359.05,
     "availability": 2
   },
   {
-    "date": "2025-12-25T13:00:00.000Z",
+    "date": "2026-01-25T10:50:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 177.32,
     "availability": 1
   },
   {
-    "date": "2025-12-25T08:31:00.000Z",
+    "date": "2026-01-25T09:14:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 323.24,
     "availability": 3
   },
   {
-    "date": "2025-12-27T02:25:00.000Z",
+    "date": "2026-01-27T17:33:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 356.54,
     "availability": 7
   },
   {
-    "date": "2025-12-01T11:21:00.000Z",
+    "date": "2026-01-01T02:39:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 482.47,
     "availability": 2
   },
   {
-    "date": "2025-12-01T14:33:00.000Z",
+    "date": "2026-01-01T01:47:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 199.83,
     "availability": 1
   },
   {
-    "date": "2025-12-03T23:02:00.000Z",
+    "date": "2026-01-03T16:29:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 260.33,
     "availability": 3
   },
   {
-    "date": "2025-12-25T18:14:00.000Z",
+    "date": "2026-01-25T21:45:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 263.03,
     "availability": 7
   },
   {
-    "date": "2025-12-24T06:14:00.000Z",
+    "date": "2026-01-24T16:45:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 314.09,
     "availability": 5
   },
   {
-    "date": "2025-12-25T05:04:00.000Z",
+    "date": "2026-01-25T02:47:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 176.48,
     "availability": 1
   },
   {
-    "date": "2025-12-01T07:35:00.000Z",
+    "date": "2026-01-01T01:05:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 291.01,
     "availability": 4
   },
   {
-    "date": "2025-12-01T10:44:00.000Z",
+    "date": "2026-01-01T21:24:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 216.01,
     "availability": 4
   },
   {
-    "date": "2025-12-02T10:15:00.000Z",
+    "date": "2026-01-02T16:37:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 191.57,
     "availability": 6
   },
   {
-    "date": "2025-12-13T19:03:00.000Z",
+    "date": "2026-01-13T10:27:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 331.55,
     "availability": 6
   },
   {
-    "date": "2025-12-13T16:22:00.000Z",
+    "date": "2026-01-13T13:48:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 414.46,
     "availability": 1
   },
   {
-    "date": "2025-12-14T13:15:00.000Z",
+    "date": "2026-01-14T19:01:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 276.56,
     "availability": 2
   },
   {
-    "date": "2025-12-01T17:59:00.000Z",
+    "date": "2026-01-01T12:42:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 249.57,
     "availability": 1
   },
   {
-    "date": "2025-12-01T19:16:00.000Z",
+    "date": "2026-01-01T15:15:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 154.23,
     "availability": 6
   },
   {
-    "date": "2025-12-01T04:00:00.000Z",
+    "date": "2026-01-01T13:42:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 469.28,
     "availability": 1
   },
   {
-    "date": "2026-01-03T07:13:00.000Z",
+    "date": "2026-02-03T22:32:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 487.48,
     "availability": 3
   },
   {
-    "date": "2026-01-06T00:20:00.000Z",
+    "date": "2026-02-06T20:27:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 317.28,
     "availability": 4
   },
   {
-    "date": "2026-01-04T06:21:00.000Z",
+    "date": "2026-02-04T17:49:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 196.77,
     "availability": 2
   },
   {
-    "date": "2025-12-03T18:57:00.000Z",
+    "date": "2026-01-03T13:03:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 214.54,
     "availability": 1
   },
   {
-    "date": "2025-12-02T23:20:00.000Z",
+    "date": "2026-01-02T22:38:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 406.97,
     "availability": 8
   },
   {
-    "date": "2025-12-02T19:20:00.000Z",
+    "date": "2026-01-02T20:11:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 222.19,
     "availability": 1
   },
   {
-    "date": "2026-01-05T03:25:00.000Z",
+    "date": "2026-02-05T03:16:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 228.89,
     "availability": 1
   },
   {
-    "date": "2026-01-05T14:50:00.000Z",
+    "date": "2026-02-05T19:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 371.04,
     "availability": 1
   },
   {
-    "date": "2026-01-06T15:07:00.000Z",
+    "date": "2026-02-06T14:56:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 326.19,
     "availability": 3
   },
   {
-    "date": "2025-12-08T05:00:00.000Z",
+    "date": "2026-01-08T14:09:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 208.84,
     "availability": 8
   },
   {
-    "date": "2025-12-08T14:42:00.000Z",
+    "date": "2026-01-08T20:10:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 438.24,
     "availability": 5
   },
   {
-    "date": "2025-12-07T04:18:00.000Z",
+    "date": "2026-01-07T05:38:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 235.64,
     "availability": 9
   },
   {
-    "date": "2026-01-03T03:13:00.000Z",
+    "date": "2026-02-03T15:39:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 187.39,
     "availability": 1
   },
   {
-    "date": "2026-01-02T18:43:00.000Z",
+    "date": "2026-02-02T11:06:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 405.5,
     "availability": 6
   },
   {
-    "date": "2026-01-03T19:24:00.000Z",
+    "date": "2026-02-03T21:06:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 178.76,
     "availability": 6
   },
   {
-    "date": "2025-12-12T04:34:00.000Z",
+    "date": "2026-01-12T04:33:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 405.24,
     "availability": 4
   },
   {
-    "date": "2025-12-12T17:10:00.000Z",
+    "date": "2026-01-12T20:13:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 189.58,
     "availability": 6
   },
   {
-    "date": "2025-12-13T00:32:00.000Z",
+    "date": "2026-01-13T06:43:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 342.61,
     "availability": 2
   },
   {
-    "date": "2025-12-26T07:06:00.000Z",
+    "date": "2026-01-26T17:47:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 249.48,
     "availability": 4
   },
   {
-    "date": "2025-12-26T20:08:00.000Z",
+    "date": "2026-01-26T21:49:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 271.61,
     "availability": 4
   },
   {
-    "date": "2025-12-27T21:59:00.000Z",
+    "date": "2026-01-27T21:57:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 186.57,
     "availability": 7
   },
   {
-    "date": "2025-12-11T16:25:00.000Z",
+    "date": "2026-01-11T13:46:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 315.35,
     "availability": 1
   },
   {
-    "date": "2025-12-09T08:58:00.000Z",
+    "date": "2026-01-09T02:04:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 223.61,
     "availability": 1
   },
   {
-    "date": "2025-12-10T09:03:00.000Z",
+    "date": "2026-01-10T14:40:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 245.71,
     "availability": 9
   },
   {
-    "date": "2026-01-13T20:51:00.000Z",
+    "date": "2026-02-13T16:09:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 344,
     "availability": 6
   },
   {
-    "date": "2026-01-12T11:21:00.000Z",
+    "date": "2026-02-12T20:12:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 243.27,
     "availability": 1
   },
   {
-    "date": "2026-01-15T15:05:00.000Z",
+    "date": "2026-02-15T18:00:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 407.15,
     "availability": 9
   },
   {
-    "date": "2025-12-11T01:23:00.000Z",
+    "date": "2026-01-11T20:43:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 354.52,
     "availability": 8
   },
   {
-    "date": "2025-12-11T13:05:00.000Z",
+    "date": "2026-01-11T18:27:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 302.1,
     "availability": 8
   },
   {
-    "date": "2025-12-11T07:40:00.000Z",
+    "date": "2026-01-11T16:10:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 448.63,
     "availability": 9
   },
   {
-    "date": "2026-01-17T12:44:00.000Z",
+    "date": "2026-02-17T06:56:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 198.14,
     "availability": 2
   },
   {
-    "date": "2026-01-16T20:06:00.000Z",
+    "date": "2026-02-16T01:04:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 166.58,
     "availability": 1
   },
   {
-    "date": "2026-01-16T05:59:00.000Z",
+    "date": "2026-02-16T12:50:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 189.12,
     "availability": 7
   },
   {
-    "date": "2025-12-11T03:51:00.000Z",
+    "date": "2026-01-11T19:08:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 197.81,
     "availability": 4
   },
   {
-    "date": "2025-12-11T04:22:00.000Z",
+    "date": "2026-01-11T18:44:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 243.96,
     "availability": 9
   },
   {
-    "date": "2025-12-11T14:28:00.000Z",
+    "date": "2026-01-11T01:43:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 497.19,
     "availability": 7
   },
   {
-    "date": "2026-01-14T05:17:00.000Z",
+    "date": "2026-02-14T18:11:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 283.06,
     "availability": 6
   },
   {
-    "date": "2026-01-14T08:29:00.000Z",
+    "date": "2026-02-14T14:46:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 347.13,
     "availability": 8
   },
   {
-    "date": "2026-01-15T04:38:00.000Z",
+    "date": "2026-02-15T05:55:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 215.21,
     "availability": 4
   },
   {
-    "date": "2025-12-21T00:17:00.000Z",
+    "date": "2026-01-21T06:35:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 166.85,
     "availability": 6
   },
   {
-    "date": "2025-12-20T10:48:00.000Z",
+    "date": "2026-01-20T17:29:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 385.19,
     "availability": 6
   },
   {
-    "date": "2025-12-20T08:26:00.000Z",
+    "date": "2026-01-21T00:51:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 410.22,
     "availability": 4
   },
   {
-    "date": "2026-01-06T16:37:00.000Z",
+    "date": "2026-02-06T23:24:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 459.06,
     "availability": 5
   },
   {
-    "date": "2026-01-08T00:14:00.000Z",
+    "date": "2026-02-08T03:19:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 323.03,
     "availability": 1
   },
   {
-    "date": "2026-01-06T18:35:00.000Z",
+    "date": "2026-02-06T09:59:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 356.17,
     "availability": 9
   },
   {
-    "date": "2025-12-16T02:14:00.000Z",
+    "date": "2026-01-16T12:53:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 203.02,
     "availability": 7
   },
   {
-    "date": "2025-12-16T10:57:00.000Z",
+    "date": "2026-01-16T14:39:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 410.14,
     "availability": 6
   },
   {
-    "date": "2025-12-17T01:09:00.000Z",
+    "date": "2026-01-17T07:43:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 482.93,
     "availability": 1
   },
   {
-    "date": "2026-01-26T03:28:00.000Z",
+    "date": "2026-02-26T16:22:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 170.04,
     "availability": 7
   },
   {
-    "date": "2026-01-27T22:30:00.000Z",
+    "date": "2026-02-27T21:04:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 455.96,
     "availability": 2
   },
   {
-    "date": "2026-01-26T12:24:00.000Z",
+    "date": "2026-02-26T01:58:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 232.12,
     "availability": 9
   },
   {
-    "date": "2025-12-19T17:23:00.000Z",
+    "date": "2026-01-19T18:56:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 265.86,
     "availability": 2
   },
   {
-    "date": "2025-12-20T09:59:00.000Z",
+    "date": "2026-01-20T04:43:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 313.8,
     "availability": 3
   },
   {
-    "date": "2025-12-20T17:26:00.000Z",
+    "date": "2026-01-20T14:22:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 301.92,
     "availability": 5
   },
   {
-    "date": "2026-01-25T08:26:00.000Z",
+    "date": "2026-02-25T04:10:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 192.67,
     "availability": 8
   },
   {
-    "date": "2026-01-24T02:37:00.000Z",
+    "date": "2026-02-24T13:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 153.07,
     "availability": 2
   },
   {
-    "date": "2026-01-25T14:32:00.000Z",
+    "date": "2026-02-25T15:46:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 297.21,
     "availability": 5
   },
   {
-    "date": "2025-12-19T09:52:00.000Z",
+    "date": "2026-01-19T06:59:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 421.13,
     "availability": 5
   },
   {
-    "date": "2025-12-19T19:15:00.000Z",
+    "date": "2026-01-19T05:58:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 362.95,
     "availability": 6
   },
   {
-    "date": "2025-12-18T20:14:00.000Z",
+    "date": "2026-01-18T16:38:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 205.2,
     "availability": 1
   },
   {
-    "date": "2026-01-26T07:19:00.000Z",
+    "date": "2026-02-26T12:17:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 359.77,
     "availability": 4
   },
   {
-    "date": "2026-01-26T18:39:00.000Z",
+    "date": "2026-02-26T02:55:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 319.85,
     "availability": 4
   },
   {
-    "date": "2026-01-25T23:33:00.000Z",
+    "date": "2026-02-25T04:13:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 253.2,
     "availability": 7
   },
   {
-    "date": "2025-12-29T21:40:00.000Z",
+    "date": "2026-01-29T19:11:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 251.23,
     "availability": 2
   },
   {
-    "date": "2025-12-29T02:19:00.000Z",
+    "date": "2026-01-29T15:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 388.89,
     "availability": 5
   },
   {
-    "date": "2025-12-28T18:57:00.000Z",
+    "date": "2026-01-28T20:00:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 173.39,
     "availability": 9
   },
   {
-    "date": "2026-01-15T05:51:00.000Z",
+    "date": "2026-02-15T00:15:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 233.34,
     "availability": 8
   },
   {
-    "date": "2026-01-15T01:01:00.000Z",
+    "date": "2026-02-15T02:32:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 493.09,
     "availability": 7
   },
   {
-    "date": "2026-01-16T06:32:00.000Z",
+    "date": "2026-02-16T05:58:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 497.89,
     "availability": 7
   },
   {
-    "date": "2025-12-24T20:09:00.000Z",
+    "date": "2026-01-24T05:23:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 459.21,
     "availability": 7
   },
   {
-    "date": "2025-12-22T07:53:00.000Z",
+    "date": "2026-01-22T13:55:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 433.14,
     "availability": 3
   },
   {
-    "date": "2025-12-22T09:57:00.000Z",
+    "date": "2026-01-22T23:36:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 413.85,
     "availability": 2
   },
   {
-    "date": "2026-02-03T21:47:00.000Z",
+    "date": "2026-03-03T13:29:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 472.55,
     "availability": 3
   },
   {
-    "date": "2026-02-03T19:07:00.000Z",
+    "date": "2026-03-03T02:32:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 336.39,
     "availability": 6
   },
   {
-    "date": "2026-02-03T13:17:00.000Z",
+    "date": "2026-03-03T11:27:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 421.14,
     "availability": 2
   },
   {
-    "date": "2025-12-28T17:54:00.000Z",
+    "date": "2026-01-28T07:38:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 367.39,
     "availability": 4
   },
   {
-    "date": "2025-12-27T10:42:00.000Z",
+    "date": "2026-01-27T16:26:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 338.77,
     "availability": 4
   },
   {
-    "date": "2025-12-27T09:56:00.000Z",
+    "date": "2026-01-27T22:58:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 303.42,
     "availability": 6
   },
   {
-    "date": "2026-02-05T20:10:00.000Z",
+    "date": "2026-03-05T04:31:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 214.64,
     "availability": 5
   },
   {
-    "date": "2026-02-06T02:08:00.000Z",
+    "date": "2026-03-06T12:43:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 393.8,
     "availability": 1
   },
   {
-    "date": "2026-02-05T04:27:00.000Z",
+    "date": "2026-03-05T03:44:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 249.72,
     "availability": 5
   },
   {
-    "date": "2025-12-23T16:46:00.000Z",
+    "date": "2026-01-23T12:52:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 327.41,
     "availability": 5
   },
   {
-    "date": "2025-12-22T10:41:00.000Z",
+    "date": "2026-01-22T12:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 284.17,
     "availability": 4
   },
   {
-    "date": "2025-12-21T21:41:00.000Z",
+    "date": "2026-01-21T00:27:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 466.16,
     "availability": 2
   },
   {
-    "date": "2026-02-04T00:48:00.000Z",
+    "date": "2026-03-04T02:22:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 212.1,
     "availability": 8
   },
   {
-    "date": "2026-02-04T12:14:00.000Z",
+    "date": "2026-03-04T22:28:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 414.85,
     "availability": 2
   },
   {
-    "date": "2026-02-04T22:13:00.000Z",
+    "date": "2026-03-04T10:26:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 265.17,
     "availability": 9
   },
   {
-    "date": "2026-01-01T09:54:00.000Z",
+    "date": "2026-02-01T19:20:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 398.82,
     "availability": 2
   },
   {
-    "date": "2025-12-29T22:58:00.000Z",
+    "date": "2026-01-29T19:29:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 191.19,
     "availability": 8
   },
   {
-    "date": "2025-12-29T14:53:00.000Z",
+    "date": "2026-01-29T10:19:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 392.59,
     "availability": 7
   },
   {
-    "date": "2026-01-23T20:02:00.000Z",
+    "date": "2026-02-23T14:33:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 258.91,
     "availability": 7
   },
   {
-    "date": "2026-01-24T01:09:00.000Z",
+    "date": "2026-02-24T11:10:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 278.24,
     "availability": 3
   },
   {
-    "date": "2026-01-23T21:20:00.000Z",
+    "date": "2026-02-23T22:39:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 381.87,
     "availability": 9
   },
   {
-    "date": "2026-01-03T03:59:00.000Z",
+    "date": "2026-02-03T21:54:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 316.08,
     "availability": 3
   },
   {
-    "date": "2026-01-02T16:38:00.000Z",
+    "date": "2026-02-02T01:42:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 398.83,
     "availability": 6
   },
   {
-    "date": "2026-01-03T23:46:00.000Z",
+    "date": "2026-02-03T03:47:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 497.76,
     "availability": 9
   },
   {
-    "date": "2026-02-15T17:44:00.000Z",
+    "date": "2026-03-15T12:49:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 252.78,
     "availability": 7
   },
   {
-    "date": "2026-02-15T21:31:00.000Z",
+    "date": "2026-03-15T13:20:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 207.64,
     "availability": 7
   },
   {
-    "date": "2026-02-14T18:25:00.000Z",
+    "date": "2026-03-14T16:28:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 295.44,
     "availability": 2
   },
   {
-    "date": "2026-01-01T09:35:00.000Z",
+    "date": "2026-02-01T20:56:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 365.32,
     "availability": 7
   },
   {
-    "date": "2025-12-30T20:29:00.000Z",
+    "date": "2026-01-30T06:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 154.61,
     "availability": 9
   },
   {
-    "date": "2026-01-01T19:08:00.000Z",
+    "date": "2026-02-01T10:25:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 175.64,
     "availability": 5
   },
   {
-    "date": "2026-02-17T21:56:00.000Z",
+    "date": "2026-03-17T09:44:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 384.51,
     "availability": 3
   },
   {
-    "date": "2026-02-17T04:13:00.000Z",
+    "date": "2026-03-17T04:38:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 489.08,
     "availability": 4
   },
   {
-    "date": "2026-02-16T13:50:00.000Z",
+    "date": "2026-03-16T06:30:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 312.46,
     "availability": 4
   },
   {
-    "date": "2026-01-01T04:38:00.000Z",
+    "date": "2026-02-01T16:14:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 429.55,
     "availability": 3
   },
   {
-    "date": "2026-01-01T11:09:00.000Z",
+    "date": "2026-02-01T10:18:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 443.26,
     "availability": 7
   },
   {
-    "date": "2026-01-01T15:20:00.000Z",
+    "date": "2026-02-01T02:31:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 295.19,
     "availability": 1
   },
   {
-    "date": "2026-02-08T16:40:00.000Z",
+    "date": "2026-03-08T16:49:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 203.06,
     "availability": 4
   },
   {
-    "date": "2026-02-08T20:04:00.000Z",
+    "date": "2026-03-08T16:42:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 472.33,
     "availability": 3
   },
   {
-    "date": "2026-02-08T21:00:00.000Z",
+    "date": "2026-03-08T08:37:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 279.01,
     "availability": 8
   },
   {
-    "date": "2026-01-07T23:31:00.000Z",
+    "date": "2026-02-07T12:16:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 428.91,
     "availability": 1
   },
   {
-    "date": "2026-01-07T12:22:00.000Z",
+    "date": "2026-02-07T20:57:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 256.52,
     "availability": 8
   },
   {
-    "date": "2026-01-07T16:00:00.000Z",
+    "date": "2026-02-08T00:34:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 186.25,
     "availability": 4
   },
   {
-    "date": "2026-02-06T22:26:00.000Z",
+    "date": "2026-03-06T06:09:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 277.67,
     "availability": 6
   },
   {
-    "date": "2026-02-08T16:37:00.000Z",
+    "date": "2026-03-08T23:13:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 170,
     "availability": 9
   },
   {
-    "date": "2026-02-06T03:55:00.000Z",
+    "date": "2026-03-06T09:53:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 323.82,
     "availability": 7
   },
   {
-    "date": "2026-01-11T09:47:00.000Z",
+    "date": "2026-02-11T05:24:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 333.52,
     "availability": 7
   },
   {
-    "date": "2026-01-11T08:34:00.000Z",
+    "date": "2026-02-11T08:49:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 161.01,
     "availability": 7
   },
   {
-    "date": "2026-01-12T03:39:00.000Z",
+    "date": "2026-02-12T06:13:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 180.77,
     "availability": 4
   },
   {
-    "date": "2026-02-26T09:23:00.000Z",
+    "date": "2026-03-26T10:02:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 225.71,
     "availability": 6
   },
   {
-    "date": "2026-02-28T16:07:00.000Z",
+    "date": "2026-03-28T02:43:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 448.72,
     "availability": 6
   },
   {
-    "date": "2026-02-27T06:29:00.000Z",
+    "date": "2026-03-27T09:28:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 199.69,
     "availability": 4
   },
   {
-    "date": "2026-01-01T16:54:00.000Z",
+    "date": "2026-02-01T03:23:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 386.05,
     "availability": 6
   },
   {
-    "date": "2026-01-02T11:33:00.000Z",
+    "date": "2026-02-02T19:36:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 398.14,
     "availability": 8
   },
   {
-    "date": "2026-01-02T01:07:00.000Z",
+    "date": "2026-02-02T09:13:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 290.44,
     "availability": 2
   },
   {
-    "date": "2026-02-23T00:30:00.000Z",
+    "date": "2026-03-23T17:59:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 464.97,
     "availability": 9
   },
   {
-    "date": "2026-02-23T04:02:00.000Z",
+    "date": "2026-03-23T21:01:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 417.6,
     "availability": 8
   },
   {
-    "date": "2026-02-24T02:05:00.000Z",
+    "date": "2026-03-24T06:21:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 220.08,
     "availability": 6
   },
   {
-    "date": "2026-01-12T10:20:00.000Z",
+    "date": "2026-02-12T17:00:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 476.97,
     "availability": 5
   },
   {
-    "date": "2026-01-11T05:41:00.000Z",
+    "date": "2026-02-11T15:28:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 488.07,
     "availability": 2
   },
   {
-    "date": "2026-01-12T12:19:00.000Z",
+    "date": "2026-02-12T08:27:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 405.53,
     "availability": 6
   },
   {
-    "date": "2026-02-13T13:10:00.000Z",
+    "date": "2026-03-13T16:01:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 419.57,
     "availability": 7
   },
   {
-    "date": "2026-02-13T17:32:00.000Z",
+    "date": "2026-03-13T00:39:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 188.6,
     "availability": 2
   },
   {
-    "date": "2026-02-14T20:06:00.000Z",
+    "date": "2026-03-14T02:07:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 400.64,
     "availability": 4
   },
   {
-    "date": "2026-01-11T02:18:00.000Z",
+    "date": "2026-02-11T08:15:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 258.18,
     "availability": 7
   },
   {
-    "date": "2026-01-12T01:48:00.000Z",
+    "date": "2026-02-12T05:26:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 292.41,
     "availability": 5
   },
   {
-    "date": "2026-01-10T16:46:00.000Z",
+    "date": "2026-02-10T17:39:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 481.54,
     "availability": 1
   },
   {
-    "date": "2026-02-15T10:41:00.000Z",
+    "date": "2026-03-15T03:38:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 441.11,
     "availability": 8
   },
   {
-    "date": "2026-02-15T02:53:00.000Z",
+    "date": "2026-03-15T02:45:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 456.8,
     "availability": 1
   },
   {
-    "date": "2026-02-16T05:27:00.000Z",
+    "date": "2026-03-16T05:27:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 200.91,
     "availability": 3
   },
   {
-    "date": "2026-01-19T18:59:00.000Z",
+    "date": "2026-02-19T18:01:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 463.51,
     "availability": 7
   },
   {
-    "date": "2026-01-18T13:53:00.000Z",
+    "date": "2026-02-18T08:35:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 185.67,
     "availability": 5
   },
   {
-    "date": "2026-01-19T10:05:00.000Z",
+    "date": "2026-02-19T12:01:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 294.43,
     "availability": 1
   },
   {
-    "date": "2026-03-08T09:22:00.000Z",
+    "date": "2026-04-08T18:21:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 306.45,
     "availability": 9
   },
   {
-    "date": "2026-03-07T02:34:00.000Z",
+    "date": "2026-04-07T09:43:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 386.03,
     "availability": 7
   },
   {
-    "date": "2026-03-08T17:01:00.000Z",
+    "date": "2026-04-08T13:26:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 443.14,
     "availability": 8
   },
   {
-    "date": "2026-01-07T07:18:00.000Z",
+    "date": "2026-02-07T13:04:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 462.55,
     "availability": 3
   },
   {
-    "date": "2026-01-08T11:36:00.000Z",
+    "date": "2026-02-08T15:33:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 160.54,
     "availability": 8
   },
   {
-    "date": "2026-01-09T14:55:00.000Z",
+    "date": "2026-02-09T22:45:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 153.59,
     "availability": 5
   },
   {
-    "date": "2026-03-01T22:00:00.000Z",
+    "date": "2026-04-01T09:18:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 332.83,
     "availability": 7
   },
   {
-    "date": "2026-03-02T14:13:00.000Z",
+    "date": "2026-04-02T14:40:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 496.6,
     "availability": 4
   },
   {
-    "date": "2026-03-01T22:58:00.000Z",
+    "date": "2026-04-01T21:17:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 321.61,
     "availability": 4
   },
   {
-    "date": "2026-01-20T01:35:00.000Z",
+    "date": "2026-02-20T01:46:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 485.02,
     "availability": 3
   },
   {
-    "date": "2026-01-20T01:58:00.000Z",
+    "date": "2026-02-20T07:10:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 235.83,
     "availability": 1
   },
   {
-    "date": "2026-01-22T11:19:00.000Z",
+    "date": "2026-02-23T00:40:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 246.31,
     "availability": 8
   },
   {
-    "date": "2026-02-26T05:53:00.000Z",
+    "date": "2026-03-26T18:29:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 395.41,
     "availability": 5
   },
   {
-    "date": "2026-02-25T00:27:00.000Z",
+    "date": "2026-03-25T04:52:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 473.48,
     "availability": 6
   },
   {
-    "date": "2026-02-25T22:06:00.000Z",
+    "date": "2026-03-25T19:51:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 456.39,
     "availability": 4
   },
   {
-    "date": "2026-01-18T14:46:00.000Z",
+    "date": "2026-02-18T09:43:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 353.88,
     "availability": 4
   },
   {
-    "date": "2026-01-18T01:52:00.000Z",
+    "date": "2026-02-18T04:09:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 178.15,
     "availability": 4
   },
   {
-    "date": "2026-01-19T03:02:00.000Z",
+    "date": "2026-02-19T13:06:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 343.94,
     "availability": 1
   },
   {
-    "date": "2026-02-24T01:23:00.000Z",
+    "date": "2026-03-24T18:07:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 260.97,
     "availability": 7
   },
   {
-    "date": "2026-02-25T09:43:00.000Z",
+    "date": "2026-03-25T01:32:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 212.47,
     "availability": 2
   },
   {
-    "date": "2026-02-24T02:40:00.000Z",
+    "date": "2026-03-24T22:08:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 312.64,
     "availability": 5
   },
   {
-    "date": "2026-01-27T07:18:00.000Z",
+    "date": "2026-02-27T05:38:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 359.05,
     "availability": 5
   },
   {
-    "date": "2026-01-26T01:52:00.000Z",
+    "date": "2026-02-26T15:13:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 472.64,
     "availability": 1
   },
   {
-    "date": "2026-01-27T06:39:00.000Z",
+    "date": "2026-02-27T09:38:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 281.88,
     "availability": 1
   },
   {
-    "date": "2026-03-10T05:10:00.000Z",
+    "date": "2026-04-10T01:47:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 291.98,
     "availability": 9
   },
   {
-    "date": "2026-03-11T23:52:00.000Z",
+    "date": "2026-04-11T13:33:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 403.78,
     "availability": 5
   },
   {
-    "date": "2026-03-11T16:03:00.000Z",
+    "date": "2026-04-11T13:08:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 272.32,
     "availability": 4
   },
   {
-    "date": "2026-01-09T19:42:00.000Z",
+    "date": "2026-02-09T17:49:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 261.65,
     "availability": 6
   },
   {
-    "date": "2026-01-10T05:11:00.000Z",
+    "date": "2026-02-10T02:52:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 367.47,
     "availability": 4
   },
   {
-    "date": "2026-01-09T19:32:00.000Z",
+    "date": "2026-02-09T20:30:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 329.68,
     "availability": 2
   },
   {
-    "date": "2026-03-12T03:44:00.000Z",
+    "date": "2026-04-12T18:30:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 176.34,
     "availability": 7
   },
   {
-    "date": "2026-03-12T23:48:00.000Z",
+    "date": "2026-04-12T10:11:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 410.21,
     "availability": 3
   },
   {
-    "date": "2026-03-13T16:49:00.000Z",
+    "date": "2026-04-13T07:40:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 194.69,
     "availability": 5
   },
   {
-    "date": "2026-02-03T19:41:00.000Z",
+    "date": "2026-03-03T22:42:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 194.01,
     "availability": 6
   },
   {
-    "date": "2026-02-02T07:15:00.000Z",
+    "date": "2026-03-02T10:29:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 417.91,
     "availability": 5
   },
   {
-    "date": "2026-02-01T11:40:00.000Z",
+    "date": "2026-03-02T00:17:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 187.73,
     "availability": 6
   },
   {
-    "date": "2026-03-02T01:59:00.000Z",
+    "date": "2026-04-02T09:57:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 485.61,
     "availability": 5
   },
   {
-    "date": "2026-03-02T07:38:00.000Z",
+    "date": "2026-04-02T04:04:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 491.54,
     "availability": 4
   },
   {
-    "date": "2026-03-01T14:18:00.000Z",
+    "date": "2026-04-01T05:22:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 183.86,
     "availability": 7
   },
   {
-    "date": "2026-01-22T12:35:00.000Z",
+    "date": "2026-02-22T12:49:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 198.72,
     "availability": 6
   },
   {
-    "date": "2026-01-23T22:20:00.000Z",
+    "date": "2026-02-23T04:09:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 202.14,
     "availability": 8
   },
   {
-    "date": "2026-01-21T04:17:00.000Z",
+    "date": "2026-02-21T21:13:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 444.95,
     "availability": 9
   },
   {
-    "date": "2026-03-01T02:25:00.000Z",
+    "date": "2026-04-01T17:21:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 417.65,
     "availability": 9
   },
   {
-    "date": "2026-02-28T11:04:00.000Z",
+    "date": "2026-03-28T10:59:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 401.76,
     "availability": 8
   },
   {
-    "date": "2026-03-02T23:24:00.000Z",
+    "date": "2026-04-02T04:10:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 418.31,
     "availability": 9
   },
   {
-    "date": "2026-02-02T09:11:00.000Z",
+    "date": "2026-03-02T05:16:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 214.91,
     "availability": 6
   },
   {
-    "date": "2026-02-02T09:07:00.000Z",
+    "date": "2026-03-02T14:32:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 341.21,
     "availability": 5
   },
   {
-    "date": "2026-02-03T06:25:00.000Z",
+    "date": "2026-03-03T04:29:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 340.5,
     "availability": 2
   },
   {
-    "date": "2026-03-18T10:47:00.000Z",
+    "date": "2026-04-18T23:02:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 153.14,
     "availability": 6
   },
   {
-    "date": "2026-03-19T04:05:00.000Z",
+    "date": "2026-04-19T08:19:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 446.68,
     "availability": 1
   },
   {
-    "date": "2026-03-17T13:24:00.000Z",
+    "date": "2026-04-17T18:46:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 395.77,
     "availability": 8
   },
   {
-    "date": "2026-01-18T06:45:00.000Z",
+    "date": "2026-02-18T23:24:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 273.82,
     "availability": 5
   },
   {
-    "date": "2026-01-17T02:12:00.000Z",
+    "date": "2026-02-17T20:32:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 400.31,
     "availability": 4
   },
   {
-    "date": "2026-01-19T15:05:00.000Z",
+    "date": "2026-02-19T14:12:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 235.39,
     "availability": 8
   },
   {
-    "date": "2026-03-20T22:50:00.000Z",
+    "date": "2026-04-20T19:01:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 420.4,
     "availability": 7
   },
   {
-    "date": "2026-03-19T07:31:00.000Z",
+    "date": "2026-04-19T12:08:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 289.62,
     "availability": 3
   },
   {
-    "date": "2026-03-19T20:35:00.000Z",
+    "date": "2026-04-19T14:11:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 329.32,
     "availability": 5
   },
   {
-    "date": "2026-02-12T12:26:00.000Z",
+    "date": "2026-03-12T05:02:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 420.63,
     "availability": 8
   },
   {
-    "date": "2026-02-12T10:09:00.000Z",
+    "date": "2026-03-12T10:01:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 441.43,
     "availability": 6
   },
   {
-    "date": "2026-02-13T07:37:00.000Z",
+    "date": "2026-03-13T13:53:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 480.43,
     "availability": 5
   },
   {
-    "date": "2026-03-10T14:18:00.000Z",
+    "date": "2026-04-10T02:09:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 267.54,
     "availability": 1
   },
   {
-    "date": "2026-03-11T05:18:00.000Z",
+    "date": "2026-04-11T21:36:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 230.41,
     "availability": 9
   },
   {
-    "date": "2026-03-08T07:36:00.000Z",
+    "date": "2026-04-08T17:01:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 186.52,
     "availability": 1
   },
   {
-    "date": "2026-01-29T13:45:00.000Z",
+    "date": "2026-03-01T23:24:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 224.35,
     "availability": 2
   },
   {
-    "date": "2026-01-28T23:06:00.000Z",
+    "date": "2026-02-28T08:51:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 362.91,
     "availability": 6
   },
   {
-    "date": "2026-01-28T07:43:00.000Z",
+    "date": "2026-02-28T16:55:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 268.48,
     "availability": 2
   },
   {
-    "date": "2026-03-04T20:01:00.000Z",
+    "date": "2026-04-04T21:48:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 202.32,
     "availability": 2
   },
   {
-    "date": "2026-03-03T07:37:00.000Z",
+    "date": "2026-04-03T14:31:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 323.67,
     "availability": 3
   },
   {
-    "date": "2026-03-02T09:49:00.000Z",
+    "date": "2026-04-02T13:24:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 157.12,
     "availability": 2
   },
   {
-    "date": "2026-02-13T16:52:00.000Z",
+    "date": "2026-03-13T18:50:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 457.43,
     "availability": 3
   },
   {
-    "date": "2026-02-12T14:03:00.000Z",
+    "date": "2026-03-12T04:51:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 321.98,
     "availability": 2
   },
   {
-    "date": "2026-02-13T16:54:00.000Z",
+    "date": "2026-03-13T12:43:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 257.35,
     "availability": 1
   },
   {
-    "date": "2026-03-23T16:01:00.000Z",
+    "date": "2026-04-23T10:50:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 397.04,
     "availability": 9
   },
   {
-    "date": "2026-03-22T23:42:00.000Z",
+    "date": "2026-04-22T15:45:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 472.74,
     "availability": 3
   },
   {
-    "date": "2026-03-23T22:21:00.000Z",
+    "date": "2026-04-23T19:52:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 498.92,
     "availability": 7
   },
   {
-    "date": "2026-01-22T01:28:00.000Z",
+    "date": "2026-02-22T05:25:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 494.89,
     "availability": 7
   },
   {
-    "date": "2026-01-22T16:56:00.000Z",
+    "date": "2026-02-22T17:36:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 344.35,
     "availability": 8
   },
   {
-    "date": "2026-01-25T06:27:00.000Z",
+    "date": "2026-02-25T18:24:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 264.91,
     "availability": 1
   },
   {
-    "date": "2026-03-27T18:46:00.000Z",
+    "date": "2026-04-27T13:20:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 189.4,
     "availability": 6
   },
   {
-    "date": "2026-03-28T02:46:00.000Z",
+    "date": "2026-04-28T02:41:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 310.61,
     "availability": 6
   },
   {
-    "date": "2026-03-27T12:37:00.000Z",
+    "date": "2026-04-27T20:27:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 384.53,
     "availability": 9
   },
   {
-    "date": "2026-02-19T00:00:00.000Z",
+    "date": "2026-03-19T08:27:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 415.72,
     "availability": 1
   },
   {
-    "date": "2026-02-20T02:55:00.000Z",
+    "date": "2026-03-20T12:55:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 293.37,
     "availability": 9
   },
   {
-    "date": "2026-02-18T17:39:00.000Z",
+    "date": "2026-03-18T03:47:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 270.01,
     "availability": 2
   },
   {
-    "date": "2026-03-11T13:53:00.000Z",
+    "date": "2026-04-11T17:36:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 386.43,
     "availability": 9
   },
   {
-    "date": "2026-03-09T21:15:00.000Z",
+    "date": "2026-04-09T10:28:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 303.53,
     "availability": 4
   },
   {
-    "date": "2026-03-10T02:37:00.000Z",
+    "date": "2026-04-10T02:10:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 270.15,
     "availability": 4
   },
   {
-    "date": "2026-02-12T09:31:00.000Z",
+    "date": "2026-03-12T15:17:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 205.07,
     "availability": 1
   },
   {
-    "date": "2026-02-11T23:59:00.000Z",
+    "date": "2026-03-11T01:55:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 247.51,
     "availability": 5
   },
   {
-    "date": "2026-02-09T09:05:00.000Z",
+    "date": "2026-03-09T06:22:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 342.33,
     "availability": 2
   },
   {
-    "date": "2026-03-13T16:28:00.000Z",
+    "date": "2026-04-13T13:08:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 478.96,
     "availability": 5
   },
   {
-    "date": "2026-03-12T15:36:00.000Z",
+    "date": "2026-04-12T16:47:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 317.51,
     "availability": 6
   },
   {
-    "date": "2026-03-11T01:06:00.000Z",
+    "date": "2026-04-11T16:11:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 257.95,
     "availability": 2
   },
   {
-    "date": "2026-02-20T16:17:00.000Z",
+    "date": "2026-03-20T19:01:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 195.12,
     "availability": 8
   },
   {
-    "date": "2026-02-21T01:26:00.000Z",
+    "date": "2026-03-21T04:51:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 183.89,
     "availability": 6
   },
   {
-    "date": "2026-02-19T14:14:00.000Z",
+    "date": "2026-03-19T19:41:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 396.05,
     "availability": 7
   },
   {
-    "date": "2025-10-16T02:11:00.000Z",
+    "date": "2025-11-16T21:42:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 312.27,
     "availability": 6
   },
   {
-    "date": "2025-10-16T03:21:00.000Z",
+    "date": "2025-11-16T03:14:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 399.95,
     "availability": 1
   },
   {
-    "date": "2025-10-16T16:25:00.000Z",
+    "date": "2025-11-16T23:14:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 451.01,
     "availability": 8
   },
   {
-    "date": "2026-02-07T21:50:00.000Z",
+    "date": "2026-03-07T09:40:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 415.87,
     "availability": 7
   },
   {
-    "date": "2026-02-07T07:03:00.000Z",
+    "date": "2026-03-07T04:59:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 181.36,
     "availability": 1
   },
   {
-    "date": "2026-02-09T05:07:00.000Z",
+    "date": "2026-03-09T16:54:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 154.27,
     "availability": 7
   },
   {
-    "date": "2026-04-03T10:45:00.000Z",
+    "date": "2026-05-03T08:14:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 482.57,
     "availability": 8
   },
   {
-    "date": "2026-04-02T07:48:00.000Z",
+    "date": "2026-05-02T03:21:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 468.22,
     "availability": 4
   },
   {
-    "date": "2026-04-02T04:30:00.000Z",
+    "date": "2026-05-02T10:06:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 367.21,
     "availability": 5
   },
   {
-    "date": "2026-02-27T04:43:00.000Z",
+    "date": "2026-03-27T03:02:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 229.91,
     "availability": 8
   },
   {
-    "date": "2026-02-27T09:50:00.000Z",
+    "date": "2026-03-28T00:13:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 292.47,
     "availability": 1
   },
   {
-    "date": "2026-02-27T09:22:00.000Z",
+    "date": "2026-03-27T08:07:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 490.49,
     "availability": 6
   },
   {
-    "date": "2026-03-17T14:00:00.000Z",
+    "date": "2026-04-17T03:35:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 440.18,
     "availability": 3
   },
   {
-    "date": "2026-03-18T07:31:00.000Z",
+    "date": "2026-04-18T14:44:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 153.02,
     "availability": 1
   },
   {
-    "date": "2026-03-17T10:56:00.000Z",
+    "date": "2026-04-17T14:21:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 494.6,
     "availability": 8
   },
   {
-    "date": "2026-02-17T09:46:00.000Z",
+    "date": "2026-03-17T08:38:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 158.54,
     "availability": 2
   },
   {
-    "date": "2026-02-17T15:59:00.000Z",
+    "date": "2026-03-17T05:14:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 480.94,
     "availability": 2
   },
   {
-    "date": "2026-02-18T19:52:00.000Z",
+    "date": "2026-03-18T19:48:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 248.04,
     "availability": 1
   },
   {
-    "date": "2026-03-20T23:41:00.000Z",
+    "date": "2026-04-20T01:04:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 431.95,
     "availability": 8
   },
   {
-    "date": "2026-03-19T05:32:00.000Z",
+    "date": "2026-04-19T22:14:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 380.54,
     "availability": 2
   },
   {
-    "date": "2026-03-21T01:46:00.000Z",
+    "date": "2026-04-21T03:06:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 445.85,
     "availability": 8
   },
   {
-    "date": "2026-03-02T09:04:00.000Z",
+    "date": "2026-04-02T20:10:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 180.27,
     "availability": 8
   },
   {
-    "date": "2026-03-02T06:49:00.000Z",
+    "date": "2026-04-02T13:10:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 364.08,
     "availability": 5
   },
   {
-    "date": "2026-03-02T16:38:00.000Z",
+    "date": "2026-04-03T00:36:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 369.96,
     "availability": 6
   },
   {
-    "date": "2025-10-25T06:08:00.000Z",
+    "date": "2025-11-25T23:50:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 374.5,
     "availability": 3
   },
   {
-    "date": "2025-10-23T12:15:00.000Z",
+    "date": "2025-11-23T12:20:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 157.36,
     "availability": 4
   },
   {
-    "date": "2025-10-24T09:45:00.000Z",
+    "date": "2025-11-24T19:50:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 450.28,
     "availability": 7
   },
   {
-    "date": "2026-02-10T08:17:00.000Z",
+    "date": "2026-03-10T04:48:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 275.36,
     "availability": 7
   },
   {
-    "date": "2026-02-09T20:08:00.000Z",
+    "date": "2026-03-09T22:28:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 383.14,
     "availability": 9
   },
   {
-    "date": "2026-02-10T05:34:00.000Z",
+    "date": "2026-03-10T03:52:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 156.79,
     "availability": 2
   },
   {
-    "date": "2025-10-14T03:16:00.000Z",
+    "date": "2025-11-14T07:48:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 275.75,
     "availability": 4
   },
   {
-    "date": "2025-10-14T18:22:00.000Z",
+    "date": "2025-11-14T03:24:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 384.91,
     "availability": 5
   },
   {
-    "date": "2025-10-15T18:29:00.000Z",
+    "date": "2025-11-15T14:30:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 417.6,
     "availability": 7
   },
   {
-    "date": "2026-03-01T11:34:00.000Z",
+    "date": "2026-04-01T21:29:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 270.74,
     "availability": 7
   },
   {
-    "date": "2026-03-02T04:24:00.000Z",
+    "date": "2026-04-02T13:56:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 171.12,
     "availability": 9
   },
   {
-    "date": "2026-03-02T18:47:00.000Z",
+    "date": "2026-04-02T20:54:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 336.45,
     "availability": 7
   },
   {
-    "date": "2026-03-21T21:09:00.000Z",
+    "date": "2026-04-21T20:16:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 486.74,
     "availability": 3
   },
   {
-    "date": "2026-03-22T15:34:00.000Z",
+    "date": "2026-04-22T07:42:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 469.35,
     "availability": 5
   },
   {
-    "date": "2026-03-21T14:48:00.000Z",
+    "date": "2026-04-21T16:40:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 181.3,
     "availability": 7
   },
   {
-    "date": "2026-02-21T10:50:00.000Z",
+    "date": "2026-03-21T10:08:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 402.77,
     "availability": 9
   },
   {
-    "date": "2026-02-22T11:18:00.000Z",
+    "date": "2026-03-22T02:16:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 278.3,
     "availability": 1
   },
   {
-    "date": "2026-02-22T09:07:00.000Z",
+    "date": "2026-03-22T03:52:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 414.55,
     "availability": 9
   },
   {
-    "date": "2026-04-02T15:25:00.000Z",
+    "date": "2026-05-02T23:51:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 166.39,
     "availability": 8
   },
   {
-    "date": "2026-03-28T16:31:00.000Z",
+    "date": "2026-04-28T21:44:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 472.76,
     "availability": 1
   },
   {
-    "date": "2026-03-28T16:52:00.000Z",
+    "date": "2026-04-28T10:53:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 408.27,
     "availability": 6
   },
   {
-    "date": "2026-03-06T16:10:00.000Z",
+    "date": "2026-04-06T11:19:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 326.33,
     "availability": 4
   },
   {
-    "date": "2026-03-08T13:05:00.000Z",
+    "date": "2026-04-08T09:52:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 287.66,
     "availability": 6
   },
   {
-    "date": "2026-03-06T05:00:00.000Z",
+    "date": "2026-04-06T22:33:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 388.44,
     "availability": 8
   },
   {
-    "date": "2025-11-02T03:58:00.000Z",
+    "date": "2025-12-02T22:21:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 286.35,
     "availability": 4
   },
   {
-    "date": "2025-11-03T11:49:00.000Z",
+    "date": "2025-12-03T22:23:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 480.76,
     "availability": 8
   },
   {
-    "date": "2025-11-02T19:33:00.000Z",
+    "date": "2025-12-02T19:31:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 233.36,
     "availability": 3
   },
   {
-    "date": "2026-02-19T20:40:00.000Z",
+    "date": "2026-03-19T05:44:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 315.65,
     "availability": 4
   },
   {
-    "date": "2026-02-18T02:17:00.000Z",
+    "date": "2026-03-18T18:45:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 245.35,
     "availability": 3
   },
   {
-    "date": "2026-02-18T23:57:00.000Z",
+    "date": "2026-03-18T22:55:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 393.57,
     "availability": 6
   },
   {
-    "date": "2025-10-26T13:57:00.000Z",
+    "date": "2025-11-26T02:47:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 150.63,
     "availability": 4
   },
   {
-    "date": "2025-10-27T13:13:00.000Z",
+    "date": "2025-11-27T10:48:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 225.46,
     "availability": 3
   },
   {
-    "date": "2025-10-27T00:27:00.000Z",
+    "date": "2025-11-27T04:38:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 181.1,
     "availability": 8
   },
   {
-    "date": "2026-03-04T15:38:00.000Z",
+    "date": "2026-04-04T07:15:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 307.32,
     "availability": 3
   },
   {
-    "date": "2026-03-06T04:49:00.000Z",
+    "date": "2026-04-06T14:51:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 382.93,
     "availability": 3
   },
   {
-    "date": "2026-03-05T04:42:00.000Z",
+    "date": "2026-04-05T15:36:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 386.78,
     "availability": 2
   },
   {
-    "date": "2026-04-04T00:17:00.000Z",
+    "date": "2026-05-04T12:43:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 188.16,
     "availability": 9
   },
   {
-    "date": "2026-04-02T09:09:00.000Z",
+    "date": "2026-05-02T22:45:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 181.38,
     "availability": 5
   },
   {
-    "date": "2026-04-01T21:45:00.000Z",
+    "date": "2026-05-01T04:50:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 290.1,
     "availability": 4
   },
   {
-    "date": "2026-03-05T18:13:00.000Z",
+    "date": "2026-04-05T15:58:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 376.48,
     "availability": 2
   },
   {
-    "date": "2026-03-05T12:19:00.000Z",
+    "date": "2026-04-05T10:24:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 187.04,
     "availability": 6
   },
   {
-    "date": "2026-03-05T03:11:00.000Z",
+    "date": "2026-04-05T16:13:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 365.76,
     "availability": 1
   },
   {
-    "date": "2026-03-28T23:25:00.000Z",
+    "date": "2026-04-28T02:56:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 224.33,
     "availability": 6
   },
   {
-    "date": "2026-04-01T12:36:00.000Z",
+    "date": "2026-05-01T14:11:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 283.34,
     "availability": 3
   },
   {
-    "date": "2026-04-01T15:17:00.000Z",
+    "date": "2026-05-01T01:48:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 445.49,
     "availability": 6
   },
   {
-    "date": "2026-03-15T21:21:00.000Z",
+    "date": "2026-04-15T06:18:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 274.88,
     "availability": 1
   },
   {
-    "date": "2026-03-15T15:13:00.000Z",
+    "date": "2026-04-15T02:20:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 224.83,
     "availability": 8
   },
   {
-    "date": "2026-03-15T16:58:00.000Z",
+    "date": "2026-04-15T07:00:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 401.38,
     "availability": 7
   },
   {
-    "date": "2025-11-11T07:53:00.000Z",
+    "date": "2025-12-11T22:25:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 406.62,
     "availability": 6
   },
   {
-    "date": "2025-11-11T00:07:00.000Z",
+    "date": "2025-12-11T15:16:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 439.64,
     "availability": 4
   },
   {
-    "date": "2025-11-11T11:46:00.000Z",
+    "date": "2025-12-11T13:24:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 377.07,
     "availability": 6
   },
   {
-    "date": "2026-02-22T10:46:00.000Z",
+    "date": "2026-03-22T17:02:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 158.39,
     "availability": 1
   },
   {
-    "date": "2026-02-23T09:42:00.000Z",
+    "date": "2026-03-23T19:12:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 254.04,
     "availability": 5
   },
   {
-    "date": "2026-02-22T12:17:00.000Z",
+    "date": "2026-03-22T22:14:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 448.32,
     "availability": 6
   },
   {
-    "date": "2025-11-03T08:00:00.000Z",
+    "date": "2025-12-03T04:26:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 171.29,
     "availability": 4
   },
   {
-    "date": "2025-11-02T03:40:00.000Z",
+    "date": "2025-12-02T09:18:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 273.9,
     "availability": 4
   },
   {
-    "date": "2025-11-02T14:55:00.000Z",
+    "date": "2025-12-02T11:44:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 269.4,
     "availability": 1
   },
   {
-    "date": "2026-03-16T21:57:00.000Z",
+    "date": "2026-04-16T20:27:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 268.17,
     "availability": 3
   },
   {
-    "date": "2026-03-16T17:58:00.000Z",
+    "date": "2026-04-16T21:29:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 449.22,
     "availability": 8
   },
   {
-    "date": "2026-03-16T06:27:00.000Z",
+    "date": "2026-04-16T16:01:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 330.38,
     "availability": 2
   },
   {
-    "date": "2025-10-15T19:53:00.000Z",
+    "date": "2025-11-15T18:19:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 353.63,
     "availability": 1
   },
   {
-    "date": "2025-10-15T08:04:00.000Z",
+    "date": "2025-11-15T03:13:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 281.29,
     "availability": 9
   },
   {
-    "date": "2025-10-15T01:28:00.000Z",
+    "date": "2025-11-15T03:58:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 346.25,
     "availability": 1
   },
   {
-    "date": "2026-03-15T10:48:00.000Z",
+    "date": "2026-04-15T01:15:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 436.62,
     "availability": 6
   },
   {
-    "date": "2026-03-14T09:26:00.000Z",
+    "date": "2026-04-14T16:24:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 337.18,
     "availability": 5
   },
   {
-    "date": "2026-03-13T09:30:00.000Z",
+    "date": "2026-04-13T08:10:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 253.02,
     "availability": 1
   },
   {
-    "date": "2026-04-01T18:28:00.000Z",
+    "date": "2026-05-01T12:28:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 199.62,
     "availability": 1
   },
   {
-    "date": "2026-04-02T02:24:00.000Z",
+    "date": "2026-05-02T13:57:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 431.69,
     "availability": 1
   },
   {
-    "date": "2026-04-01T04:56:00.000Z",
+    "date": "2026-05-01T20:51:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 414.93,
     "availability": 8
   },
   {
-    "date": "2026-03-25T04:59:00.000Z",
+    "date": "2026-04-25T16:01:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 412.25,
     "availability": 4
   },
   {
-    "date": "2026-03-24T22:04:00.000Z",
+    "date": "2026-04-24T01:06:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 481.6,
     "availability": 7
   },
   {
-    "date": "2026-03-25T22:48:00.000Z",
+    "date": "2026-04-25T10:42:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 219.26,
     "availability": 6
   },
   {
-    "date": "2025-11-21T19:24:00.000Z",
+    "date": "2025-12-21T02:31:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 481.53,
     "availability": 4
   },
   {
-    "date": "2025-11-20T17:08:00.000Z",
+    "date": "2025-12-20T12:43:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 169.55,
     "availability": 7
   },
   {
-    "date": "2025-11-21T10:02:00.000Z",
+    "date": "2025-12-21T08:37:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 351.34,
     "availability": 8
   },
   {
-    "date": "2026-03-03T11:51:00.000Z",
+    "date": "2026-04-03T02:57:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 220.66,
     "availability": 3
   },
   {
-    "date": "2026-03-05T02:44:00.000Z",
+    "date": "2026-04-05T13:36:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 227.22,
     "availability": 4
   },
   {
-    "date": "2026-03-02T13:10:00.000Z",
+    "date": "2026-04-02T08:27:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 341.69,
     "availability": 3
   },
   {
-    "date": "2025-11-09T05:05:00.000Z",
+    "date": "2025-12-09T04:36:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 381.19,
     "availability": 6
   },
   {
-    "date": "2025-11-10T18:57:00.000Z",
+    "date": "2025-12-10T21:30:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 454.86,
     "availability": 1
   },
   {
-    "date": "2025-11-09T21:44:00.000Z",
+    "date": "2025-12-09T16:49:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 444.01,
     "availability": 9
   },
   {
-    "date": "2026-03-24T06:38:00.000Z",
+    "date": "2026-04-24T03:26:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 376.53,
     "availability": 1
   },
   {
-    "date": "2026-03-22T09:43:00.000Z",
+    "date": "2026-04-22T07:36:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 472.46,
     "availability": 8
   },
   {
-    "date": "2026-03-22T14:03:00.000Z",
+    "date": "2026-04-22T01:04:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 333.58,
     "availability": 5
   },
   {
-    "date": "2025-10-24T15:09:00.000Z",
+    "date": "2025-11-24T08:08:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 191.48,
     "availability": 7
   },
   {
-    "date": "2025-10-24T08:24:00.000Z",
+    "date": "2025-11-24T03:59:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 397.48,
     "availability": 8
   },
   {
-    "date": "2025-10-23T07:28:00.000Z",
+    "date": "2025-11-23T19:18:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 419.17,
     "availability": 2
   },
   {
-    "date": "2026-03-26T01:30:00.000Z",
+    "date": "2026-04-26T17:34:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 317.97,
     "availability": 2
   },
   {
-    "date": "2026-03-25T04:05:00.000Z",
+    "date": "2026-04-25T21:47:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 448.66,
     "availability": 3
   },
   {
-    "date": "2026-03-25T11:50:00.000Z",
+    "date": "2026-04-25T02:35:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 288.92,
     "availability": 9
   },
   {
-    "date": "2025-10-25T22:39:00.000Z",
+    "date": "2025-11-25T21:15:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 393.14,
     "availability": 1
   },
   {
-    "date": "2025-10-25T23:16:00.000Z",
+    "date": "2025-11-25T23:13:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 188.78,
     "availability": 5
   },
   {
-    "date": "2025-10-25T21:15:00.000Z",
+    "date": "2025-11-25T21:33:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 402.6,
     "availability": 1
   },
   {
-    "date": "2026-04-06T23:28:00.000Z",
+    "date": "2026-05-06T08:49:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 249.55,
     "availability": 6
   },
   {
-    "date": "2026-04-05T01:29:00.000Z",
+    "date": "2026-05-05T22:14:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 425.68,
     "availability": 5
   },
   {
-    "date": "2026-04-07T13:16:00.000Z",
+    "date": "2026-05-07T01:23:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 159.78,
     "availability": 8
   },
   {
-    "date": "2025-12-02T14:21:00.000Z",
+    "date": "2026-01-02T04:45:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 260.27,
     "availability": 4
   },
   {
-    "date": "2025-12-01T11:52:00.000Z",
+    "date": "2026-01-01T09:23:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 398.07,
     "availability": 5
   },
   {
-    "date": "2025-12-03T17:46:00.000Z",
+    "date": "2026-01-03T19:27:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 161.17,
     "availability": 9
   },
   {
-    "date": "2026-03-14T23:34:00.000Z",
+    "date": "2026-04-14T13:41:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 378.12,
     "availability": 7
   },
   {
-    "date": "2026-03-14T18:54:00.000Z",
+    "date": "2026-04-14T18:51:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 453.28,
     "availability": 8
   },
   {
-    "date": "2026-03-13T19:22:00.000Z",
+    "date": "2026-04-13T10:09:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 156.2,
     "availability": 4
   },
   {
-    "date": "2025-11-22T09:32:00.000Z",
+    "date": "2025-12-22T01:22:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 319.16,
     "availability": 9
   },
   {
-    "date": "2025-11-22T19:25:00.000Z",
+    "date": "2025-12-22T06:10:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 205.65,
     "availability": 3
   },
   {
-    "date": "2025-11-22T11:24:00.000Z",
+    "date": "2025-12-22T13:46:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 274.68,
     "availability": 7
   },
   {
-    "date": "2025-10-19T07:19:00.000Z",
+    "date": "2025-11-19T05:14:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 187.66,
     "availability": 4
   },
   {
-    "date": "2025-10-20T20:41:00.000Z",
+    "date": "2025-11-20T07:35:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 482.7,
     "availability": 4
   },
   {
-    "date": "2025-10-19T15:18:00.000Z",
+    "date": "2025-11-19T11:55:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 185.05,
     "availability": 8
   },
   {
-    "date": "2025-11-01T03:58:00.000Z",
+    "date": "2025-12-01T11:52:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 475.32,
     "availability": 2
   },
   {
-    "date": "2025-11-02T02:11:00.000Z",
+    "date": "2025-12-02T18:49:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 159.69,
     "availability": 7
   },
   {
-    "date": "2025-11-01T16:55:00.000Z",
+    "date": "2025-12-01T18:00:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 412.2,
     "availability": 5
   },
   {
-    "date": "2026-04-05T05:18:00.000Z",
+    "date": "2026-05-05T23:36:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 460.24,
     "availability": 3
   },
   {
-    "date": "2026-04-04T14:31:00.000Z",
+    "date": "2026-05-04T05:17:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 168.51,
     "availability": 4
   },
   {
-    "date": "2026-04-05T07:00:00.000Z",
+    "date": "2026-05-05T13:28:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 391.59,
     "availability": 5
   },
   {
-    "date": "2025-11-10T19:17:00.000Z",
+    "date": "2025-12-10T15:08:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 493.06,
     "availability": 7
   },
   {
-    "date": "2025-11-10T09:15:00.000Z",
+    "date": "2025-12-10T08:58:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 312.18,
     "availability": 9
   },
   {
-    "date": "2025-11-10T07:19:00.000Z",
+    "date": "2025-12-10T12:27:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 200.46,
     "availability": 2
   },
   {
-    "date": "2025-10-20T20:28:00.000Z",
+    "date": "2025-11-20T21:46:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 448.23,
     "availability": 7
   },
   {
-    "date": "2025-10-19T06:57:00.000Z",
+    "date": "2025-11-20T00:59:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 459.27,
     "availability": 2
   },
   {
-    "date": "2025-10-20T19:24:00.000Z",
+    "date": "2025-11-20T14:43:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 456.06,
     "availability": 8
   },
   {
-    "date": "2025-12-02T22:22:00.000Z",
+    "date": "2026-01-02T03:20:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 364.08,
     "availability": 9
   },
   {
-    "date": "2025-12-03T08:33:00.000Z",
+    "date": "2026-01-03T10:06:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 318.58,
     "availability": 8
   },
   {
-    "date": "2025-12-02T05:12:00.000Z",
+    "date": "2026-01-02T17:51:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 412.37,
     "availability": 1
   },
   {
-    "date": "2026-03-26T12:10:00.000Z",
+    "date": "2026-04-26T00:05:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 312.54,
     "availability": 5
   },
   {
-    "date": "2026-03-26T07:21:00.000Z",
+    "date": "2026-04-26T22:02:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 494.35,
     "availability": 6
   },
   {
-    "date": "2026-03-26T13:01:00.000Z",
+    "date": "2026-04-26T20:41:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 308.7,
     "availability": 5
   },
   {
-    "date": "2025-12-02T15:56:00.000Z",
+    "date": "2026-01-02T16:02:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 449.14,
     "availability": 3
   },
   {
-    "date": "2025-12-02T03:37:00.000Z",
+    "date": "2026-01-02T13:50:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 346.91,
     "availability": 9
   },
   {
-    "date": "2025-12-01T18:12:00.000Z",
+    "date": "2026-01-01T14:33:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 216.37,
     "availability": 6
   },
   {
-    "date": "2025-10-28T20:37:00.000Z",
+    "date": "2025-11-28T01:54:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 273.76,
     "availability": 9
   },
   {
-    "date": "2025-10-28T11:20:00.000Z",
+    "date": "2025-11-28T01:43:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 188.74,
     "availability": 8
   },
   {
-    "date": "2025-10-28T00:13:00.000Z",
+    "date": "2025-11-28T22:59:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 305.88,
     "availability": 8
   },
   {
-    "date": "2025-11-12T05:07:00.000Z",
+    "date": "2025-12-12T23:53:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 259.43,
     "availability": 1
   },
   {
-    "date": "2025-11-12T12:20:00.000Z",
+    "date": "2025-12-12T15:33:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 376.8,
     "availability": 2
   },
   {
-    "date": "2025-11-12T16:52:00.000Z",
+    "date": "2025-12-12T00:42:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 243.59,
     "availability": 5
   },
   {
-    "date": "2025-10-18T15:57:00.000Z",
+    "date": "2025-11-18T15:02:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 154.62,
     "availability": 4
   },
   {
-    "date": "2025-10-18T05:21:00.000Z",
+    "date": "2025-11-18T04:04:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 483.41,
     "availability": 4
   },
   {
-    "date": "2025-10-18T22:49:00.000Z",
+    "date": "2025-11-18T19:34:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 316.86,
     "availability": 2
   },
   {
-    "date": "2025-11-24T20:12:00.000Z",
+    "date": "2025-12-24T19:38:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 395.44,
     "availability": 9
   },
   {
-    "date": "2025-11-22T21:08:00.000Z",
+    "date": "2025-12-22T15:11:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 428.94,
     "availability": 4
   },
   {
-    "date": "2025-11-21T17:53:00.000Z",
+    "date": "2025-12-21T08:59:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 498.53,
     "availability": 1
   },
   {
-    "date": "2025-10-28T01:21:00.000Z",
+    "date": "2025-11-28T10:40:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 371.58,
     "availability": 9
   },
   {
-    "date": "2025-11-01T10:18:00.000Z",
+    "date": "2025-12-01T22:01:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 359.45,
     "availability": 6
   },
   {
-    "date": "2025-11-01T16:17:00.000Z",
+    "date": "2025-12-01T03:30:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 191.29,
     "availability": 5
   },
   {
-    "date": "2025-12-11T20:11:00.000Z",
+    "date": "2026-01-11T12:29:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 339.86,
     "availability": 7
   },
   {
-    "date": "2025-12-11T10:04:00.000Z",
+    "date": "2026-01-11T04:29:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 244.57,
     "availability": 7
   },
   {
-    "date": "2025-12-11T15:55:00.000Z",
+    "date": "2026-01-11T16:48:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 470.22,
     "availability": 7
   },
   {
-    "date": "2026-04-04T13:31:00.000Z",
+    "date": "2026-05-04T22:41:00.000Z",
     "origin": "COR",
     "destination": "MDZ",
     "price": 390.76,
     "availability": 3
   },
   {
-    "date": "2026-04-03T09:17:00.000Z",
+    "date": "2026-05-03T11:56:00.000Z",
     "origin": "COR",
     "destination": "BRC",
     "price": 288.26,
     "availability": 7
   },
   {
-    "date": "2026-04-03T01:42:00.000Z",
+    "date": "2026-05-03T13:26:00.000Z",
     "origin": "EPA",
     "destination": "BRC",
     "price": 378.17,
     "availability": 8
   },
   {
-    "date": "2025-12-09T00:44:00.000Z",
+    "date": "2026-01-09T18:01:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 468.53,
     "availability": 2
   },
   {
-    "date": "2025-12-09T22:19:00.000Z",
+    "date": "2026-01-09T15:46:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 294.35,
     "availability": 7
   },
   {
-    "date": "2025-12-10T09:26:00.000Z",
+    "date": "2026-01-10T03:47:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 328.79,
     "availability": 4
   },
   {
-    "date": "2025-11-06T11:23:00.000Z",
+    "date": "2025-12-06T13:35:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 440.5,
     "availability": 1
   },
   {
-    "date": "2025-11-05T02:33:00.000Z",
+    "date": "2025-12-05T02:38:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 228.01,
     "availability": 7
   },
   {
-    "date": "2025-11-05T10:23:00.000Z",
+    "date": "2025-12-06T00:17:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 422.39,
     "availability": 3
   },
   {
-    "date": "2025-11-19T05:37:00.000Z",
+    "date": "2025-12-19T15:42:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 452.2,
     "availability": 4
   },
   {
-    "date": "2025-11-19T11:30:00.000Z",
+    "date": "2025-12-19T23:55:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 284.98,
     "availability": 1
   },
   {
-    "date": "2025-11-20T17:15:00.000Z",
+    "date": "2025-12-20T03:07:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 487.75,
     "availability": 7
   },
   {
-    "date": "2025-10-22T05:47:00.000Z",
+    "date": "2025-11-22T20:01:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 476.29,
     "availability": 3
   },
   {
-    "date": "2025-10-21T17:29:00.000Z",
+    "date": "2025-11-21T11:51:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 281.36,
     "availability": 2
   },
   {
-    "date": "2025-10-22T06:28:00.000Z",
+    "date": "2025-11-22T02:46:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 266.15,
     "availability": 3
   },
   {
-    "date": "2025-12-10T16:16:00.000Z",
+    "date": "2026-01-10T16:12:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 294.54,
     "availability": 6
   },
   {
-    "date": "2025-12-10T01:33:00.000Z",
+    "date": "2026-01-10T14:55:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 174.97,
     "availability": 2
   },
   {
-    "date": "2025-12-10T10:44:00.000Z",
+    "date": "2026-01-10T17:03:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 268.75,
     "availability": 4
   },
   {
-    "date": "2025-11-01T16:24:00.000Z",
+    "date": "2025-12-01T12:38:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 362.58,
     "availability": 3
   },
   {
-    "date": "2025-11-02T02:44:00.000Z",
+    "date": "2025-12-02T10:48:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 235.64,
     "availability": 8
   },
   {
-    "date": "2025-11-01T10:23:00.000Z",
+    "date": "2025-12-01T04:22:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 282.69,
     "availability": 6
   },
   {
-    "date": "2025-12-19T18:38:00.000Z",
+    "date": "2026-01-19T04:27:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 171.93,
     "availability": 2
   },
   {
-    "date": "2025-12-19T19:36:00.000Z",
+    "date": "2026-01-19T02:17:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 494.91,
     "availability": 3
   },
   {
-    "date": "2025-12-20T18:08:00.000Z",
+    "date": "2026-01-20T19:33:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 212.83,
     "availability": 9
   },
   {
-    "date": "2025-10-18T12:15:00.000Z",
+    "date": "2025-11-18T17:37:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 453.72,
     "availability": 4
   },
   {
-    "date": "2025-10-17T03:52:00.000Z",
+    "date": "2025-11-17T11:37:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 374.69,
     "availability": 7
   },
   {
-    "date": "2025-10-17T10:41:00.000Z",
+    "date": "2025-11-17T13:17:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 279.32,
     "availability": 2
   },
   {
-    "date": "2025-12-23T00:26:00.000Z",
+    "date": "2026-01-23T15:13:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 175.63,
     "availability": 4
   },
   {
-    "date": "2025-12-22T21:46:00.000Z",
+    "date": "2026-01-22T19:37:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 242.08,
     "availability": 9
   },
   {
-    "date": "2025-12-23T19:21:00.000Z",
+    "date": "2026-01-23T14:46:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 474.83,
     "availability": 1
   },
   {
-    "date": "2025-11-17T08:39:00.000Z",
+    "date": "2025-12-17T17:34:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 419.09,
     "availability": 6
   },
   {
-    "date": "2025-11-16T16:50:00.000Z",
+    "date": "2025-12-16T13:56:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 451.27,
     "availability": 7
   },
   {
-    "date": "2025-11-16T05:26:00.000Z",
+    "date": "2025-12-16T08:48:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 398.81,
     "availability": 1
   },
   {
-    "date": "2025-12-04T09:03:00.000Z",
+    "date": "2026-01-04T20:04:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 403.45,
     "availability": 2
   },
   {
-    "date": "2025-12-02T16:20:00.000Z",
+    "date": "2026-01-02T15:16:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 294.93,
     "availability": 1
   },
   {
-    "date": "2025-12-03T14:29:00.000Z",
+    "date": "2026-01-03T19:43:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 196.13,
     "availability": 2
   },
   {
-    "date": "2025-11-04T18:04:00.000Z",
+    "date": "2025-12-04T17:05:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 415.15,
     "availability": 6
   },
   {
-    "date": "2025-11-03T19:40:00.000Z",
+    "date": "2025-12-03T11:13:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 292.81,
     "availability": 7
   },
   {
-    "date": "2025-11-04T08:32:00.000Z",
+    "date": "2025-12-04T14:22:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 438.83,
     "availability": 8
   },
   {
-    "date": "2025-12-21T23:17:00.000Z",
+    "date": "2026-01-21T23:18:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 460.83,
     "availability": 5
   },
   {
-    "date": "2025-12-23T08:04:00.000Z",
+    "date": "2026-01-23T23:15:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 466.55,
     "availability": 6
   },
   {
-    "date": "2025-12-21T04:30:00.000Z",
+    "date": "2026-01-21T12:58:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 187.62,
     "availability": 1
   },
   {
-    "date": "2025-11-08T06:43:00.000Z",
+    "date": "2025-12-08T15:08:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 290.25,
     "availability": 7
   },
   {
-    "date": "2025-11-07T05:19:00.000Z",
+    "date": "2025-12-07T10:38:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 376.51,
     "availability": 4
   },
   {
-    "date": "2025-11-06T05:45:00.000Z",
+    "date": "2025-12-06T17:29:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 385.19,
     "availability": 1
   },
   {
-    "date": "2025-12-29T17:25:00.000Z",
+    "date": "2026-01-29T16:04:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 378.43,
     "availability": 5
   },
   {
-    "date": "2026-01-01T22:54:00.000Z",
+    "date": "2026-02-01T22:55:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 366.47,
     "availability": 4
   },
   {
-    "date": "2026-01-01T09:06:00.000Z",
+    "date": "2026-02-01T07:51:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 200.35,
     "availability": 5
   },
   {
-    "date": "2025-10-21T15:33:00.000Z",
+    "date": "2025-11-21T18:00:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 333.85,
     "availability": 3
   },
   {
-    "date": "2025-10-21T16:48:00.000Z",
+    "date": "2025-11-21T22:02:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 407.8,
     "availability": 9
   },
   {
-    "date": "2025-10-23T17:04:00.000Z",
+    "date": "2025-11-23T16:03:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 239.6,
     "availability": 5
   },
   {
-    "date": "2026-01-03T20:47:00.000Z",
+    "date": "2026-02-03T18:14:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 400.04,
     "availability": 3
   },
   {
-    "date": "2026-01-03T18:39:00.000Z",
+    "date": "2026-02-03T03:14:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 445.84,
     "availability": 1
   },
   {
-    "date": "2026-01-02T02:00:00.000Z",
+    "date": "2026-02-02T12:27:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 218.1,
     "availability": 5
   },
   {
-    "date": "2025-11-23T13:09:00.000Z",
+    "date": "2025-12-23T16:18:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 379.9,
     "availability": 6
   },
   {
-    "date": "2025-11-23T12:39:00.000Z",
+    "date": "2025-12-23T05:43:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 217.21,
     "availability": 8
   },
   {
-    "date": "2025-11-23T13:14:00.000Z",
+    "date": "2025-12-23T14:54:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 187.62,
     "availability": 4
   },
   {
-    "date": "2025-12-01T12:04:00.000Z",
+    "date": "2026-01-01T18:39:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 485.08,
     "availability": 5
   },
   {
-    "date": "2025-12-02T16:16:00.000Z",
+    "date": "2026-01-02T03:10:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 385.6,
     "availability": 8
   },
   {
-    "date": "2025-12-02T07:16:00.000Z",
+    "date": "2026-01-02T13:26:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 291.42,
     "availability": 7
   },
   {
-    "date": "2025-11-08T05:06:00.000Z",
+    "date": "2025-12-08T20:11:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 328.58,
     "availability": 4
   },
   {
-    "date": "2025-11-08T13:09:00.000Z",
+    "date": "2025-12-08T08:42:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 436.55,
     "availability": 7
   },
   {
-    "date": "2025-11-08T01:06:00.000Z",
+    "date": "2025-12-08T21:09:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 486.3,
     "availability": 3
   },
   {
-    "date": "2026-01-02T01:57:00.000Z",
+    "date": "2026-02-02T13:06:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 285.21,
     "availability": 4
   },
   {
-    "date": "2026-01-01T22:52:00.000Z",
+    "date": "2026-02-01T15:05:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 488.91,
     "availability": 6
   },
   {
-    "date": "2026-01-02T20:45:00.000Z",
+    "date": "2026-02-02T12:19:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 426.47,
     "availability": 3
   },
   {
-    "date": "2025-11-16T21:48:00.000Z",
+    "date": "2025-12-16T10:01:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 223.48,
     "availability": 6
   },
   {
-    "date": "2025-11-16T02:33:00.000Z",
+    "date": "2025-12-16T04:27:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 470.92,
     "availability": 7
   },
   {
-    "date": "2025-11-15T06:49:00.000Z",
+    "date": "2025-12-15T05:39:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 448.63,
     "availability": 6
   },
   {
-    "date": "2026-01-01T08:20:00.000Z",
+    "date": "2026-02-01T04:17:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 208.12,
     "availability": 6
   },
   {
-    "date": "2026-01-01T13:05:00.000Z",
+    "date": "2026-02-01T02:28:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 185.79,
     "availability": 9
   },
   {
-    "date": "2026-01-01T04:53:00.000Z",
+    "date": "2026-02-01T11:39:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 499.12,
     "availability": 5
   },
   {
-    "date": "2025-11-04T08:19:00.000Z",
+    "date": "2025-12-04T10:45:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 438.92,
     "availability": 9
   },
   {
-    "date": "2025-11-05T02:57:00.000Z",
+    "date": "2025-12-05T01:34:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 415.33,
     "availability": 1
   },
   {
-    "date": "2025-11-05T00:39:00.000Z",
+    "date": "2025-12-05T13:43:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 339.8,
     "availability": 7
   },
   {
-    "date": "2026-01-12T23:38:00.000Z",
+    "date": "2026-02-12T07:38:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 255.04,
     "availability": 9
   },
   {
-    "date": "2026-01-11T01:56:00.000Z",
+    "date": "2026-02-11T03:54:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 260.46,
     "availability": 4
   },
   {
-    "date": "2026-01-11T05:55:00.000Z",
+    "date": "2026-02-11T04:37:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 320,
     "availability": 7
   },
   {
-    "date": "2025-11-28T13:51:00.000Z",
+    "date": "2025-12-28T02:44:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 394.49,
     "availability": 4
   },
   {
-    "date": "2025-11-28T16:58:00.000Z",
+    "date": "2025-12-28T04:15:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 388.11,
     "availability": 7
   },
   {
-    "date": "2025-11-28T05:11:00.000Z",
+    "date": "2025-12-28T09:54:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 392.37,
     "availability": 8
   },
   {
-    "date": "2025-12-12T01:56:00.000Z",
+    "date": "2026-01-12T09:16:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 159.51,
     "availability": 9
   },
   {
-    "date": "2025-12-12T23:48:00.000Z",
+    "date": "2026-01-12T01:25:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 466.15,
     "availability": 9
   },
   {
-    "date": "2025-12-12T14:53:00.000Z",
+    "date": "2026-01-12T04:14:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 473.75,
     "availability": 7
   },
   {
-    "date": "2025-11-14T00:20:00.000Z",
+    "date": "2025-12-14T22:33:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 245.71,
     "availability": 8
   },
   {
-    "date": "2025-11-13T04:54:00.000Z",
+    "date": "2025-12-13T12:09:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 162.25,
     "availability": 3
   },
   {
-    "date": "2025-11-14T05:17:00.000Z",
+    "date": "2025-12-14T15:28:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 458.52,
     "availability": 2
   },
   {
-    "date": "2026-01-12T11:26:00.000Z",
+    "date": "2026-02-12T02:07:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 358.34,
     "availability": 9
   },
   {
-    "date": "2026-01-12T03:39:00.000Z",
+    "date": "2026-02-12T07:56:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 210.9,
     "availability": 4
   },
   {
-    "date": "2026-01-12T02:33:00.000Z",
+    "date": "2026-02-12T04:33:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 246.55,
     "availability": 8
   },
   {
-    "date": "2025-11-23T07:12:00.000Z",
+    "date": "2025-12-23T05:30:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 323.01,
     "availability": 8
   },
   {
-    "date": "2025-11-24T21:56:00.000Z",
+    "date": "2025-12-24T03:49:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 408.09,
     "availability": 4
   },
   {
-    "date": "2025-11-24T05:47:00.000Z",
+    "date": "2025-12-24T01:57:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 340.08,
     "availability": 2
   },
   {
-    "date": "2026-01-10T15:50:00.000Z",
+    "date": "2026-02-10T01:51:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 375.58,
     "availability": 3
   },
   {
-    "date": "2026-01-09T20:56:00.000Z",
+    "date": "2026-02-09T10:26:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 154.51,
     "availability": 7
   },
   {
-    "date": "2026-01-10T07:02:00.000Z",
+    "date": "2026-02-10T17:06:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 215.63,
     "availability": 5
   },
   {
-    "date": "2025-11-09T13:51:00.000Z",
+    "date": "2025-12-09T06:24:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 391,
     "availability": 2
   },
   {
-    "date": "2025-11-09T22:56:00.000Z",
+    "date": "2025-12-09T12:23:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 180.15,
     "availability": 6
   },
   {
-    "date": "2025-11-08T14:27:00.000Z",
+    "date": "2025-12-08T20:02:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 463.06,
     "availability": 5
   },
   {
-    "date": "2026-01-26T22:46:00.000Z",
+    "date": "2026-02-26T07:09:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 330.55,
     "availability": 9
   },
   {
-    "date": "2026-01-26T15:31:00.000Z",
+    "date": "2026-02-26T02:02:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 165.91,
     "availability": 9
   },
   {
-    "date": "2026-01-26T01:38:00.000Z",
+    "date": "2026-02-26T01:40:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 428.67,
     "availability": 1
   },
   {
-    "date": "2025-12-05T10:49:00.000Z",
+    "date": "2026-01-05T05:01:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 358.32,
     "availability": 6
   },
   {
-    "date": "2025-12-05T15:54:00.000Z",
+    "date": "2026-01-05T07:40:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 497.24,
     "availability": 5
   },
   {
-    "date": "2025-12-05T18:31:00.000Z",
+    "date": "2026-01-05T12:01:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 245.27,
     "availability": 3
   },
   {
-    "date": "2025-12-21T08:09:00.000Z",
+    "date": "2026-01-21T02:22:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 270.27,
     "availability": 4
   },
   {
-    "date": "2025-12-20T07:42:00.000Z",
+    "date": "2026-01-20T20:38:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 499.4,
     "availability": 3
   },
   {
-    "date": "2025-12-20T19:26:00.000Z",
+    "date": "2026-01-20T13:24:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 374.31,
     "availability": 1
   },
   {
-    "date": "2025-11-19T15:37:00.000Z",
+    "date": "2025-12-19T04:01:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 421.31,
     "availability": 2
   },
   {
-    "date": "2025-11-19T12:07:00.000Z",
+    "date": "2025-12-19T03:23:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 406.43,
     "availability": 1
   },
   {
-    "date": "2025-11-20T04:09:00.000Z",
+    "date": "2025-12-20T07:45:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 414.56,
     "availability": 7
   },
   {
-    "date": "2026-01-25T21:57:00.000Z",
+    "date": "2026-02-25T20:19:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 453.42,
     "availability": 2
   },
   {
-    "date": "2026-01-25T02:00:00.000Z",
+    "date": "2026-02-25T01:36:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 390.69,
     "availability": 4
   },
   {
-    "date": "2026-01-26T05:44:00.000Z",
+    "date": "2026-02-26T03:30:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 324.26,
     "availability": 6
   },
   {
-    "date": "2025-11-29T03:50:00.000Z",
+    "date": "2025-12-29T20:16:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 174.63,
     "availability": 3
   },
   {
-    "date": "2025-11-28T22:11:00.000Z",
+    "date": "2025-12-28T09:55:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 426.81,
     "availability": 4
   },
   {
-    "date": "2025-12-01T15:47:00.000Z",
+    "date": "2026-01-01T14:22:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 374.1,
     "availability": 1
   },
   {
-    "date": "2026-01-23T16:42:00.000Z",
+    "date": "2026-02-23T13:08:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 453.17,
     "availability": 9
   },
   {
-    "date": "2026-01-23T15:50:00.000Z",
+    "date": "2026-02-23T06:19:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 489.12,
     "availability": 5
   },
   {
-    "date": "2026-01-24T00:41:00.000Z",
+    "date": "2026-02-24T23:02:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 493.46,
     "availability": 9
   },
   {
-    "date": "2025-11-14T15:01:00.000Z",
+    "date": "2025-12-14T04:16:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 158.29,
     "availability": 4
   },
   {
-    "date": "2025-11-13T11:24:00.000Z",
+    "date": "2025-12-13T11:52:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 271.33,
     "availability": 8
   },
   {
-    "date": "2025-11-13T02:26:00.000Z",
+    "date": "2025-12-13T02:20:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 439.83,
     "availability": 8
   },
   {
-    "date": "2026-02-01T20:30:00.000Z",
+    "date": "2026-03-01T00:02:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 187.44,
     "availability": 5
   },
   {
-    "date": "2026-02-01T02:00:00.000Z",
+    "date": "2026-03-01T04:23:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 257.84,
     "availability": 4
   },
   {
-    "date": "2026-02-03T12:08:00.000Z",
+    "date": "2026-03-03T13:50:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 358.06,
     "availability": 1
   },
   {
-    "date": "2025-12-18T02:45:00.000Z",
+    "date": "2026-01-18T02:40:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 289.59,
     "availability": 8
   },
   {
-    "date": "2025-12-15T01:37:00.000Z",
+    "date": "2026-01-15T22:06:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 466.61,
     "availability": 5
   },
   {
-    "date": "2025-12-16T08:13:00.000Z",
+    "date": "2026-01-16T23:13:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 411.58,
     "availability": 6
   },
   {
-    "date": "2025-12-30T21:21:00.000Z",
+    "date": "2026-01-30T03:57:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 348.88,
     "availability": 6
   },
   {
-    "date": "2025-12-29T16:30:00.000Z",
+    "date": "2026-01-29T08:49:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 427.07,
     "availability": 8
   },
   {
-    "date": "2025-12-29T15:43:00.000Z",
+    "date": "2026-01-29T11:22:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 158.3,
     "availability": 2
   },
   {
-    "date": "2025-11-26T01:23:00.000Z",
+    "date": "2025-12-26T03:46:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 419.89,
     "availability": 4
   },
   {
-    "date": "2025-11-26T22:25:00.000Z",
+    "date": "2025-12-26T18:17:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 467.55,
     "availability": 6
   },
   {
-    "date": "2025-11-27T12:10:00.000Z",
+    "date": "2025-12-27T14:04:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 297.13,
     "availability": 1
   },
   {
-    "date": "2026-02-02T11:32:00.000Z",
+    "date": "2026-03-02T03:58:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 393.24,
     "availability": 1
   },
   {
-    "date": "2026-02-02T12:08:00.000Z",
+    "date": "2026-03-02T19:39:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 333.38,
     "availability": 8
   },
   {
-    "date": "2026-02-01T09:26:00.000Z",
+    "date": "2026-03-01T01:18:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 158.32,
     "availability": 8
   },
   {
-    "date": "2025-12-06T03:16:00.000Z",
+    "date": "2026-01-06T23:22:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 439.73,
     "availability": 1
   },
   {
-    "date": "2025-12-06T15:40:00.000Z",
+    "date": "2026-01-06T15:39:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 412.05,
     "availability": 2
   },
   {
-    "date": "2025-12-06T01:03:00.000Z",
+    "date": "2026-01-06T05:20:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 194.93,
     "availability": 5
   },
   {
-    "date": "2026-01-30T10:46:00.000Z",
+    "date": "2026-03-02T09:48:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 367.83,
     "availability": 4
   },
   {
-    "date": "2026-01-27T15:37:00.000Z",
+    "date": "2026-02-27T07:32:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 493.34,
     "availability": 2
   },
   {
-    "date": "2026-01-27T16:40:00.000Z",
+    "date": "2026-02-27T06:15:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 324.47,
     "availability": 6
   },
   {
-    "date": "2025-11-16T18:04:00.000Z",
+    "date": "2025-12-16T03:00:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 491.42,
     "availability": 7
   },
   {
-    "date": "2025-11-17T03:10:00.000Z",
+    "date": "2025-12-17T09:53:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 203.27,
     "availability": 5
   },
   {
-    "date": "2025-11-18T06:06:00.000Z",
+    "date": "2025-12-18T07:26:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 486.6,
     "availability": 8
   },
   {
-    "date": "2026-02-12T20:36:00.000Z",
+    "date": "2026-03-12T02:40:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 183.18,
     "availability": 6
   },
   {
-    "date": "2026-02-12T21:07:00.000Z",
+    "date": "2026-03-12T01:16:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 460.4,
     "availability": 7
   },
   {
-    "date": "2026-02-13T03:52:00.000Z",
+    "date": "2026-03-13T02:27:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 204.3,
     "availability": 4
   },
   {
-    "date": "2025-12-24T13:06:00.000Z",
+    "date": "2026-01-24T06:24:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 164.63,
     "availability": 2
   },
   {
-    "date": "2025-12-24T12:59:00.000Z",
+    "date": "2026-01-24T01:44:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 492.63,
     "availability": 3
   },
   {
-    "date": "2025-12-25T10:22:00.000Z",
+    "date": "2026-01-25T11:48:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 459.99,
     "availability": 1
   },
   {
-    "date": "2026-01-11T09:32:00.000Z",
+    "date": "2026-02-11T19:43:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 333.31,
     "availability": 4
   },
   {
-    "date": "2026-01-10T01:49:00.000Z",
+    "date": "2026-02-10T20:37:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 370.54,
     "availability": 6
   },
   {
-    "date": "2026-01-10T18:55:00.000Z",
+    "date": "2026-02-10T23:15:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 436.9,
     "availability": 8
   },
   {
-    "date": "2025-12-03T04:44:00.000Z",
+    "date": "2026-01-03T03:43:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 236.68,
     "availability": 7
   },
   {
-    "date": "2025-12-04T23:23:00.000Z",
+    "date": "2026-01-04T07:34:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 201.25,
     "availability": 9
   },
   {
-    "date": "2025-12-03T07:55:00.000Z",
+    "date": "2026-01-03T11:27:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 283.04,
     "availability": 2
   },
   {
-    "date": "2026-02-11T06:05:00.000Z",
+    "date": "2026-03-11T14:14:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 247.7,
     "availability": 3
   },
   {
-    "date": "2026-02-10T18:58:00.000Z",
+    "date": "2026-03-10T05:26:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 246.49,
     "availability": 6
   },
   {
-    "date": "2026-02-11T06:46:00.000Z",
+    "date": "2026-03-11T09:57:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 318.21,
     "availability": 8
   },
   {
-    "date": "2025-12-16T02:18:00.000Z",
+    "date": "2026-01-16T06:04:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 385.58,
     "availability": 4
   },
   {
-    "date": "2025-12-17T23:41:00.000Z",
+    "date": "2026-01-17T03:20:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 273.04,
     "availability": 3
   },
   {
-    "date": "2025-12-15T05:57:00.000Z",
+    "date": "2026-01-15T01:02:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 429.79,
     "availability": 5
   },
   {
-    "date": "2026-02-02T08:20:00.000Z",
+    "date": "2026-03-02T03:19:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 187,
     "availability": 8
   },
   {
-    "date": "2026-01-28T13:05:00.000Z",
+    "date": "2026-02-28T11:04:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 271.77,
     "availability": 3
   },
   {
-    "date": "2026-02-02T22:34:00.000Z",
+    "date": "2026-03-02T20:44:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 266.63,
     "availability": 7
   },
   {
-    "date": "2025-11-25T18:23:00.000Z",
+    "date": "2025-12-25T12:42:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 273.96,
     "availability": 5
   },
   {
-    "date": "2025-11-25T09:20:00.000Z",
+    "date": "2025-12-25T21:25:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 371.27,
     "availability": 4
   },
   {
-    "date": "2025-11-25T18:13:00.000Z",
+    "date": "2025-12-25T09:13:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 238.13,
     "availability": 2
   },
   {
-    "date": "2026-02-20T11:08:00.000Z",
+    "date": "2026-03-20T23:14:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 311.51,
     "availability": 4
   },
   {
-    "date": "2026-02-22T16:50:00.000Z",
+    "date": "2026-03-22T14:27:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 249.71,
     "availability": 7
   },
   {
-    "date": "2026-02-20T17:28:00.000Z",
+    "date": "2026-03-20T01:53:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 292.18,
     "availability": 5
   },
   {
-    "date": "2025-12-28T04:24:00.000Z",
+    "date": "2026-01-28T04:49:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 183.98,
     "availability": 8
   },
   {
-    "date": "2025-12-29T00:09:00.000Z",
+    "date": "2026-01-29T17:24:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 489.59,
     "availability": 5
   },
   {
-    "date": "2025-12-28T08:39:00.000Z",
+    "date": "2026-01-28T12:10:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 431.08,
     "availability": 6
   },
   {
-    "date": "2026-01-25T18:37:00.000Z",
+    "date": "2026-02-25T03:31:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 432.28,
     "availability": 6
   },
   {
-    "date": "2026-01-25T05:48:00.000Z",
+    "date": "2026-02-25T02:16:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 369.04,
     "availability": 5
   },
   {
-    "date": "2026-01-26T23:43:00.000Z",
+    "date": "2026-02-26T07:34:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 335.36,
     "availability": 1
   },
   {
-    "date": "2025-12-08T01:55:00.000Z",
+    "date": "2026-01-08T14:00:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 460.03,
     "availability": 8
   },
   {
-    "date": "2025-12-08T14:36:00.000Z",
+    "date": "2026-01-08T11:43:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 296.3,
     "availability": 9
   },
   {
-    "date": "2025-12-07T17:25:00.000Z",
+    "date": "2026-01-07T14:45:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 192.22,
     "availability": 1
   },
   {
-    "date": "2026-02-19T20:13:00.000Z",
+    "date": "2026-03-19T18:46:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 224.33,
     "availability": 9
   },
   {
-    "date": "2026-02-20T10:45:00.000Z",
+    "date": "2026-03-20T03:38:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 192.09,
     "availability": 6
   },
   {
-    "date": "2026-02-21T00:00:00.000Z",
+    "date": "2026-03-22T00:36:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 371.97,
     "availability": 1
   },
   {
-    "date": "2025-12-23T13:53:00.000Z",
+    "date": "2026-01-23T06:14:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 499.71,
     "availability": 9
   },
   {
-    "date": "2025-12-22T05:30:00.000Z",
+    "date": "2026-01-22T12:56:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 326.34,
     "availability": 5
   },
   {
-    "date": "2025-12-23T22:57:00.000Z",
+    "date": "2026-01-23T05:24:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 318.92,
     "availability": 8
   },
   {
-    "date": "2026-02-09T20:09:00.000Z",
+    "date": "2026-03-09T15:26:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 321.01,
     "availability": 9
   },
   {
-    "date": "2026-02-09T14:47:00.000Z",
+    "date": "2026-03-09T05:21:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 405.11,
     "availability": 7
   },
   {
-    "date": "2026-02-09T17:51:00.000Z",
+    "date": "2026-03-09T10:15:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 457.47,
     "availability": 1
   },
   {
-    "date": "2025-12-04T13:06:00.000Z",
+    "date": "2026-01-04T01:55:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 172.02,
     "availability": 3
   },
   {
-    "date": "2025-12-05T00:38:00.000Z",
+    "date": "2026-01-05T20:38:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 435.12,
     "availability": 1
   },
   {
-    "date": "2025-12-04T19:30:00.000Z",
+    "date": "2026-01-04T16:51:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 373.31,
     "availability": 2
   },
   {
-    "date": "2026-02-28T11:59:00.000Z",
+    "date": "2026-03-28T20:40:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 341.61,
     "availability": 9
   },
   {
-    "date": "2026-03-01T10:32:00.000Z",
+    "date": "2026-04-01T06:35:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 439.11,
     "availability": 2
   },
   {
-    "date": "2026-03-02T09:15:00.000Z",
+    "date": "2026-04-02T08:10:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 185.86,
     "availability": 3
   },
   {
-    "date": "2026-01-07T19:29:00.000Z",
+    "date": "2026-02-07T06:47:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 194.91,
     "availability": 5
   },
   {
-    "date": "2026-01-06T11:15:00.000Z",
+    "date": "2026-02-06T17:57:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 154.51,
     "availability": 2
   },
   {
-    "date": "2026-01-06T16:20:00.000Z",
+    "date": "2026-02-06T14:57:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 234.53,
     "availability": 3
   },
   {
-    "date": "2026-02-11T10:09:00.000Z",
+    "date": "2026-03-11T13:27:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 168.14,
     "availability": 7
   },
   {
-    "date": "2026-02-10T23:11:00.000Z",
+    "date": "2026-03-10T19:42:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 350.59,
     "availability": 4
   },
   {
-    "date": "2026-02-10T06:46:00.000Z",
+    "date": "2026-03-10T05:33:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 391.6,
     "availability": 5
   },
   {
-    "date": "2025-12-16T12:16:00.000Z",
+    "date": "2026-01-16T09:07:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 340.84,
     "availability": 2
   },
   {
-    "date": "2025-12-14T08:34:00.000Z",
+    "date": "2026-01-14T17:41:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 483.9,
     "availability": 1
   },
   {
-    "date": "2025-12-15T01:02:00.000Z",
+    "date": "2026-01-15T01:18:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 327.67,
     "availability": 8
   },
   {
-    "date": "2026-03-02T20:57:00.000Z",
+    "date": "2026-04-02T17:57:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 170.05,
     "availability": 5
   },
   {
-    "date": "2026-03-02T13:55:00.000Z",
+    "date": "2026-04-02T17:31:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 207.92,
     "availability": 2
   },
   {
-    "date": "2026-03-02T17:28:00.000Z",
+    "date": "2026-04-02T08:53:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 162.36,
     "availability": 8
   },
   {
-    "date": "2025-12-28T14:05:00.000Z",
+    "date": "2026-01-28T05:51:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 337.78,
     "availability": 3
   },
   {
-    "date": "2025-12-27T08:36:00.000Z",
+    "date": "2026-01-27T03:54:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 266.86,
     "availability": 3
   },
   {
-    "date": "2025-12-28T10:36:00.000Z",
+    "date": "2026-01-28T20:02:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 491.8,
     "availability": 2
   },
   {
-    "date": "2026-02-23T12:58:00.000Z",
+    "date": "2026-03-23T07:58:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 260.59,
     "availability": 9
   },
   {
-    "date": "2026-02-22T16:00:00.000Z",
+    "date": "2026-03-22T18:23:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 162.87,
     "availability": 2
   },
   {
-    "date": "2026-02-23T19:15:00.000Z",
+    "date": "2026-03-23T14:17:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 373.64,
     "availability": 2
   },
   {
-    "date": "2025-12-09T20:23:00.000Z",
+    "date": "2026-01-09T03:52:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 194.37,
     "availability": 3
   },
   {
-    "date": "2025-12-08T00:04:00.000Z",
+    "date": "2026-01-08T03:24:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 439.08,
     "availability": 8
   },
   {
-    "date": "2025-12-08T03:36:00.000Z",
+    "date": "2026-01-09T00:15:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 161.79,
     "availability": 9
   },
   {
-    "date": "2026-03-05T15:21:00.000Z",
+    "date": "2026-04-05T02:15:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 303.23,
     "availability": 2
   },
   {
-    "date": "2026-03-06T23:44:00.000Z",
+    "date": "2026-04-06T14:26:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 162.97,
     "availability": 1
   },
   {
-    "date": "2026-03-05T21:18:00.000Z",
+    "date": "2026-04-05T22:37:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 181.35,
     "availability": 9
   },
   {
-    "date": "2026-01-15T06:09:00.000Z",
+    "date": "2026-02-15T04:26:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 369.74,
     "availability": 8
   },
   {
-    "date": "2026-01-16T00:09:00.000Z",
+    "date": "2026-02-16T05:56:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 294.01,
     "availability": 3
   },
   {
-    "date": "2026-01-15T06:49:00.000Z",
+    "date": "2026-02-15T09:28:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 410.96,
     "availability": 7
   },
   {
-    "date": "2026-02-21T16:52:00.000Z",
+    "date": "2026-03-21T10:21:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 203.52,
     "availability": 8
   },
   {
-    "date": "2026-02-21T01:26:00.000Z",
+    "date": "2026-03-21T05:40:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 250.9,
     "availability": 1
   },
   {
-    "date": "2026-02-22T00:45:00.000Z",
+    "date": "2026-03-22T03:15:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 416.65,
     "availability": 6
   },
   {
-    "date": "2025-12-19T12:34:00.000Z",
+    "date": "2026-01-19T14:13:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 422.95,
     "availability": 1
   },
   {
-    "date": "2025-12-18T20:46:00.000Z",
+    "date": "2026-01-18T03:28:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 326.13,
     "availability": 5
   },
   {
-    "date": "2025-12-17T04:06:00.000Z",
+    "date": "2026-01-17T07:41:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 273.95,
     "availability": 1
   },
   {
-    "date": "2026-03-06T06:15:00.000Z",
+    "date": "2026-04-06T16:35:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 301.14,
     "availability": 5
   },
   {
-    "date": "2026-03-07T20:36:00.000Z",
+    "date": "2026-04-07T01:15:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 344.04,
     "availability": 5
   },
   {
-    "date": "2026-03-06T20:40:00.000Z",
+    "date": "2026-04-06T05:31:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 275.89,
     "availability": 7
   },
   {
-    "date": "2026-01-07T06:26:00.000Z",
+    "date": "2026-02-07T09:29:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 385.67,
     "availability": 2
   },
   {
-    "date": "2026-01-05T21:34:00.000Z",
+    "date": "2026-02-05T09:15:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 273.9,
     "availability": 3
   },
   {
-    "date": "2026-01-05T16:20:00.000Z",
+    "date": "2026-02-05T12:48:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 233.79,
     "availability": 4
   },
   {
-    "date": "2026-03-04T11:25:00.000Z",
+    "date": "2026-04-04T03:06:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 176.12,
     "availability": 4
   },
   {
-    "date": "2026-03-03T20:58:00.000Z",
+    "date": "2026-04-03T04:50:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 221.84,
     "availability": 9
   },
   {
-    "date": "2026-03-03T09:30:00.000Z",
+    "date": "2026-04-03T11:32:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 228.32,
     "availability": 1
   },
   {
-    "date": "2025-12-14T06:16:00.000Z",
+    "date": "2026-01-14T08:05:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 472.66,
     "availability": 7
   },
   {
-    "date": "2025-12-13T13:08:00.000Z",
+    "date": "2026-01-13T12:14:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 311.49,
     "availability": 6
   },
   {
-    "date": "2025-12-13T14:49:00.000Z",
+    "date": "2026-01-13T18:04:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 189.7,
     "availability": 6
   },
   {
-    "date": "2026-03-17T19:55:00.000Z",
+    "date": "2026-04-17T17:41:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 430.2,
     "availability": 6
   },
   {
-    "date": "2026-03-16T20:08:00.000Z",
+    "date": "2026-04-16T07:24:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 424.53,
     "availability": 9
   },
   {
-    "date": "2026-03-16T09:45:00.000Z",
+    "date": "2026-04-16T17:15:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 346.48,
     "availability": 6
   },
   {
-    "date": "2026-01-22T20:47:00.000Z",
+    "date": "2026-02-22T17:03:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 349.63,
     "availability": 3
   },
   {
-    "date": "2026-01-24T13:42:00.000Z",
+    "date": "2026-02-24T17:23:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 340.25,
     "availability": 7
   },
   {
-    "date": "2026-01-21T03:35:00.000Z",
+    "date": "2026-02-21T18:57:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 394.54,
     "availability": 3
   },
   {
-    "date": "2026-03-05T19:11:00.000Z",
+    "date": "2026-04-05T20:09:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 343.3,
     "availability": 5
   },
   {
-    "date": "2026-03-05T11:50:00.000Z",
+    "date": "2026-04-05T22:18:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 181.93,
     "availability": 3
   },
   {
-    "date": "2026-03-05T09:38:00.000Z",
+    "date": "2026-04-05T09:17:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 257.47,
     "availability": 2
   },
   {
-    "date": "2025-12-25T06:52:00.000Z",
+    "date": "2026-01-25T16:20:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 431.41,
     "availability": 2
   },
   {
-    "date": "2025-12-25T11:57:00.000Z",
+    "date": "2026-01-25T04:03:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 380.41,
     "availability": 1
   },
   {
-    "date": "2025-12-26T19:44:00.000Z",
+    "date": "2026-01-26T07:01:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 243.71,
     "availability": 7
   },
   {
-    "date": "2026-03-15T22:20:00.000Z",
+    "date": "2026-04-15T22:24:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 467.34,
     "availability": 8
   },
   {
-    "date": "2026-03-16T04:19:00.000Z",
+    "date": "2026-04-16T07:49:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 150.24,
     "availability": 2
   },
   {
-    "date": "2026-03-16T08:50:00.000Z",
+    "date": "2026-04-16T07:53:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 317.62,
     "availability": 6
   },
   {
-    "date": "2026-01-16T10:10:00.000Z",
+    "date": "2026-02-16T06:17:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 287.16,
     "availability": 3
   },
   {
-    "date": "2026-01-17T12:11:00.000Z",
+    "date": "2026-02-17T20:36:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 404.54,
     "availability": 7
   },
   {
-    "date": "2026-01-16T01:42:00.000Z",
+    "date": "2026-02-16T23:58:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 292.56,
     "availability": 9
   },
   {
-    "date": "2026-03-07T02:47:00.000Z",
+    "date": "2026-04-07T23:39:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 294.83,
     "availability": 9
   },
   {
-    "date": "2026-03-07T16:03:00.000Z",
+    "date": "2026-04-07T03:24:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 346.22,
     "availability": 1
   },
   {
-    "date": "2026-03-07T13:20:00.000Z",
+    "date": "2026-04-07T17:47:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 375.7,
     "availability": 6
   },
   {
-    "date": "2025-12-18T22:28:00.000Z",
+    "date": "2026-01-18T03:36:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 158.14,
     "availability": 6
   },
   {
-    "date": "2025-12-17T13:08:00.000Z",
+    "date": "2026-01-17T14:13:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 440.07,
     "availability": 7
   },
   {
-    "date": "2025-12-16T10:43:00.000Z",
+    "date": "2026-01-16T15:24:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 218.25,
     "availability": 4
   },
   {
-    "date": "2026-03-24T05:05:00.000Z",
+    "date": "2026-04-24T13:07:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 411.03,
     "availability": 8
   },
   {
-    "date": "2026-03-23T17:55:00.000Z",
+    "date": "2026-04-23T12:30:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 187.38,
     "availability": 4
   },
   {
-    "date": "2026-03-24T12:52:00.000Z",
+    "date": "2026-04-24T06:33:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 362.89,
     "availability": 1
   },
   {
-    "date": "2026-02-06T19:35:00.000Z",
+    "date": "2026-03-06T15:59:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 396.79,
     "availability": 1
   },
   {
-    "date": "2026-02-06T19:10:00.000Z",
+    "date": "2026-03-06T14:16:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 350.25,
     "availability": 1
   },
   {
-    "date": "2026-02-07T15:01:00.000Z",
+    "date": "2026-03-07T20:53:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 388.01,
     "availability": 9
   },
   {
-    "date": "2026-03-08T04:15:00.000Z",
+    "date": "2026-04-08T23:13:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 320.86,
     "availability": 9
   },
   {
-    "date": "2026-03-08T04:21:00.000Z",
+    "date": "2026-04-08T08:13:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 482.47,
     "availability": 8
   },
   {
-    "date": "2026-03-08T15:53:00.000Z",
+    "date": "2026-04-08T13:59:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 478.37,
     "availability": 8
   },
   {
-    "date": "2026-01-02T08:21:00.000Z",
+    "date": "2026-02-02T03:23:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 336.86,
     "availability": 4
   },
   {
-    "date": "2026-01-03T06:36:00.000Z",
+    "date": "2026-02-03T20:33:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 264.93,
     "availability": 2
   },
   {
-    "date": "2026-01-02T09:08:00.000Z",
+    "date": "2026-02-02T01:44:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 190.45,
     "availability": 5
   },
   {
-    "date": "2026-03-24T15:47:00.000Z",
+    "date": "2026-04-24T19:44:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 478.59,
     "availability": 4
   },
   {
-    "date": "2026-03-25T00:13:00.000Z",
+    "date": "2026-04-25T06:45:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 462.68,
     "availability": 3
   },
   {
-    "date": "2026-03-27T18:50:00.000Z",
+    "date": "2026-04-27T23:17:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 474.22,
     "availability": 8
   },
   {
-    "date": "2026-01-22T06:07:00.000Z",
+    "date": "2026-02-22T13:31:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 311.9,
     "availability": 2
   },
   {
-    "date": "2026-01-22T21:46:00.000Z",
+    "date": "2026-02-22T12:40:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 246.4,
     "availability": 4
   },
   {
-    "date": "2026-01-22T09:26:00.000Z",
+    "date": "2026-02-22T06:35:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 265.27,
     "availability": 7
   },
   {
-    "date": "2026-03-14T17:41:00.000Z",
+    "date": "2026-04-14T09:31:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 445.51,
     "availability": 3
   },
   {
-    "date": "2026-03-14T23:31:00.000Z",
+    "date": "2026-04-14T19:00:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 373.62,
     "availability": 2
   },
   {
-    "date": "2026-03-15T16:46:00.000Z",
+    "date": "2026-04-15T01:14:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 171.44,
     "availability": 2
   },
   {
-    "date": "2025-12-26T17:48:00.000Z",
+    "date": "2026-01-26T19:43:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 296.47,
     "availability": 1
   },
   {
-    "date": "2025-12-27T06:13:00.000Z",
+    "date": "2026-01-27T10:48:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 217.3,
     "availability": 7
   },
   {
-    "date": "2025-12-26T04:44:00.000Z",
+    "date": "2026-01-26T12:13:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 211.04,
     "availability": 7
   },
   {
-    "date": "2026-04-01T10:03:00.000Z",
+    "date": "2026-05-01T13:38:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 349.5,
     "availability": 6
   },
   {
-    "date": "2026-03-27T15:40:00.000Z",
+    "date": "2026-04-27T10:44:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 363.66,
     "availability": 3
   },
   {
-    "date": "2026-03-28T19:54:00.000Z",
+    "date": "2026-04-28T18:49:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 409.26,
     "availability": 6
   },
   {
-    "date": "2026-02-15T08:53:00.000Z",
+    "date": "2026-03-15T16:09:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 370.72,
     "availability": 7
   },
   {
-    "date": "2026-02-17T17:41:00.000Z",
+    "date": "2026-03-17T12:55:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 478.95,
     "availability": 6
   },
   {
-    "date": "2026-02-19T10:39:00.000Z",
+    "date": "2026-03-19T19:31:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 495.92,
     "availability": 2
   },
   {
-    "date": "2026-03-16T15:20:00.000Z",
+    "date": "2026-04-16T12:50:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 224.06,
     "availability": 5
   },
   {
-    "date": "2026-03-13T23:03:00.000Z",
+    "date": "2026-04-13T03:49:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 377.22,
     "availability": 5
   },
   {
-    "date": "2026-03-13T11:23:00.000Z",
+    "date": "2026-04-13T12:01:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 364.45,
     "availability": 3
   },
   {
-    "date": "2026-01-08T02:57:00.000Z",
+    "date": "2026-02-08T04:59:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 453.33,
     "availability": 9
   },
   {
-    "date": "2026-01-07T15:57:00.000Z",
+    "date": "2026-02-07T10:36:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 182.19,
     "availability": 8
   },
   {
-    "date": "2026-01-07T07:36:00.000Z",
+    "date": "2026-02-07T14:59:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 389.19,
     "availability": 1
   },
   {
-    "date": "2026-03-28T18:20:00.000Z",
+    "date": "2026-04-28T07:15:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 427.98,
     "availability": 7
   },
   {
-    "date": "2026-04-02T16:09:00.000Z",
+    "date": "2026-05-02T17:20:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 364.35,
     "availability": 2
   },
   {
-    "date": "2026-03-28T02:57:00.000Z",
+    "date": "2026-04-28T23:09:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 432.94,
     "availability": 6
   },
   {
-    "date": "2026-02-06T04:27:00.000Z",
+    "date": "2026-03-06T08:19:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 407.47,
     "availability": 2
   },
   {
-    "date": "2026-02-07T07:32:00.000Z",
+    "date": "2026-03-07T15:37:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 423.14,
     "availability": 1
   },
   {
-    "date": "2026-02-07T06:22:00.000Z",
+    "date": "2026-03-07T19:40:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 397.22,
     "availability": 7
   },
   {
-    "date": "2026-03-18T01:22:00.000Z",
+    "date": "2026-04-18T08:45:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 238.68,
     "availability": 2
   },
   {
-    "date": "2026-03-19T17:42:00.000Z",
+    "date": "2026-04-19T20:28:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 297.9,
     "availability": 9
   },
   {
-    "date": "2026-03-18T18:28:00.000Z",
+    "date": "2026-04-18T21:54:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 498.95,
     "availability": 9
   },
   {
-    "date": "2026-01-04T11:58:00.000Z",
+    "date": "2026-02-04T09:50:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 490.96,
     "availability": 5
   },
   {
-    "date": "2026-01-04T17:36:00.000Z",
+    "date": "2026-02-04T18:32:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 332.97,
     "availability": 6
   },
   {
-    "date": "2026-01-04T09:21:00.000Z",
+    "date": "2026-02-04T11:48:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 167.35,
     "availability": 6
   },
   {
-    "date": "2026-04-03T15:15:00.000Z",
+    "date": "2026-05-03T22:34:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 223.08,
     "availability": 1
   },
   {
-    "date": "2026-04-03T14:41:00.000Z",
+    "date": "2026-05-03T20:58:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 307.35,
     "availability": 1
   },
   {
-    "date": "2026-04-02T10:32:00.000Z",
+    "date": "2026-05-02T17:32:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 240.16,
     "availability": 1
   },
   {
-    "date": "2026-02-25T18:19:00.000Z",
+    "date": "2026-03-25T08:16:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 489.75,
     "availability": 1
   },
   {
-    "date": "2026-02-24T11:39:00.000Z",
+    "date": "2026-03-24T09:28:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 426.58,
     "availability": 8
   },
   {
-    "date": "2026-02-23T01:15:00.000Z",
+    "date": "2026-03-23T05:15:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 428.47,
     "availability": 6
   },
   {
-    "date": "2026-03-18T22:33:00.000Z",
+    "date": "2026-04-18T15:15:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 335.48,
     "availability": 7
   },
   {
-    "date": "2026-03-20T00:51:00.000Z",
+    "date": "2026-04-20T22:08:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 171.41,
     "availability": 3
   },
   {
-    "date": "2026-03-17T00:45:00.000Z",
+    "date": "2026-04-17T13:05:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 351.29,
     "availability": 3
   },
   {
-    "date": "2026-01-14T04:07:00.000Z",
+    "date": "2026-02-14T05:18:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 452.92,
     "availability": 5
   },
   {
-    "date": "2026-01-16T23:08:00.000Z",
+    "date": "2026-02-16T15:16:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 456.88,
     "availability": 3
   },
   {
-    "date": "2026-01-15T20:02:00.000Z",
+    "date": "2026-02-15T14:20:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 270.88,
     "availability": 4
   },
   {
-    "date": "2026-04-01T04:32:00.000Z",
+    "date": "2026-05-01T21:42:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 314.06,
     "availability": 2
   },
   {
-    "date": "2026-04-01T23:59:00.000Z",
+    "date": "2026-05-01T11:04:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 499.86,
     "availability": 1
   },
   {
-    "date": "2026-04-01T21:01:00.000Z",
+    "date": "2026-05-01T14:05:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 340.37,
     "availability": 6
   },
   {
-    "date": "2026-02-15T23:18:00.000Z",
+    "date": "2026-03-15T14:09:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 453.18,
     "availability": 6
   },
   {
-    "date": "2026-02-14T17:57:00.000Z",
+    "date": "2026-03-14T02:37:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 454.46,
     "availability": 3
   },
   {
-    "date": "2026-02-15T19:20:00.000Z",
+    "date": "2026-03-15T14:52:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 237.23,
     "availability": 1
   },
   {
-    "date": "2026-03-26T02:45:00.000Z",
+    "date": "2026-04-26T01:46:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 160.03,
     "availability": 6
   },
   {
-    "date": "2026-03-27T21:19:00.000Z",
+    "date": "2026-04-27T14:56:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 412.09,
     "availability": 7
   },
   {
-    "date": "2026-03-27T17:23:00.000Z",
+    "date": "2026-04-27T06:24:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 394.48,
     "availability": 1
   },
   {
-    "date": "2026-01-08T06:29:00.000Z",
+    "date": "2026-02-08T18:51:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 444.79,
     "availability": 1
   },
   {
-    "date": "2026-01-10T07:58:00.000Z",
+    "date": "2026-02-10T22:46:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 189.69,
     "availability": 5
   },
   {
-    "date": "2026-01-09T05:48:00.000Z",
+    "date": "2026-02-09T18:42:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 301.96,
     "availability": 2
   },
   {
-    "date": "2026-03-25T15:55:00.000Z",
+    "date": "2026-04-25T18:33:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 186.99,
     "availability": 4
   },
   {
-    "date": "2026-03-26T15:56:00.000Z",
+    "date": "2026-04-26T23:54:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 498.52,
     "availability": 9
   },
   {
-    "date": "2026-03-25T14:59:00.000Z",
+    "date": "2026-04-25T17:46:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 285.79,
     "availability": 5
   },
   {
-    "date": "2026-01-17T20:17:00.000Z",
+    "date": "2026-02-17T04:37:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 319.7,
     "availability": 7
   },
   {
-    "date": "2026-01-18T01:58:00.000Z",
+    "date": "2026-02-18T18:48:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 470.92,
     "availability": 9
   },
   {
-    "date": "2026-01-17T17:33:00.000Z",
+    "date": "2026-02-17T10:10:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 495.15,
     "availability": 8
   },
   {
-    "date": "2026-02-24T04:10:00.000Z",
+    "date": "2026-03-24T20:47:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 376.6,
     "availability": 8
   },
   {
-    "date": "2026-02-22T10:08:00.000Z",
+    "date": "2026-03-22T07:31:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 452.16,
     "availability": 4
   },
   {
-    "date": "2026-02-24T03:43:00.000Z",
+    "date": "2026-03-24T22:44:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 444.19,
     "availability": 2
   },
   {
-    "date": "2026-04-03T02:18:00.000Z",
+    "date": "2026-05-03T02:47:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 270.43,
     "availability": 5
   },
   {
-    "date": "2026-04-02T01:01:00.000Z",
+    "date": "2026-05-02T07:36:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 310.51,
     "availability": 4
   },
   {
-    "date": "2026-04-02T22:20:00.000Z",
+    "date": "2026-05-02T23:12:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 244.72,
     "availability": 5
   },
   {
-    "date": "2026-01-21T05:57:00.000Z",
+    "date": "2026-02-21T23:10:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 454.47,
     "availability": 1
   },
   {
-    "date": "2026-01-23T05:51:00.000Z",
+    "date": "2026-02-23T22:24:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 439.74,
     "availability": 5
   },
   {
-    "date": "2026-01-20T04:12:00.000Z",
+    "date": "2026-02-20T09:26:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 310.23,
     "availability": 7
   },
   {
-    "date": "2026-03-01T00:06:00.000Z",
+    "date": "2026-04-01T02:51:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 171.77,
     "availability": 4
   },
   {
-    "date": "2026-02-28T21:23:00.000Z",
+    "date": "2026-03-28T19:50:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 202.33,
     "availability": 8
   },
   {
-    "date": "2026-02-28T14:41:00.000Z",
+    "date": "2026-03-28T16:33:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 404.14,
     "availability": 8
   },
   {
-    "date": "2026-02-28T06:46:00.000Z",
+    "date": "2026-03-28T11:07:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 461.07,
     "availability": 7
   },
   {
-    "date": "2026-02-27T10:41:00.000Z",
+    "date": "2026-03-27T20:14:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 436.15,
     "availability": 4
   },
   {
-    "date": "2026-03-01T02:41:00.000Z",
+    "date": "2026-04-01T19:24:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 336.08,
     "availability": 5
   },
   {
-    "date": "2026-01-13T12:50:00.000Z",
+    "date": "2026-02-13T03:03:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 246.97,
     "availability": 3
   },
   {
-    "date": "2026-01-13T23:13:00.000Z",
+    "date": "2026-02-13T07:17:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 263.27,
     "availability": 8
   },
   {
-    "date": "2026-01-13T10:20:00.000Z",
+    "date": "2026-02-13T07:34:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 222.84,
     "availability": 3
   },
   {
-    "date": "2026-02-03T07:09:00.000Z",
+    "date": "2026-03-03T01:29:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 299.4,
     "availability": 9
   },
   {
-    "date": "2026-02-03T10:02:00.000Z",
+    "date": "2026-03-03T10:31:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 243.23,
     "availability": 8
   },
   {
-    "date": "2026-02-03T22:55:00.000Z",
+    "date": "2026-03-03T09:58:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 168.32,
     "availability": 6
   },
   {
-    "date": "2026-03-03T10:57:00.000Z",
+    "date": "2026-04-03T21:56:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 225.55,
     "availability": 8
   },
   {
-    "date": "2026-03-01T17:42:00.000Z",
+    "date": "2026-04-01T09:11:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 498.37,
     "availability": 2
   },
   {
-    "date": "2026-03-01T03:48:00.000Z",
+    "date": "2026-04-01T13:14:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 286.72,
     "availability": 5
   },
   {
-    "date": "2026-03-02T19:12:00.000Z",
+    "date": "2026-04-02T00:18:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 153.61,
     "availability": 8
   },
   {
-    "date": "2026-03-02T16:36:00.000Z",
+    "date": "2026-04-02T02:25:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 202.87,
     "availability": 3
   },
   {
-    "date": "2026-03-04T21:43:00.000Z",
+    "date": "2026-04-04T16:24:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 253.68,
     "availability": 6
   },
   {
-    "date": "2026-01-18T17:08:00.000Z",
+    "date": "2026-02-18T21:57:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 170.07,
     "availability": 9
   },
   {
-    "date": "2026-01-17T12:35:00.000Z",
+    "date": "2026-02-17T11:14:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 482.97,
     "availability": 1
   },
   {
-    "date": "2026-01-17T09:36:00.000Z",
+    "date": "2026-02-17T08:44:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 469.49,
     "availability": 3
   },
   {
-    "date": "2026-02-07T20:20:00.000Z",
+    "date": "2026-03-07T11:22:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 280.12,
     "availability": 9
   },
   {
-    "date": "2026-02-06T21:10:00.000Z",
+    "date": "2026-03-06T10:28:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 207.43,
     "availability": 4
   },
   {
-    "date": "2026-02-08T18:28:00.000Z",
+    "date": "2026-03-08T23:22:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 266.12,
     "availability": 8
   },
   {
-    "date": "2026-03-12T07:06:00.000Z",
+    "date": "2026-04-12T20:45:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 153.23,
     "availability": 6
   },
   {
-    "date": "2026-03-12T14:20:00.000Z",
+    "date": "2026-04-12T10:53:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 475.35,
     "availability": 6
   },
   {
-    "date": "2026-03-12T10:56:00.000Z",
+    "date": "2026-04-12T05:35:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 288.39,
     "availability": 8
   },
   {
-    "date": "2026-03-11T04:55:00.000Z",
+    "date": "2026-04-11T12:25:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 345.07,
     "availability": 1
   },
   {
-    "date": "2026-03-11T18:16:00.000Z",
+    "date": "2026-04-11T22:37:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 402.91,
     "availability": 2
   },
   {
-    "date": "2026-03-12T01:49:00.000Z",
+    "date": "2026-04-12T11:23:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 210.1,
     "availability": 7
   },
   {
-    "date": "2026-01-20T23:48:00.000Z",
+    "date": "2026-02-20T23:55:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 443.08,
     "availability": 4
   },
   {
-    "date": "2026-01-20T01:26:00.000Z",
+    "date": "2026-02-20T10:57:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 288.05,
     "availability": 3
   },
   {
-    "date": "2026-01-20T00:46:00.000Z",
+    "date": "2026-02-20T20:09:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 271.66,
     "availability": 5
   },
   {
-    "date": "2026-02-15T00:17:00.000Z",
+    "date": "2026-03-15T06:10:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 214.85,
     "availability": 9
   },
   {
-    "date": "2026-02-15T22:35:00.000Z",
+    "date": "2026-03-15T08:25:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 275.13,
     "availability": 1
   },
   {
-    "date": "2026-02-14T12:23:00.000Z",
+    "date": "2026-03-14T19:21:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 331.87,
     "availability": 1
   },
   {
-    "date": "2026-03-19T11:28:00.000Z",
+    "date": "2026-04-19T13:51:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 251.88,
     "availability": 7
   },
   {
-    "date": "2026-03-19T15:27:00.000Z",
+    "date": "2026-04-19T05:49:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 318.13,
     "availability": 9
   },
   {
-    "date": "2026-03-18T19:02:00.000Z",
+    "date": "2026-04-18T14:32:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 179.02,
     "availability": 7
   },
   {
-    "date": "2026-03-19T03:08:00.000Z",
+    "date": "2026-04-19T07:09:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 457.14,
     "availability": 3
   },
   {
-    "date": "2026-03-21T02:48:00.000Z",
+    "date": "2026-04-21T07:55:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 260.2,
     "availability": 3
   },
   {
-    "date": "2026-03-21T04:07:00.000Z",
+    "date": "2026-04-21T18:32:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 249.97,
     "availability": 2
   },
   {
-    "date": "2026-02-04T23:14:00.000Z",
+    "date": "2026-03-04T14:42:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 164.18,
     "availability": 8
   },
   {
-    "date": "2026-02-05T16:10:00.000Z",
+    "date": "2026-03-05T12:44:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 333.92,
     "availability": 1
   },
   {
-    "date": "2026-02-06T19:11:00.000Z",
+    "date": "2026-03-06T07:54:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 423.2,
     "availability": 3
   },
   {
-    "date": "2026-02-18T16:51:00.000Z",
+    "date": "2026-03-18T06:47:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 428.61,
     "availability": 7
   },
   {
-    "date": "2026-02-18T02:21:00.000Z",
+    "date": "2026-03-18T02:05:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 364.88,
     "availability": 3
   },
   {
-    "date": "2026-02-18T13:32:00.000Z",
+    "date": "2026-03-18T01:48:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 370.24,
     "availability": 9
   },
   {
-    "date": "2026-04-04T10:47:00.000Z",
+    "date": "2026-05-04T08:29:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 463.62,
     "availability": 1
   },
   {
-    "date": "2026-04-04T14:52:00.000Z",
+    "date": "2026-05-04T11:08:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 465.95,
     "availability": 9
   },
   {
-    "date": "2026-04-05T10:55:00.000Z",
+    "date": "2026-05-06T00:26:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 492.09,
     "availability": 9
   },
   {
-    "date": "2026-04-01T10:44:00.000Z",
+    "date": "2026-05-01T11:21:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 205.69,
     "availability": 1
   },
   {
-    "date": "2026-04-01T17:17:00.000Z",
+    "date": "2026-05-01T15:20:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 425.36,
     "availability": 1
   },
   {
-    "date": "2026-04-01T13:26:00.000Z",
+    "date": "2026-05-01T14:35:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 396.39,
     "availability": 6
   },
   {
-    "date": "2026-02-08T19:48:00.000Z",
+    "date": "2026-03-08T22:07:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 463.2,
     "availability": 2
   },
   {
-    "date": "2026-02-08T18:24:00.000Z",
+    "date": "2026-03-08T15:57:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 201.59,
     "availability": 1
   },
   {
-    "date": "2026-02-09T04:07:00.000Z",
+    "date": "2026-03-09T15:20:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 196.34,
     "availability": 9
   },
   {
-    "date": "2026-02-25T08:36:00.000Z",
+    "date": "2026-03-25T22:06:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 374.97,
     "availability": 2
   },
   {
-    "date": "2026-02-25T14:55:00.000Z",
+    "date": "2026-03-25T02:15:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 312.66,
     "availability": 6
   },
   {
-    "date": "2026-02-28T00:45:00.000Z",
+    "date": "2026-03-28T15:55:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 183.34,
     "availability": 9
   },
   {
-    "date": "2026-02-13T09:45:00.000Z",
+    "date": "2026-03-13T02:20:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 492.09,
     "availability": 2
   },
   {
-    "date": "2026-02-14T22:19:00.000Z",
+    "date": "2026-03-14T20:21:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 250.5,
     "availability": 8
   },
   {
-    "date": "2026-02-13T21:18:00.000Z",
+    "date": "2026-03-13T05:04:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 271.71,
     "availability": 2
   },
   {
-    "date": "2026-03-01T11:58:00.000Z",
+    "date": "2026-04-01T04:41:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 398,
     "availability": 2
   },
   {
-    "date": "2026-03-02T00:44:00.000Z",
+    "date": "2026-04-02T02:16:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 210.09,
     "availability": 5
   },
   {
-    "date": "2026-03-01T02:06:00.000Z",
+    "date": "2026-04-01T15:41:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 208.8,
     "availability": 9
   },
   {
-    "date": "2026-04-03T06:46:00.000Z",
+    "date": "2026-05-03T04:25:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 471.76,
     "availability": 9
   },
   {
-    "date": "2026-04-03T20:43:00.000Z",
+    "date": "2026-05-03T22:56:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 450.97,
     "availability": 1
   },
   {
-    "date": "2026-04-03T14:59:00.000Z",
+    "date": "2026-05-03T19:30:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 215.42,
     "availability": 5
   },
   {
-    "date": "2026-02-17T21:22:00.000Z",
+    "date": "2026-03-17T13:37:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 429.74,
     "availability": 4
   },
   {
-    "date": "2026-02-17T05:24:00.000Z",
+    "date": "2026-03-17T16:01:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 421.78,
     "availability": 6
   },
   {
-    "date": "2026-02-17T23:20:00.000Z",
+    "date": "2026-03-17T03:38:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 364.43,
     "availability": 2
   },
   {
-    "date": "2026-03-09T19:55:00.000Z",
+    "date": "2026-04-09T16:44:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 307.28,
     "availability": 1
   },
   {
-    "date": "2026-03-10T02:44:00.000Z",
+    "date": "2026-04-10T14:22:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 151.85,
     "availability": 5
   },
   {
-    "date": "2026-03-10T11:46:00.000Z",
+    "date": "2026-04-10T21:31:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 203.61,
     "availability": 2
   },
   {
-    "date": "2026-02-26T22:54:00.000Z",
+    "date": "2026-03-26T03:48:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 321.32,
     "availability": 9
   },
   {
-    "date": "2026-02-27T00:55:00.000Z",
+    "date": "2026-03-27T07:42:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 390.46,
     "availability": 6
   },
   {
-    "date": "2026-02-27T07:03:00.000Z",
+    "date": "2026-03-27T06:07:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 385.77,
     "availability": 6
   },
   {
-    "date": "2026-03-22T02:02:00.000Z",
+    "date": "2026-04-22T01:34:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 174.19,
     "availability": 6
   },
   {
-    "date": "2026-03-20T19:41:00.000Z",
+    "date": "2026-04-20T13:15:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 396.52,
     "availability": 5
   },
   {
-    "date": "2026-03-21T01:20:00.000Z",
+    "date": "2026-04-21T05:03:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 408.31,
     "availability": 6
   },
   {
-    "date": "2026-03-11T00:57:00.000Z",
+    "date": "2026-04-11T10:07:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 189.68,
     "availability": 3
   },
   {
-    "date": "2026-03-10T06:22:00.000Z",
+    "date": "2026-04-10T16:48:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 276.17,
     "availability": 5
   },
   {
-    "date": "2026-03-11T17:44:00.000Z",
+    "date": "2026-04-11T09:06:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 190.55,
     "availability": 1
   },
   {
-    "date": "2026-04-07T02:00:00.000Z",
+    "date": "2026-05-07T15:07:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 316.47,
     "availability": 4
   },
   {
-    "date": "2026-04-06T10:03:00.000Z",
+    "date": "2026-05-06T05:34:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 469.6,
     "availability": 6
   },
   {
-    "date": "2026-04-05T08:41:00.000Z",
+    "date": "2026-05-05T17:37:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 321.23,
     "availability": 7
   },
   {
-    "date": "2026-03-23T03:40:00.000Z",
+    "date": "2026-04-23T22:21:00.000Z",
     "origin": "MDZ",
     "destination": "COR",
     "price": 356.62,
     "availability": 1
   },
   {
-    "date": "2026-03-23T00:42:00.000Z",
+    "date": "2026-04-23T17:18:00.000Z",
     "origin": "BRC",
     "destination": "COR",
     "price": 202.3,
     "availability": 6
   },
   {
-    "date": "2026-03-22T21:31:00.000Z",
+    "date": "2026-04-22T09:01:00.000Z",
     "origin": "BRC",
     "destination": "EPA",
     "price": 271.38,
